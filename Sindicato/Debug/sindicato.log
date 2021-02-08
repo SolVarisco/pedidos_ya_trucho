@@ -1,0 +1,37 @@
+[INFO] 19:57:13:199 Sindicato/(12625:12625): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 19:57:55:93 Sindicato/(12625:12626): Se creo el archivo "AsadoConFritas.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/AsadoConFritas.AFIP).
+[INFO] 19:57:55:95 Sindicato/(12625:12626): Asignacipn del bloque 0 al archivo /home/utnso/afip_prueba/Files/Recetas/AsadoConFritas.AFIP
+[INFO] 19:57:55:98 Sindicato/(12625:12626): Asignacipn del bloque 1 al archivo /home/utnso/afip_prueba/Files/Recetas/AsadoConFritas.AFIP
+[INFO] 19:57:55:101 Sindicato/(12625:12626): Asignacipn del bloque 2 al archivo /home/utnso/afip_prueba/Files/Recetas/AsadoConFritas.AFIP
+[INFO] 19:58:17:325 Sindicato/(12625:12626): Se creo el archivo "VacioConEnsalada.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/VacioConEnsalada.AFIP).
+[INFO] 19:58:17:335 Sindicato/(12625:12626): Asignacipn del bloque 3 al archivo /home/utnso/afip_prueba/Files/Recetas/VacioConEnsalada.AFIP
+[INFO] 19:58:17:340 Sindicato/(12625:12626): Asignacipn del bloque 4 al archivo /home/utnso/afip_prueba/Files/Recetas/VacioConEnsalada.AFIP
+[INFO] 19:58:17:342 Sindicato/(12625:12626): Asignacipn del bloque 5 al archivo /home/utnso/afip_prueba/Files/Recetas/VacioConEnsalada.AFIP
+[INFO] 19:58:25:751 Sindicato/(12625:12626): Se creo el archivo "Bondiolita.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/Bondiolita.AFIP).
+[INFO] 19:58:25:753 Sindicato/(12625:12626): Asignacipn del bloque 6 al archivo /home/utnso/afip_prueba/Files/Recetas/Bondiolita.AFIP
+[INFO] 19:58:25:756 Sindicato/(12625:12626): Asignacipn del bloque 7 al archivo /home/utnso/afip_prueba/Files/Recetas/Bondiolita.AFIP
+[INFO] 19:58:25:759 Sindicato/(12625:12626): Asignacipn del bloque 8 al archivo /home/utnso/afip_prueba/Files/Recetas/Bondiolita.AFIP
+[INFO] 19:58:37:553 Sindicato/(12625:12626): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/Choripan.AFIP).
+[INFO] 19:58:37:555 Sindicato/(12625:12626): Asignacipn del bloque 9 al archivo /home/utnso/afip_prueba/Files/Recetas/Choripan.AFIP
+[INFO] 19:58:37:558 Sindicato/(12625:12626): Asignacipn del bloque 10 al archivo /home/utnso/afip_prueba/Files/Recetas/Choripan.AFIP
+[INFO] 20:01:08:154 Sindicato/(12625:12626): Se creo el archivo "Molleja.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/Molleja.AFIP).
+[INFO] 20:01:08:156 Sindicato/(12625:12626): Asignacipn del bloque 11 al archivo /home/utnso/afip_prueba/Files/Recetas/Molleja.AFIP
+[INFO] 20:01:08:159 Sindicato/(12625:12626): Asignacipn del bloque 12 al archivo /home/utnso/afip_prueba/Files/Recetas/Molleja.AFIP
+[INFO] 20:01:20:869 Sindicato/(12625:12626): Se creo el archivo "PizzaALaPiedra.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/PizzaALaPiedra.AFIP).
+[INFO] 20:01:20:870 Sindicato/(12625:12626): Asignacipn del bloque 13 al archivo /home/utnso/afip_prueba/Files/Recetas/PizzaALaPiedra.AFIP
+[INFO] 20:01:20:873 Sindicato/(12625:12626): Asignacipn del bloque 14 al archivo /home/utnso/afip_prueba/Files/Recetas/PizzaALaPiedra.AFIP
+[INFO] 20:01:30:273 Sindicato/(12625:12626): Se creo el archivo "PapasFritas.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/PapasFritas.AFIP).
+[INFO] 20:01:30:275 Sindicato/(12625:12626): Asignacipn del bloque 15 al archivo /home/utnso/afip_prueba/Files/Recetas/PapasFritas.AFIP
+[INFO] 20:01:30:278 Sindicato/(12625:12626): Asignacipn del bloque 16 al archivo /home/utnso/afip_prueba/Files/Recetas/PapasFritas.AFIP
+[INFO] 20:01:37:928 Sindicato/(12625:12626): Se creo el archivo "Ensalada.AFIP" (path: /home/utnso/afip_prueba/Files/Recetas/Ensalada.AFIP).
+[INFO] 20:01:37:930 Sindicato/(12625:12626): Asignacipn del bloque 17 al archivo /home/utnso/afip_prueba/Files/Recetas/Ensalada.AFIP
+[INFO] 20:01:37:933 Sindicato/(12625:12626): Asignacipn del bloque 18 al archivo /home/utnso/afip_prueba/Files/Recetas/Ensalada.AFIP
+[INFO] 20:02:18:83 Sindicato/(12625:12626): Se creo el directio LaParri (path: /home/utnso/afip_prueba/Files/Restaurantes/LaParri)
+[INFO] 20:02:18:84 Sindicato/(12625:12626): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 20:02:18:85 Sindicato/(12625:12626): Asignacipn del bloque 19 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:88 Sindicato/(12625:12626): Asignacipn del bloque 20 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:90 Sindicato/(12625:12626): Asignacipn del bloque 21 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:93 Sindicato/(12625:12626): Asignacipn del bloque 22 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:97 Sindicato/(12625:12626): Asignacipn del bloque 23 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:100 Sindicato/(12625:12626): Asignacipn del bloque 24 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:02:18:103 Sindicato/(12625:12626): Asignacipn del bloque 25 al archivo /home/utnso/afip_prueba/Files/Restaurantes/LaParri/Info.AFIP

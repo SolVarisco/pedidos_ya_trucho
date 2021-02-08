@@ -1,0 +1,264 @@
+[INFO] 13:02:45:908 Comanda/(10967:10967): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 13:02:53:76 Comanda/(10967:10990): Se recibio un Handshake del modulo APP
+[INFO] 13:03:18:682 Comanda/(10967:11010): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 13:03:18:683 Comanda/(10967:11010): Se creó una nueva tabla de paginas para el pedido 0 del restaurante DEFAULT
+[INFO] 13:03:45:61 Comanda/(10967:11018): Se almaceno la información del plato Milanesa del pedido 0 del restaurante DEFAULT en memoria
+[INFO] 13:03:45:61 Comanda/(10967:11018): Frame utilizado en memoria: 0 	Base: 0 (real: 146145840)
+[INFO] 13:03:45:61 Comanda/(10967:11018): Base de la pagina utilizada en swap: 0
+[INFO] 13:04:26:956 Comanda/(10967:11026): Informacion del plato Milanesa eliminada de memoria
+[INFO] 13:04:26:956 Comanda/(10967:11026): Frame eliminado: 0	Base: 0 (real: 146145840)
+[INFO] 13:04:26:956 Comanda/(10967:11026): Base de la particion eliminada en swap: 0
+[INFO] 13:04:26:956 Comanda/(10967:11026): Segmento del pedido 0 del restaurante DEFAULT eliminado
+[INFO] 13:06:54:614 Comanda/(11054:11054): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 13:07:13:241 Comanda/(11054:11098): Se recibio un Handshake del modulo APP
+[INFO] 13:07:40:950 Comanda/(11054:11127): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 13:07:40:950 Comanda/(11054:11127): Se creó una nueva tabla de paginas para el pedido 0 del restaurante DEFAULT
+[INFO] 13:07:49:639 Comanda/(11054:11134): Se almaceno la información del plato Milanesa del pedido 0 del restaurante DEFAULT en memoria
+[INFO] 13:07:49:640 Comanda/(11054:11134): Frame utilizado en memoria: 0 	Base: 0 (real: 134718000)
+[INFO] 13:07:49:640 Comanda/(11054:11134): Base de la pagina utilizada en swap: 0
+[WARNING] 13:08:03:951 Comanda/(11054:11139): El restaurante Milanesa no se encuentra registrado en el sistema
+
+[INFO] 13:11:51:458 Comanda/(11054:11217): Informacion del plato Milanesa eliminada de memoria
+[INFO] 13:11:51:460 Comanda/(11054:11217): Frame eliminado: 0	Base: 0 (real: 134718000)
+[INFO] 13:11:51:460 Comanda/(11054:11217): Base de la particion eliminada en swap: 0
+[INFO] 13:11:51:460 Comanda/(11054:11217): Segmento del pedido 0 del restaurante DEFAULT eliminado
+[INFO] 13:13:21:178 Comanda/(11239:11239): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 13:14:54:549 Comanda/(11278:11278): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 13:17:24:83 Comanda/(11370:11370): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 13:17:35:312 Comanda/(11370:11392): Se recibio un Handshake del modulo APP
+[INFO] 13:18:06:134 Comanda/(11370:11414): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 13:18:06:134 Comanda/(11370:11414): Se creó una nueva tabla de paginas para el pedido 0 del restaurante DEFAULT
+[INFO] 13:18:17:883 Comanda/(11370:11419): Se almaceno la información del plato Milanesa del pedido 0 del restaurante DEFAULT en memoria
+[INFO] 13:18:17:883 Comanda/(11370:11419): Frame utilizado en memoria: 0 	Base: 0 (real: 163410480)
+[INFO] 13:18:17:883 Comanda/(11370:11419): Base de la pagina utilizada en swap: 0
+[INFO] 13:19:02:542 Comanda/(11370:11432): Informacion del plato Milanesa eliminada de memoria
+[INFO] 13:19:02:544 Comanda/(11370:11432): Frame eliminado: 0	Base: 0 (real: 163410480)
+[INFO] 13:19:02:544 Comanda/(11370:11432): Base de la particion eliminada en swap: 0
+[INFO] 13:19:02:544 Comanda/(11370:11432): Segmento del pedido 0 del restaurante DEFAULT eliminado
+[INFO] 20:07:18:428 Comanda/(3760:3760): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 20:07:22:821 Comanda/(3760:3778): Se recibio un Handshake del modulo APP
+[INFO] 20:10:45:277 Comanda/(3760:3886): Se creó una nueva tabla de segmentos para el restaurante LaParri
+[INFO] 20:10:45:278 Comanda/(3760:3886): Se creó una nueva tabla de paginas para el pedido 0 del restaurante LaParri
+[INFO] 20:12:13:81 Comanda/(3760:4088): Se almaceno la información del plato AsadoJugoso del pedido 0 del restaurante LaParri en memoria
+[INFO] 20:12:13:82 Comanda/(3760:4088): Frame utilizado en memoria: 0 	Base: 0 (real: 157241904)
+[INFO] 20:12:13:82 Comanda/(3760:4088): Base de la pagina utilizada en swap: 0
+[INFO] 20:14:11:850 Comanda/(3760:4151): Se almaceno la información del plato AsadoSeco del pedido 0 del restaurante LaParri en memoria
+[INFO] 20:14:11:850 Comanda/(3760:4151): Frame utilizado en memoria: 1 	Base: 32 (real: 157241936)
+[INFO] 20:14:11:850 Comanda/(3760:4151): Base de la pagina utilizada en swap: 32
+[INFO] 20:16:40:246 Comanda/(3760:4231): Se almaceno la información del plato Choripan del pedido 0 del restaurante LaParri en memoria
+[INFO] 20:16:40:246 Comanda/(3760:4231): Frame utilizado en memoria: 2 	Base: 64 (real: 157241968)
+[INFO] 20:16:40:246 Comanda/(3760:4231): Base de la pagina utilizada en swap: 64
+[INFO] 20:18:10:764 Comanda/(4269:4269): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 20:18:22:58 Comanda/(4269:4301): Se recibio un Handshake del modulo APP
+[INFO] 20:23:05:749 Comanda/(4675:4675): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 20:30:20:465 Comanda/(5043:5043): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 20:30:25:543 Comanda/(5043:5067): Se recibio un Handshake del modulo APP
+[INFO] 20:31:32:157 Comanda/(5043:5149): Se creó una nueva tabla de segmentos para el restaurante LaParri
+[INFO] 20:31:32:157 Comanda/(5043:5149): Se creó una nueva tabla de paginas para el pedido 2 del restaurante LaParri
+[INFO] 11:39:36:394 Comanda/(5018:5018): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 11:39:42:139 Comanda/(5018:5046): Se recibio un Handshake del modulo APP
+[INFO] 11:40:33:62 Comanda/(5018:5095): Se creó una nueva tabla de segmentos para el restaurante LaParri
+[INFO] 11:40:33:64 Comanda/(5018:5095): Se creó una nueva tabla de paginas para el pedido 4 del restaurante LaParri
+[INFO] 11:41:09:485 Comanda/(5018:5109): Se almaceno la información del plato Choripan del pedido 4 del restaurante LaParri en memoria
+[INFO] 11:41:09:485 Comanda/(5018:5109): Frame utilizado en memoria: 0 	Base: 0 (real: 154485296)
+[INFO] 11:41:09:485 Comanda/(5018:5109): Base de la pagina utilizada en swap: 0
+[INFO] 11:41:39:262 Comanda/(5018:5132): Se actualizo la información del plato Choripan del pedido 4 del restaurante LaParri en memoria
+[INFO] 11:41:39:262 Comanda/(5018:5132): Todos los/as Choripans estan listos
+[INFO] 11:41:39:262 Comanda/(5018:5132): El pedido 4 del restaurante LaParri fue terminado
+[INFO] 11:41:51:275 Comanda/(5018:5133): Informacion del plato Choripan eliminada de memoria
+[INFO] 11:41:51:276 Comanda/(5018:5133): Frame eliminado: 0	Base: 0 (real: 154485296)
+[INFO] 11:41:51:276 Comanda/(5018:5133): Base de la particion eliminada en swap: 0
+[INFO] 11:41:51:276 Comanda/(5018:5133): Segmento del pedido 4 del restaurante LaParri eliminado
+[INFO] 11:56:01:283 Comanda/(5687:5687): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 12:00:32:59 Comanda/(5687:5822): Se recibio un Handshake del modulo APP
+[INFO] 12:01:17:969 Comanda/(5687:5920): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 12:01:17:969 Comanda/(5687:5920): Se creó una nueva tabla de paginas para el pedido 0 del restaurante DEFAULT
+[INFO] 12:02:45:746 Comanda/(5687:5967): Se creó una nueva tabla de paginas para el pedido 1 del restaurante DEFAULT
+[INFO] 12:02:57:161 Comanda/(5687:5970): Se almaceno la información del plato Milanesa del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 12:02:57:161 Comanda/(5687:5970): Frame utilizado en memoria: 0 	Base: 0 (real: 167490096)
+[INFO] 12:02:57:161 Comanda/(5687:5970): Base de la pagina utilizada en swap: 0
+[INFO] 12:03:27:19 Comanda/(5687:5983): Se creó una nueva tabla de paginas para el pedido 2 del restaurante DEFAULT
+[INFO] 12:03:37:968 Comanda/(5687:5987): Se almaceno la información del plato Milanesa del pedido 2 del restaurante DEFAULT en memoria
+[INFO] 12:03:37:968 Comanda/(5687:5987): Frame utilizado en memoria: 1 	Base: 32 (real: 167490128)
+[INFO] 12:03:37:968 Comanda/(5687:5987): Base de la pagina utilizada en swap: 32
+[INFO] 12:04:12:260 Comanda/(5687:5998): Se creó una nueva tabla de paginas para el pedido 3 del restaurante DEFAULT
+[INFO] 12:04:22:556 Comanda/(5687:6003): Se almaceno la información del plato Milanesa del pedido 3 del restaurante DEFAULT en memoria
+[INFO] 12:04:22:558 Comanda/(5687:6003): Frame utilizado en memoria: 2 	Base: 64 (real: 167490160)
+[INFO] 12:04:22:558 Comanda/(5687:6003): Base de la pagina utilizada en swap: 64
+[INFO] 12:06:26:211 Comanda/(5687:6040): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:06:26:211 Comanda/(5687:6040): Frame eliminado: 2	Base: 64 (real: 167490160)
+[INFO] 12:06:26:211 Comanda/(5687:6040): Base de la particion eliminada en swap: 64
+[INFO] 12:06:26:211 Comanda/(5687:6040): Segmento del pedido 3 del restaurante DEFAULT eliminado
+[INFO] 12:06:40:215 Comanda/(5687:6041): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:06:40:216 Comanda/(5687:6041): Frame eliminado: 1	Base: 32 (real: 167490128)
+[INFO] 12:06:40:216 Comanda/(5687:6041): Base de la particion eliminada en swap: 32
+[INFO] 12:06:40:216 Comanda/(5687:6041): Segmento del pedido 2 del restaurante DEFAULT eliminado
+[INFO] 12:06:49:230 Comanda/(5687:6042): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:06:49:231 Comanda/(5687:6042): Frame eliminado: 0	Base: 0 (real: 167490096)
+[INFO] 12:06:49:231 Comanda/(5687:6042): Base de la particion eliminada en swap: 0
+[INFO] 12:06:49:231 Comanda/(5687:6042): Segmento del pedido 1 del restaurante DEFAULT eliminado
+[INFO] 12:39:07:309 Comanda/(7314:7314): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 12:39:11:624 Comanda/(7314:7320): Se recibio un Handshake del modulo APP
+[INFO] 12:45:44:316 Comanda/(7314:7763): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 12:45:44:316 Comanda/(7314:7763): Se creó una nueva tabla de paginas para el pedido 0 del restaurante DEFAULT
+[INFO] 12:46:00:250 Comanda/(7314:7776): Se creó una nueva tabla de paginas para el pedido 1 del restaurante DEFAULT
+[INFO] 12:46:07:569 Comanda/(7314:7784): Se almaceno la información del plato Milanesa del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 12:46:07:570 Comanda/(7314:7784): Frame utilizado en memoria: 0 	Base: 0 (real: 150061616)
+[INFO] 12:46:07:570 Comanda/(7314:7784): Base de la pagina utilizada en swap: 0
+[INFO] 12:46:33:231 Comanda/(7314:7792): Se creó una nueva tabla de paginas para el pedido 2 del restaurante DEFAULT
+[INFO] 12:46:39:929 Comanda/(7314:7796): Se almaceno la información del plato Milanesa del pedido 2 del restaurante DEFAULT en memoria
+[INFO] 12:46:39:929 Comanda/(7314:7796): Frame utilizado en memoria: 1 	Base: 32 (real: 150061648)
+[INFO] 12:46:39:929 Comanda/(7314:7796): Base de la pagina utilizada en swap: 32
+[INFO] 12:46:58:763 Comanda/(7314:7808): Se creó una nueva tabla de paginas para el pedido 3 del restaurante DEFAULT
+[INFO] 12:47:06:807 Comanda/(7314:7811): Se almaceno la información del plato Milanesa del pedido 3 del restaurante DEFAULT en memoria
+[INFO] 12:47:06:808 Comanda/(7314:7811): Frame utilizado en memoria: 2 	Base: 64 (real: 150061680)
+[INFO] 12:47:06:808 Comanda/(7314:7811): Base de la pagina utilizada en swap: 64
+[INFO] 12:51:03:502 Comanda/(7314:7981): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:51:03:503 Comanda/(7314:7981): Frame eliminado: 2	Base: 64 (real: 150061680)
+[INFO] 12:51:03:504 Comanda/(7314:7981): Base de la particion eliminada en swap: 64
+[INFO] 12:51:03:504 Comanda/(7314:7981): Segmento del pedido 3 del restaurante DEFAULT eliminado
+[INFO] 12:51:24:514 Comanda/(7314:7984): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:51:24:515 Comanda/(7314:7984): Frame eliminado: 1	Base: 32 (real: 150061648)
+[INFO] 12:51:24:516 Comanda/(7314:7984): Base de la particion eliminada en swap: 32
+[INFO] 12:51:24:516 Comanda/(7314:7984): Segmento del pedido 2 del restaurante DEFAULT eliminado
+[INFO] 12:52:02:564 Comanda/(7314:7991): Informacion del plato Milanesa eliminada de memoria
+[INFO] 12:52:02:565 Comanda/(7314:7991): Frame eliminado: 0	Base: 0 (real: 150061616)
+[INFO] 12:52:02:565 Comanda/(7314:7991): Base de la particion eliminada en swap: 0
+[INFO] 12:52:02:574 Comanda/(7314:7991): Segmento del pedido 1 del restaurante DEFAULT eliminado
+[INFO] 12:55:02:709 Comanda/(8051:8051): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 12:55:40:692 Comanda/(8051:8073): Se recibio un Handshake del cliente: Cliente1
+
+[INFO] 12:55:50:26 Comanda/(8051:8074): Se creó una nueva tabla de segmentos para el restaurante DEFAULT
+[INFO] 12:55:50:26 Comanda/(8051:8074): Se creó una nueva tabla de paginas para el pedido 1 del restaurante DEFAULT
+[INFO] 12:55:56:380 Comanda/(8051:8076): Se creó una nueva tabla de paginas para el pedido 2 del restaurante DEFAULT
+[INFO] 12:56:04:23 Comanda/(8051:8078): Se creó una nueva tabla de paginas para el pedido 3 del restaurante DEFAULT
+[INFO] 12:56:11:48 Comanda/(8051:8080): Se creó una nueva tabla de paginas para el pedido 4 del restaurante DEFAULT
+[INFO] 12:56:17:897 Comanda/(8051:8082): Se creó una nueva tabla de paginas para el pedido 5 del restaurante DEFAULT
+[INFO] 12:56:25:337 Comanda/(8051:8086): Se creó una nueva tabla de paginas para el pedido 6 del restaurante DEFAULT
+[INFO] 12:56:35:600 Comanda/(8051:8088): Se creó una nueva tabla de paginas para el pedido 7 del restaurante DEFAULT
+[INFO] 12:56:52:68 Comanda/(8051:8091): Se almaceno la información del plato AsadoConFritas del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 12:56:52:68 Comanda/(8051:8091): Frame utilizado en memoria: 0 	Base: 0 (real: 143295024)
+[INFO] 12:56:52:68 Comanda/(8051:8091): Base de la pagina utilizada en swap: 0
+[INFO] 12:57:56:287 Comanda/(8051:8120): Se almaceno la información del plato AsadoConFritas del pedido 2 del restaurante DEFAULT en memoria
+[INFO] 12:57:56:288 Comanda/(8051:8120): Frame utilizado en memoria: 1 	Base: 32 (real: 143295056)
+[INFO] 12:57:56:288 Comanda/(8051:8120): Base de la pagina utilizada en swap: 32
+[INFO] 12:58:18:346 Comanda/(8051:8127): Se almaceno la información del plato Bondiolita del pedido 5 del restaurante DEFAULT en memoria
+[INFO] 12:58:18:347 Comanda/(8051:8127): Frame utilizado en memoria: 2 	Base: 64 (real: 143295088)
+[INFO] 12:58:18:347 Comanda/(8051:8127): Base de la pagina utilizada en swap: 64
+[INFO] 12:58:46:391 Comanda/(8051:8142): Se almaceno la información del plato AsadoConFritas del pedido 3 del restaurante DEFAULT en memoria
+[INFO] 12:58:46:392 Comanda/(8051:8142): Frame utilizado en memoria: 3 	Base: 96 (real: 143295120)
+[INFO] 12:58:46:392 Comanda/(8051:8142): Base de la pagina utilizada en swap: 96
+[INFO] 12:59:18:22 Comanda/(8051:8144): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 12:59:18:22 Comanda/(8051:8144): Se selecciono a la pagina que ocupa el frame 0 en memoria como victima
+[INFO] 12:59:18:22 Comanda/(8051:8144): Se almaceno la información del plato Bondiolita del pedido 6 del restaurante DEFAULT en memoria
+[INFO] 12:59:18:22 Comanda/(8051:8144): Frame utilizado en memoria: 0 	Base: 0 (real: 143295024)
+[INFO] 12:59:18:23 Comanda/(8051:8144): Base de la pagina utilizada en swap: 128
+[INFO] 13:00:51:100 Comanda/(8051:8187): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:00:51:101 Comanda/(8051:8187): Se selecciono a la pagina que ocupa el frame 1 en memoria como victima
+[INFO] 13:00:51:101 Comanda/(8051:8187): Se paso la informacion del frame 0 de swap al 1 de memoria principal
+[INFO] 13:01:49:179 Comanda/(8051:8197): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:01:49:179 Comanda/(8051:8197): Se selecciono a la pagina que ocupa el frame 2 en memoria como victima
+[INFO] 13:01:49:179 Comanda/(8051:8197): Se almaceno la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:01:49:179 Comanda/(8051:8197): Frame utilizado en memoria: 2 	Base: 64 (real: 143295088)
+[INFO] 13:01:49:179 Comanda/(8051:8197): Base de la pagina utilizada en swap: 160
+[INFO] 13:02:20:162 Comanda/(8051:8199): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:02:20:162 Comanda/(8051:8199): Se selecciono a la pagina que ocupa el frame 3 en memoria como victima
+[INFO] 13:02:20:162 Comanda/(8051:8199): Se paso la informacion del frame 1 de swap al 3 de memoria principal
+[INFO] 13:03:05:1 Comanda/(8051:8208): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:03:05:1 Comanda/(8051:8208): Se selecciono a la pagina que ocupa el frame 0 en memoria como victima
+[INFO] 13:03:05:1 Comanda/(8051:8208): Se almaceno la información del plato Morcipan del pedido 7 del restaurante DEFAULT en memoria
+[INFO] 13:03:05:1 Comanda/(8051:8208): Frame utilizado en memoria: 0 	Base: 0 (real: 143295024)
+[INFO] 13:03:05:1 Comanda/(8051:8208): Base de la pagina utilizada en swap: 192
+[INFO] 13:03:51:155 Comanda/(8051:8213): Se actualizo la información del plato AsadoConFritas del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 13:04:31:740 Comanda/(8051:8230): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:04:31:740 Comanda/(8051:8230): Se selecciono a la pagina que ocupa el frame 2 en memoria como victima
+[INFO] 13:04:31:740 Comanda/(8051:8230): Se paso la informacion del frame 3 de swap al 2 de memoria principal
+[INFO] 13:04:31:740 Comanda/(8051:8230): Se actualizo la información del plato AsadoConFritas del pedido 3 del restaurante DEFAULT en memoria
+[INFO] 13:07:20:154 Comanda/(8051:8291): Se actualizo la información del plato AsadoConFritas del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 13:08:21:626 Comanda/(8051:8295): Se actualizo la información del plato AsadoConFritas del pedido 2 del restaurante DEFAULT en memoria
+[INFO] 13:08:55:516 Comanda/(8051:8300): Se actualizo la información del plato AsadoConFritas del pedido 3 del restaurante DEFAULT en memoria
+[INFO] 13:09:11:895 Comanda/(8051:8302): Se actualizo la información del plato AsadoConFritas del pedido 1 del restaurante DEFAULT en memoria
+[INFO] 13:09:11:895 Comanda/(8051:8302): Todos los/as AsadoConFritass estan listos
+[INFO] 13:09:11:895 Comanda/(8051:8302): El pedido 1 del restaurante DEFAULT fue terminado
+[INFO] 13:09:24:537 Comanda/(8051:8304): Se actualizo la información del plato AsadoConFritas del pedido 2 del restaurante DEFAULT en memoria
+[INFO] 13:09:24:537 Comanda/(8051:8304): Todos los/as AsadoConFritass estan listos
+[INFO] 13:09:24:537 Comanda/(8051:8304): El pedido 2 del restaurante DEFAULT fue terminado
+[INFO] 13:09:40:988 Comanda/(8051:8314): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:09:40:988 Comanda/(8051:8314): Se selecciono a la pagina que ocupa el frame 0 en memoria como victima
+[INFO] 13:09:40:988 Comanda/(8051:8314): Se paso la informacion del frame 2 de swap al 0 de memoria principal
+[INFO] 13:09:40:988 Comanda/(8051:8314): Se actualizo la información del plato Bondiolita del pedido 5 del restaurante DEFAULT en memoria
+[INFO] 13:09:40:988 Comanda/(8051:8314): Todos los/as Bondiolitas estan listos
+[INFO] 13:09:40:988 Comanda/(8051:8314): El pedido 5 del restaurante DEFAULT fue terminado
+[INFO] 13:10:20:58 Comanda/(8051:8327): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:10:20:58 Comanda/(8051:8327): Se selecciono a la pagina que ocupa el frame 1 en memoria como victima
+[INFO] 13:10:20:61 Comanda/(8051:8327): Se paso la informacion del frame 4 de swap al 1 de memoria principal
+[INFO] 13:10:20:61 Comanda/(8051:8327): Se actualizo la información del plato Bondiolita del pedido 6 del restaurante DEFAULT en memoria
+[INFO] 13:11:32:726 Comanda/(8051:8348): Se actualizo la información del plato Bondiolita del pedido 6 del restaurante DEFAULT en memoria
+[INFO] 13:11:44:355 Comanda/(8051:8351): Se actualizo la información del plato Bondiolita del pedido 6 del restaurante DEFAULT en memoria
+[INFO] 13:12:08:463 Comanda/(8051:8358): Se actualizo la información del plato Bondiolita del pedido 6 del restaurante DEFAULT en memoria
+[INFO] 13:12:08:463 Comanda/(8051:8358): Todos los/as Bondiolitas estan listos
+[INFO] 13:12:08:463 Comanda/(8051:8358): El pedido 6 del restaurante DEFAULT fue terminado
+[INFO] 13:12:23:317 Comanda/(8051:8360): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:12:23:317 Comanda/(8051:8360): Se selecciono a la pagina que ocupa el frame 2 en memoria como victima
+[INFO] 13:12:23:317 Comanda/(8051:8360): Se paso la informacion del frame 5 de swap al 2 de memoria principal
+[INFO] 13:12:23:318 Comanda/(8051:8360): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:13:35:236 Comanda/(8051:8384): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:13:47:683 Comanda/(8051:8396): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:13:56:835 Comanda/(8051:8403): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[WARNING] 13:14:05:995 Comanda/(8051:8405): El restaurante DEFaULT no se encuentra registrado en el sistema
+
+[INFO] 13:14:25:819 Comanda/(8051:8407): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:14:34:700 Comanda/(8051:8411): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:14:45:100 Comanda/(8051:8413): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:14:55:239 Comanda/(8051:8415): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:15:10:555 Comanda/(8051:8417): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:15:19:726 Comanda/(8051:8424): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:15:30:341 Comanda/(8051:8429): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:15:39:382 Comanda/(8051:8431): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:15:49:438 Comanda/(8051:8433): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:00:480 Comanda/(8051:8435): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:10:480 Comanda/(8051:8442): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:21:245 Comanda/(8051:8444): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:30:226 Comanda/(8051:8448): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:40:494 Comanda/(8051:8450): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:16:58:764 Comanda/(8051:8452): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:17:14:166 Comanda/(8051:8457): Se actualizo la información del plato Choripan del pedido 4 del restaurante DEFAULT en memoria
+[INFO] 13:17:14:167 Comanda/(8051:8457): Todos los/as Choripans estan listos
+[INFO] 13:17:14:167 Comanda/(8051:8457): El pedido 4 del restaurante DEFAULT fue terminado
+[INFO] 13:17:46:561 Comanda/(8051:8462): No hay más espacio en memoria real, comienza el proceso de swap
+[INFO] 13:17:46:561 Comanda/(8051:8462): Se selecciono a la pagina que ocupa el frame 3 en memoria como victima
+[INFO] 13:17:46:561 Comanda/(8051:8462): Se paso la informacion del frame 6 de swap al 3 de memoria principal
+[INFO] 13:17:46:562 Comanda/(8051:8462): Se actualizo la información del plato Morcipan del pedido 7 del restaurante DEFAULT en memoria
+[INFO] 13:17:46:562 Comanda/(8051:8462): Todos los/as Morcipans estan listos
+[INFO] 13:17:46:562 Comanda/(8051:8462): El pedido 7 del restaurante DEFAULT fue terminado
+[INFO] 13:18:23:162 Comanda/(8051:8469): Informacion del plato AsadoConFritas eliminada de memoria
+[INFO] 13:18:23:162 Comanda/(8051:8469): Base de la particion eliminada en swap: 0
+[INFO] 13:18:23:162 Comanda/(8051:8469): Segmento del pedido 1 del restaurante DEFAULT eliminado
+[INFO] 13:18:36:910 Comanda/(8051:8473): Informacion del plato AsadoConFritas eliminada de memoria
+[INFO] 13:18:36:910 Comanda/(8051:8473): Base de la particion eliminada en swap: 32
+[INFO] 13:18:36:910 Comanda/(8051:8473): Segmento del pedido 2 del restaurante DEFAULT eliminado
+[INFO] 13:18:43:828 Comanda/(8051:8475): Informacion del plato AsadoConFritas eliminada de memoria
+[INFO] 13:18:43:828 Comanda/(8051:8475): Base de la particion eliminada en swap: 96
+[INFO] 13:18:43:828 Comanda/(8051:8475): Segmento del pedido 3 del restaurante DEFAULT eliminado
+[INFO] 13:18:53:222 Comanda/(8051:8482): Informacion del plato Choripan eliminada de memoria
+[INFO] 13:18:53:222 Comanda/(8051:8482): Frame eliminado: 2	Base: 64 (real: 143295088)
+[INFO] 13:18:53:222 Comanda/(8051:8482): Base de la particion eliminada en swap: 160
+[INFO] 13:18:53:222 Comanda/(8051:8482): Segmento del pedido 4 del restaurante DEFAULT eliminado
+[INFO] 13:19:01:817 Comanda/(8051:8484): Informacion del plato Bondiolita eliminada de memoria
+[INFO] 13:19:01:818 Comanda/(8051:8484): Frame eliminado: 0	Base: 0 (real: 143295024)
+[INFO] 13:19:01:818 Comanda/(8051:8484): Base de la particion eliminada en swap: 64
+[INFO] 13:19:01:818 Comanda/(8051:8484): Segmento del pedido 5 del restaurante DEFAULT eliminado
+[INFO] 13:19:14:612 Comanda/(8051:8486): Informacion del plato Bondiolita eliminada de memoria
+[INFO] 13:19:14:613 Comanda/(8051:8486): Frame eliminado: 1	Base: 32 (real: 143295056)
+[INFO] 13:19:14:613 Comanda/(8051:8486): Base de la particion eliminada en swap: 128
+[INFO] 13:19:14:613 Comanda/(8051:8486): Segmento del pedido 6 del restaurante DEFAULT eliminado
+[INFO] 13:19:24:751 Comanda/(8051:8495): Informacion del plato Morcipan eliminada de memoria
+[INFO] 13:19:24:751 Comanda/(8051:8495): Frame eliminado: 3	Base: 96 (real: 143295120)
+[INFO] 13:19:24:751 Comanda/(8051:8495): Base de la particion eliminada en swap: 192
+[INFO] 13:19:24:751 Comanda/(8051:8495): Segmento del pedido 7 del restaurante DEFAULT eliminado
+[INFO] 01:08:17:252 Comanda/(4350:4350): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 01:08:24:363 Comanda/(4350:4371): Se recibio un Handshake del modulo APP
+[INFO] 01:09:10:365 Comanda/(4350:4412): Se creó una nueva tabla de segmentos para el restaurante LaParri
+[INFO] 01:09:10:365 Comanda/(4350:4412): Se creó una nueva tabla de paginas para el pedido 1 del restaurante LaParri
+[INFO] 01:11:27:783 Comanda/(4645:4645): El modulo comanda ya esta listo para recibir mensajes
+[INFO] 01:11:43:95 Comanda/(4645:4758): Se recibio un Handshake del modulo APP

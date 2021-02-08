@@ -1,0 +1,1182 @@
+[INFO] 17:49:06:725 Sindicato/(4450:4450): Cantidad de bloques disponibles: 5155
+[INFO] 17:49:06:725 Sindicato/(4450:4450): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 17:49:25:678 Sindicato/(4450:4450): Se establecio una conexion con el restaurante MiRestaurante
+[INFO] 17:49:25:682 Sindicato/(4450:4477): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 17:49:25:683 Sindicato/(4450:4477): 	Restaurante: MiRestaurante
+[INFO] 17:49:25:695 Sindicato/(4450:4477): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:49:25:695 Sindicato/(4450:4477): 	Cantidad de cocineros: 5	Cantidad de hornos: 2	Cantidad de pedidos: 16
+[INFO] 17:49:25:695 Sindicato/(4450:4477): 	Coordenadas -> (4, 5)
+[INFO] 17:49:25:697 Sindicato/(4450:4477): 	Afinidades:
+[INFO] 17:49:25:697 Sindicato/(4450:4477): 		Milanesa
+[INFO] 17:49:25:697 Sindicato/(4450:4477): 	Recetas:
+[INFO] 17:49:25:697 Sindicato/(4450:4477): 		Plato: Milanesa	Precio: 200
+[INFO] 17:49:25:698 Sindicato/(4450:4477): 		Plato: Ensalada	Precio: 50
+[INFO] 17:49:25:698 Sindicato/(4450:4477): 		Plato: Empanadas	Precio: 10
+[INFO] 17:50:56:44 Sindicato/(4525:4525): Cantidad de bloques disponibles: 5155
+[INFO] 17:50:56:47 Sindicato/(4525:4525): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 17:51:04:691 Sindicato/(4525:4525): Se establecio una conexion con el restaurante MiRestaurante
+[INFO] 17:51:04:692 Sindicato/(4525:4543): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 17:51:04:693 Sindicato/(4525:4543): 	Restaurante: MiRestaurante
+[INFO] 17:51:04:693 Sindicato/(4525:4543): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:51:04:699 Sindicato/(4525:4543): 	Cantidad de cocineros: 5	Cantidad de hornos: 2	Cantidad de pedidos: 16
+[INFO] 17:51:04:699 Sindicato/(4525:4543): 	Coordenadas -> (4, 5)
+[INFO] 17:51:04:699 Sindicato/(4525:4543): 	Afinidades:
+[INFO] 17:51:04:700 Sindicato/(4525:4543): 		Milanesa
+[INFO] 17:51:04:701 Sindicato/(4525:4543): 	Recetas:
+[INFO] 17:51:04:702 Sindicato/(4525:4543): 		Plato: Milanesa	Precio: 200
+[INFO] 17:51:04:702 Sindicato/(4525:4543): 		Plato: Ensalada	Precio: 50
+[INFO] 17:51:04:703 Sindicato/(4525:4543): 		Plato: Empanadas	Precio: 10
+[INFO] 17:55:47:714 Sindicato/(4687:4687): Cantidad de bloques disponibles: 5155
+[INFO] 17:55:47:714 Sindicato/(4687:4687): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 17:55:53:209 Sindicato/(4525:4707): Se recibio el mensaje (null)
+[INFO] 17:55:53:209 Sindicato/(4525:4707): Se establecio una conexion con el restaurante MiRestaurante
+[INFO] 17:56:33:225 Sindicato/(4525:4753): Se recibio el mensaje (null)
+[INFO] 17:56:33:226 Sindicato/(4525:4753): Se establecio una conexion con el restaurante MiRestaurante
+[INFO] 17:58:03:302 Sindicato/(4783:4783): Cantidad de bloques disponibles: 5155
+[INFO] 17:58:03:315 Sindicato/(4783:4783): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:05:57:580 Sindicato/(3260:3260): Cantidad de bloques disponibles: 5155
+[INFO] 23:05:57:584 Sindicato/(3260:3260): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:06:06:68 Sindicato/(3260:3260): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 23:06:06:69 Sindicato/(3260:3278): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 23:06:06:69 Sindicato/(3260:3278): 	Restaurante: MilangaPalace
+[ERROR] 23:06:06:81 Sindicato/(3260:3278): El restaurante MilangaPalace no se encuentra registrado en el FS
+[INFO] 23:06:06:81 Sindicato/(3260:3278): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 23:06:06:81 Sindicato/(3260:3278): 	Cantidad de cocineros: 0	Cantidad de hornos: 0	Cantidad de pedidos: 0
+[INFO] 23:06:06:82 Sindicato/(3260:3278): 	Coordenadas -> (0, 0)
+[INFO] 23:06:06:82 Sindicato/(3260:3278): 	Afinidades:
+[INFO] 23:06:06:83 Sindicato/(3260:3278): 	Recetas:
+[INFO] 23:06:28:870 Sindicato/(3290:3290): Cantidad de bloques disponibles: 5155
+[INFO] 23:06:28:877 Sindicato/(3290:3290): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:06:56:25 Sindicato/(3312:3312): Cantidad de bloques disponibles: 5155
+[INFO] 23:06:56:33 Sindicato/(3312:3312): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:09:19:36 Sindicato/(3358:3358): Cantidad de bloques disponibles: 5155
+[INFO] 23:09:19:38 Sindicato/(3358:3358): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:10:07:107 Sindicato/(3358:3363): Se creo el archivo "MilaCompleta.AFIP" (path: /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP).
+[INFO] 23:10:07:112 Sindicato/(3358:3363): Asignacipn del bloque 37 al archivo /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP
+[INFO] 23:10:47:484 Sindicato/(3358:3363): Se creo el directio MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace)
+[INFO] 23:10:47:484 Sindicato/(3358:3363): Se creo el archivo "Info.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP).
+[INFO] 23:10:47:486 Sindicato/(3358:3363): Asignacipn del bloque 38 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 23:10:47:489 Sindicato/(3358:3363): Asignacipn del bloque 39 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 23:10:58:760 Sindicato/(3358:3358): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 23:10:58:763 Sindicato/(3358:3405): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 23:10:58:764 Sindicato/(3358:3405): 	Restaurante: MilangaPalace
+[INFO] 23:10:58:764 Sindicato/(3358:3405): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 23:10:58:764 Sindicato/(3358:3405): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 23:10:58:764 Sindicato/(3358:3405): 	Coordenadas -> (5, 5)
+[INFO] 23:10:58:764 Sindicato/(3358:3405): 	Afinidades:
+[INFO] 23:10:58:765 Sindicato/(3358:3405): 	Recetas:
+[INFO] 23:10:58:765 Sindicato/(3358:3405): 		Plato: MilaCompleta	Precio: 200
+[INFO] 00:31:09:72 Sindicato/(4259:4259): Cantidad de bloques disponibles: 5152
+[INFO] 00:31:09:73 Sindicato/(4259:4259): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:31:32:464 Sindicato/(4259:4259): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 00:31:32:477 Sindicato/(4259:4310): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 00:31:32:478 Sindicato/(4259:4310): 	Restaurante: MilangaPalace
+[INFO] 00:31:32:492 Sindicato/(4259:4310): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 00:31:32:492 Sindicato/(4259:4310): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 00:31:32:492 Sindicato/(4259:4310): 	Coordenadas -> (5, 5)
+[INFO] 00:31:32:492 Sindicato/(4259:4310): 	Afinidades:
+[INFO] 00:31:32:492 Sindicato/(4259:4310): 	Recetas:
+[INFO] 00:31:32:492 Sindicato/(4259:4310): 		Plato: MilaCompleta	Precio: 200
+[INFO] 00:33:19:397 Sindicato/(4377:4377): Cantidad de bloques disponibles: 5152
+[INFO] 00:33:19:401 Sindicato/(4377:4377): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:35:36:348 Sindicato/(4481:4481): Cantidad de bloques disponibles: 5152
+[INFO] 00:35:36:350 Sindicato/(4481:4481): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:38:26:988 Sindicato/(4657:4657): Cantidad de bloques disponibles: 5152
+[INFO] 00:38:26:991 Sindicato/(4657:4657): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:39:40:76 Sindicato/(4711:4711): Cantidad de bloques disponibles: 5152
+[INFO] 00:39:40:77 Sindicato/(4711:4711): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:47:44:41 Sindicato/(5122:5122): Cantidad de bloques disponibles: 5152
+[INFO] 00:47:44:47 Sindicato/(5122:5122): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:48:09:460 Sindicato/(5122:5122): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 00:48:09:466 Sindicato/(5122:5174): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 00:48:09:466 Sindicato/(5122:5174): 	Restaurante: MilangaPalace
+[INFO] 00:48:09:480 Sindicato/(5122:5174): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 00:48:09:480 Sindicato/(5122:5174): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 00:48:09:480 Sindicato/(5122:5174): 	Coordenadas -> (5, 5)
+[INFO] 00:48:09:481 Sindicato/(5122:5174): 	Afinidades:
+[INFO] 00:48:09:481 Sindicato/(5122:5174): 	Recetas:
+[INFO] 00:48:09:481 Sindicato/(5122:5174): 		Plato: MilaCompleta	Precio: 200
+[INFO] 00:51:18:554 Sindicato/(5287:5287): Cantidad de bloques disponibles: 5152
+[INFO] 00:51:18:555 Sindicato/(5287:5287): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:51:40:903 Sindicato/(5287:5287): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 00:51:40:907 Sindicato/(5287:5338): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 00:51:40:907 Sindicato/(5287:5338): 	Restaurante: MilangaPalace
+[INFO] 00:51:40:923 Sindicato/(5287:5338): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 00:51:40:923 Sindicato/(5287:5338): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 00:51:40:923 Sindicato/(5287:5338): 	Coordenadas -> (5, 5)
+[INFO] 00:51:40:924 Sindicato/(5287:5338): 	Afinidades:
+[INFO] 00:51:40:924 Sindicato/(5287:5338): 	Recetas:
+[INFO] 00:51:40:924 Sindicato/(5287:5338): 		Plato: MilaCompleta	Precio: 200
+[INFO] 00:52:53:428 Sindicato/(5287:5382): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 00:52:53:428 Sindicato/(5287:5382): 	Restaurante: MilangaPalace	Pedido 0
+[INFO] 00:52:53:430 Sindicato/(5287:5382): Asignacipn del bloque 40 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 00:52:53:432 Sindicato/(5287:5382): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 00:52:53:434 Sindicato/(5287:5382): Asignacipn del bloque 41 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 00:52:53:435 Sindicato/(5287:5382): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 00:52:53:435 Sindicato/(5287:5382): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 00:52:53:436 Sindicato/(5287:5382): 	Operación exitosa
+[INFO] 00:53:28:892 Sindicato/(5287:5410): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 00:53:28:892 Sindicato/(5287:5410): 	Restaurante: MilangaPalace	Pedido: 0	Plato: MilaCompleta	Cantidad: 1
+[INFO] 00:53:28:893 Sindicato/(5287:5410): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 00:53:28:893 Sindicato/(5287:5410): 	Operación exitosa
+[INFO] 00:58:17:93 Sindicato/(5654:5654): Cantidad de bloques disponibles: 5150
+[INFO] 00:58:17:94 Sindicato/(5654:5654): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:58:43:125 Sindicato/(5682:5682): Cantidad de bloques disponibles: 5150
+[INFO] 00:58:43:133 Sindicato/(5682:5682): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 00:59:10:286 Sindicato/(5682:5682): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 00:59:10:323 Sindicato/(5682:5743): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 00:59:10:323 Sindicato/(5682:5743): 	Restaurante: MilangaPalace
+[INFO] 00:59:10:342 Sindicato/(5682:5743): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 00:59:10:342 Sindicato/(5682:5743): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 00:59:10:344 Sindicato/(5682:5743): 	Coordenadas -> (5, 5)
+[INFO] 00:59:10:344 Sindicato/(5682:5743): 	Afinidades:
+[INFO] 00:59:10:344 Sindicato/(5682:5743): 	Recetas:
+[INFO] 00:59:10:344 Sindicato/(5682:5743): 		Plato: MilaCompleta	Precio: 200
+[INFO] 00:59:46:64 Sindicato/(5682:5764): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 00:59:46:67 Sindicato/(5682:5764): 	Restaurante: MilangaPalace	Pedido 1
+[INFO] 01:00:11:319 Sindicato/(5682:5764): Asignacipn del bloque 42 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP
+[INFO] 01:00:11:320 Sindicato/(5682:5764): Se creo el archivo "Pedido1.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP).
+[INFO] 01:00:11:323 Sindicato/(5682:5764): Asignacipn del bloque 43 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP
+[INFO] 01:00:11:324 Sindicato/(5682:5764): Se creo el archivo "Pedido1.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP).
+[INFO] 01:00:11:324 Sindicato/(5682:5764): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 01:00:11:324 Sindicato/(5682:5764): 	Operación exitosa
+[INFO] 01:05:50:102 Sindicato/(5682:5974): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 01:05:50:102 Sindicato/(5682:5974): 	Restaurante: MilangaPalace	Pedido: 1	Plato: MilaCompleta	Cantidad: 1
+[INFO] 01:21:07:132 Sindicato/(6320:6320): Cantidad de bloques disponibles: 5148
+[INFO] 01:21:07:134 Sindicato/(6320:6320): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 01:21:27:416 Sindicato/(6320:6320): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 01:21:27:429 Sindicato/(6320:6365): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 01:21:27:429 Sindicato/(6320:6365): 	Restaurante: MilangaPalace
+[INFO] 01:21:27:448 Sindicato/(6320:6365): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 01:21:27:448 Sindicato/(6320:6365): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 2
+[INFO] 01:21:27:448 Sindicato/(6320:6365): 	Coordenadas -> (5, 5)
+[INFO] 01:21:27:449 Sindicato/(6320:6365): 	Afinidades:
+[INFO] 01:21:27:449 Sindicato/(6320:6365): 	Recetas:
+[INFO] 01:21:27:449 Sindicato/(6320:6365): 		Plato: MilaCompleta	Precio: 200
+[INFO] 01:21:56:80 Sindicato/(6320:6396): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 01:21:56:80 Sindicato/(6320:6396): 	Restaurante: MilangaPalace	Pedido 2
+[INFO] 01:21:56:83 Sindicato/(6320:6396): Asignacipn del bloque 44 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP
+[INFO] 01:21:56:83 Sindicato/(6320:6396): Se creo el archivo "Pedido2.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP).
+[INFO] 01:21:56:89 Sindicato/(6320:6396): Asignacipn del bloque 45 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP
+[INFO] 01:21:56:90 Sindicato/(6320:6396): Se creo el archivo "Pedido2.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP).
+[INFO] 01:21:56:90 Sindicato/(6320:6396): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 01:21:56:90 Sindicato/(6320:6396): 	Operación exitosa
+[INFO] 01:22:16:712 Sindicato/(6320:6411): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 01:22:16:712 Sindicato/(6320:6411): 	Restaurante: MilangaPalace	Pedido: 2	Plato: MilaCompleta	Cantidad: 1
+[INFO] 01:22:16:713 Sindicato/(6320:6411): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 01:22:16:713 Sindicato/(6320:6411): 	Operación exitosa
+[INFO] 01:23:20:442 Sindicato/(6320:6432): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 01:23:20:444 Sindicato/(6320:6432): 	Restaurante: MilangaPalace	Pedido: 2	Plato: MilaCompleta	Cantidad: 2
+[INFO] 01:23:20:445 Sindicato/(6320:6432): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 01:23:20:445 Sindicato/(6320:6432): 	Operación exitosa
+[INFO] 12:41:06:135 Sindicato/(7278:7278): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 12:41:20:336 Sindicato/(7278:7283): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 12:41:20:337 Sindicato/(7278:7283): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 12:41:20:381 Sindicato/(7278:7283): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:41:20:383 Sindicato/(7278:7283): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:41:20:386 Sindicato/(7278:7283): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:41:53:534 Sindicato/(7278:7283): Se creo el archivo "AsadoJugoso.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP).
+[INFO] 12:41:53:536 Sindicato/(7278:7283): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP
+[INFO] 12:41:59:248 Sindicato/(7278:7283): Se creo el archivo "AsadoSeco.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP).
+[INFO] 12:41:59:250 Sindicato/(7278:7283): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP
+[INFO] 12:42:05:353 Sindicato/(7278:7283): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip/Files/Recetas/Choripan.AFIP).
+[INFO] 12:42:05:355 Sindicato/(7278:7283): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Recetas/Choripan.AFIP
+[INFO] 12:42:10:857 Sindicato/(7278:7283): Se creo el archivo "WokDeVegetales.AFIP" (path: /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP).
+[INFO] 12:42:10:863 Sindicato/(7278:7283): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP
+[INFO] 12:42:16:627 Sindicato/(7278:7283): Se creo el archivo "TortillaDePapa.AFIP" (path: /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP).
+[INFO] 12:42:16:633 Sindicato/(7278:7283): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP
+[INFO] 12:42:21:909 Sindicato/(7278:7283): Se creo el archivo "MilaCompleta.AFIP" (path: /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP).
+[INFO] 12:42:21:911 Sindicato/(7278:7283): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP
+[INFO] 12:42:28:766 Sindicato/(7278:7283): Se creo el directio GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife)
+[INFO] 12:42:28:767 Sindicato/(7278:7283): Se creo el archivo "Info.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP).
+[INFO] 12:42:28:768 Sindicato/(7278:7283): Asignacipn del bloque 9 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:42:28:775 Sindicato/(7278:7283): Asignacipn del bloque 10 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:42:28:778 Sindicato/(7278:7283): Asignacipn del bloque 11 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:42:34:205 Sindicato/(7278:7283): Se creo el directio MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace)
+[INFO] 12:42:34:206 Sindicato/(7278:7283): Se creo el archivo "Info.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP).
+[INFO] 12:42:34:207 Sindicato/(7278:7283): Asignacipn del bloque 12 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 12:42:34:210 Sindicato/(7278:7283): Asignacipn del bloque 13 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 12:43:06:807 Sindicato/(7422:7422): Cantidad de bloques disponibles: 2034
+[INFO] 12:43:06:815 Sindicato/(7422:7422): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 12:43:34:154 Sindicato/(7422:7422): Se establecio una conexion con el restaurante LaParri
+[INFO] 12:43:34:167 Sindicato/(7422:7472): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 12:43:34:167 Sindicato/(7422:7472): 	Restaurante: LaParri
+[INFO] 12:48:25:547 Sindicato/(7692:7692): Cantidad de bloques disponibles: 2034
+[INFO] 12:48:25:554 Sindicato/(7692:7692): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 12:48:33:10 Sindicato/(7692:7692): Se establecio una conexion con el restaurante LaParri
+[INFO] 12:48:33:19 Sindicato/(7692:7714): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 12:48:33:20 Sindicato/(7692:7714): 	Restaurante: LaParri
+[INFO] 12:54:29:92 Sindicato/(7832:7832): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 12:55:03:446 Sindicato/(7832:7845): Se creo el directio MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace)
+[INFO] 12:55:03:446 Sindicato/(7832:7845): Se creo el archivo "Info.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP).
+[INFO] 12:55:03:447 Sindicato/(7832:7845): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 12:55:03:450 Sindicato/(7832:7845): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 12:55:17:996 Sindicato/(7832:7845): Se creo el archivo "MilaCompleta.AFIP" (path: /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP).
+[INFO] 12:55:17:998 Sindicato/(7832:7845): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP
+[INFO] 12:55:28:764 Sindicato/(7832:7832): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 12:55:28:795 Sindicato/(7832:7873): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 12:55:28:795 Sindicato/(7832:7873): 	Restaurante: MilangaPalace
+[INFO] 12:56:14:878 Sindicato/(7832:7873): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 12:56:14:878 Sindicato/(7832:7873): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 12:56:14:878 Sindicato/(7832:7873): 	Coordenadas -> (5, 5)
+[INFO] 12:56:14:878 Sindicato/(7832:7873): 	Afinidades:
+[INFO] 12:56:14:878 Sindicato/(7832:7873): 	Recetas:
+[INFO] 12:56:14:878 Sindicato/(7832:7873): 		Plato: MilaCompleta	Precio: 200
+[INFO] 12:56:31:405 Sindicato/(7832:7903): Se recibio el mensaje (null)
+[INFO] 12:56:31:406 Sindicato/(7832:7903): Se establecio una conexion con el restaurante GreeLife
+[INFO] 12:58:15:215 Sindicato/(7944:7944): Cantidad de bloques disponibles: 2045
+[INFO] 12:58:15:221 Sindicato/(7944:7944): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 12:58:25:443 Sindicato/(7944:7953): Se creo el archivo "AsadoJugoso.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP).
+[INFO] 12:58:25:450 Sindicato/(7944:7953): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP
+[INFO] 12:58:29:758 Sindicato/(7944:7953): Se creo el archivo "AsadoSeco.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP).
+[INFO] 12:58:29:762 Sindicato/(7944:7953): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP
+[INFO] 12:58:34:88 Sindicato/(7944:7953): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip/Files/Recetas/Choripan.AFIP).
+[INFO] 12:58:34:91 Sindicato/(7944:7953): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Recetas/Choripan.AFIP
+[INFO] 12:58:40:213 Sindicato/(7944:7953): Se creo el archivo "WokDeVegetales.AFIP" (path: /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP).
+[INFO] 12:58:40:215 Sindicato/(7944:7953): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP
+[INFO] 12:58:45:622 Sindicato/(7944:7953): Se creo el archivo "TortillaDePapa.AFIP" (path: /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP).
+[INFO] 12:58:45:629 Sindicato/(7944:7953): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP
+[INFO] 12:58:45:632 Sindicato/(7944:7953): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP
+[INFO] 12:58:54:928 Sindicato/(7944:7953): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 12:58:54:928 Sindicato/(7944:7953): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 12:58:54:934 Sindicato/(7944:7953): Asignacipn del bloque 9 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:58:54:937 Sindicato/(7944:7953): Asignacipn del bloque 10 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:58:54:940 Sindicato/(7944:7953): Asignacipn del bloque 11 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 12:59:00:490 Sindicato/(7944:7953): Se creo el directio GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife)
+[INFO] 12:59:00:490 Sindicato/(7944:7953): Se creo el archivo "Info.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP).
+[INFO] 12:59:00:491 Sindicato/(7944:7953): Asignacipn del bloque 12 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:59:00:494 Sindicato/(7944:7953): Asignacipn del bloque 13 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:59:00:496 Sindicato/(7944:7953): Asignacipn del bloque 14 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 12:59:49:461 Sindicato/(7944:7944): Se establecio una conexion con el restaurante LaParri
+[INFO] 12:59:49:467 Sindicato/(7944:7998): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 12:59:49:467 Sindicato/(7944:7998): 	Restaurante: LaParri
+[INFO] 17:34:20:716 Sindicato/(9339:9339): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 17:34:43:22 Sindicato/(9339:9358): Se creo el archivo "AsadoJugoso.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP).
+[INFO] 17:34:43:24 Sindicato/(9339:9358): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP
+[INFO] 17:34:48:956 Sindicato/(9339:9358): Se creo el archivo "AsadoSeco.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP).
+[INFO] 17:34:48:957 Sindicato/(9339:9358): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP
+[INFO] 17:34:55:359 Sindicato/(9339:9358): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip/Files/Recetas/Choripan.AFIP).
+[INFO] 17:34:55:361 Sindicato/(9339:9358): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Recetas/Choripan.AFIP
+[INFO] 17:35:02:57 Sindicato/(9339:9358): Se creo el archivo "WokDeVegetales.AFIP" (path: /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP).
+[INFO] 17:35:02:58 Sindicato/(9339:9358): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP
+[INFO] 17:35:08:377 Sindicato/(9339:9358): Se creo el archivo "TortillaDePapa.AFIP" (path: /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP).
+[INFO] 17:35:08:379 Sindicato/(9339:9358): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP
+[INFO] 17:35:26:611 Sindicato/(9339:9358): Se creo el archivo "MilaCompleta.AFIP" (path: /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP).
+[INFO] 17:35:26:614 Sindicato/(9339:9358): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP
+[INFO] 17:35:36:817 Sindicato/(9339:9358): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 17:35:36:817 Sindicato/(9339:9358): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 17:35:36:819 Sindicato/(9339:9358): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 17:35:36:822 Sindicato/(9339:9358): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 17:35:36:825 Sindicato/(9339:9358): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 17:35:45:511 Sindicato/(9339:9358): Se creo el directio GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife)
+[INFO] 17:35:45:511 Sindicato/(9339:9358): Se creo el archivo "Info.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP).
+[INFO] 17:35:45:513 Sindicato/(9339:9358): Asignacipn del bloque 9 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 17:35:45:516 Sindicato/(9339:9358): Asignacipn del bloque 10 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 17:35:45:519 Sindicato/(9339:9358): Asignacipn del bloque 11 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 17:35:52:231 Sindicato/(9339:9358): Se creo el directio MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace)
+[INFO] 17:35:52:231 Sindicato/(9339:9358): Se creo el archivo "Info.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP).
+[INFO] 17:35:52:233 Sindicato/(9339:9358): Asignacipn del bloque 12 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 17:35:52:236 Sindicato/(9339:9358): Asignacipn del bloque 13 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 17:36:23:562 Sindicato/(9339:9339): Se establecio una conexion con el restaurante LaParri
+[INFO] 17:36:23:563 Sindicato/(9339:9339): 	Restaurante: LaParri
+[INFO] 17:36:23:565 Sindicato/(9339:9339): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:36:23:565 Sindicato/(9339:9339): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 17:36:23:565 Sindicato/(9339:9339): 	Coordenadas -> (1, 1)
+[INFO] 17:36:23:566 Sindicato/(9339:9339): 	Afinidades:
+[INFO] 17:36:23:566 Sindicato/(9339:9339): 		AsadoJugoso
+[INFO] 17:36:23:567 Sindicato/(9339:9339): 	Recetas:
+[INFO] 17:36:23:567 Sindicato/(9339:9339): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 17:36:23:567 Sindicato/(9339:9339): 		Plato: AsadoSeco	Precio: 200
+[INFO] 17:36:23:567 Sindicato/(9339:9339): 		Plato: Choripan	Precio: 125
+[INFO] 17:36:35:937 Sindicato/(9339:9339): Se establecio una conexion con el restaurante GreenLife
+[INFO] 17:36:35:938 Sindicato/(9339:9339): 	Restaurante: GreenLife
+[INFO] 17:36:35:939 Sindicato/(9339:9339): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:36:35:940 Sindicato/(9339:9339): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 17:36:35:940 Sindicato/(9339:9339): 	Coordenadas -> (9, 9)
+[INFO] 17:36:35:941 Sindicato/(9339:9339): 	Afinidades:
+[INFO] 17:36:35:941 Sindicato/(9339:9339): 	Recetas:
+[INFO] 17:36:35:941 Sindicato/(9339:9339): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 17:36:35:941 Sindicato/(9339:9339): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 17:36:57:907 Sindicato/(9339:9339): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 17:36:57:917 Sindicato/(9339:9432): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 17:36:57:917 Sindicato/(9339:9432): 	Restaurante: MilangaPalace
+[INFO] 17:36:57:925 Sindicato/(9339:9432): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:36:57:926 Sindicato/(9339:9432): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 17:36:57:926 Sindicato/(9339:9432): 	Coordenadas -> (5, 5)
+[INFO] 17:36:57:926 Sindicato/(9339:9432): 	Afinidades:
+[INFO] 17:36:57:926 Sindicato/(9339:9432): 	Recetas:
+[INFO] 17:36:57:926 Sindicato/(9339:9432): 		Plato: MilaCompleta	Precio: 200
+[INFO] 17:39:40:917 Sindicato/(9339:9469): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 17:39:40:917 Sindicato/(9339:9469): 	Restaurante: MilangaPalace	Pedido 0
+[INFO] 17:39:40:920 Sindicato/(9339:9469): Asignacipn del bloque 14 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 17:39:40:921 Sindicato/(9339:9469): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 17:39:40:926 Sindicato/(9339:9469): Asignacipn del bloque 15 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 17:39:40:927 Sindicato/(9339:9469): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 17:39:40:927 Sindicato/(9339:9469): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 17:39:40:927 Sindicato/(9339:9469): 	Operación exitosa
+[INFO] 17:40:01:705 Sindicato/(9339:9474): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:40:01:706 Sindicato/(9339:9474): 	Restaurante: MilangaPalace	Pedido: 0	Plato: MilaCompleta	Cantidad: 1
+[INFO] 17:40:01:707 Sindicato/(9339:9474): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:40:01:709 Sindicato/(9339:9474): 	Operación exitosa
+[INFO] 17:41:12:102 Sindicato/(9339:9500): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 17:41:12:102 Sindicato/(9339:9500): 	Restaurante: GreenLife	Pedido 0
+[INFO] 17:41:12:104 Sindicato/(9339:9500): Asignacipn del bloque 16 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 17:41:12:105 Sindicato/(9339:9500): Se creo el archivo "Pedido0.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP).
+[INFO] 17:41:12:108 Sindicato/(9339:9500): Asignacipn del bloque 17 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 17:41:12:108 Sindicato/(9339:9500): Se creo el archivo "Pedido0.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP).
+[INFO] 17:41:12:108 Sindicato/(9339:9500): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 17:41:12:108 Sindicato/(9339:9500): 	Operación exitosa
+[INFO] 17:41:28:254 Sindicato/(9339:9510): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:41:28:254 Sindicato/(9339:9510): 	Restaurante: GreenLife	Pedido: 0	Plato: WokDeVegetales	Cantidad: 1
+[INFO] 17:41:28:255 Sindicato/(9339:9510): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:41:28:255 Sindicato/(9339:9510): 	Operación exitosa
+[INFO] 17:41:41:234 Sindicato/(9339:9515): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:41:41:235 Sindicato/(9339:9515): 	Restaurante: GreenLife	Pedido: 0	Plato: TortillaDePapa	Cantidad: 2
+[INFO] 17:41:41:236 Sindicato/(9339:9515): Asignacipn del bloque 18 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 17:41:41:237 Sindicato/(9339:9515): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:41:41:237 Sindicato/(9339:9515): 	Operación exitosa
+[INFO] 17:42:51:54 Sindicato/(9339:9542): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 17:42:51:54 Sindicato/(9339:9542): 	Restaurante: LaParri	Pedido 0
+[INFO] 17:42:51:57 Sindicato/(9339:9542): Asignacipn del bloque 19 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 17:42:51:58 Sindicato/(9339:9542): Se creo el archivo "Pedido0.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP).
+[INFO] 17:42:51:61 Sindicato/(9339:9542): Asignacipn del bloque 20 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 17:42:51:61 Sindicato/(9339:9542): Se creo el archivo "Pedido0.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP).
+[INFO] 17:42:51:61 Sindicato/(9339:9542): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 17:42:51:62 Sindicato/(9339:9542): 	Operación exitosa
+[INFO] 17:43:05:73 Sindicato/(9339:9548): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:43:05:73 Sindicato/(9339:9548): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 17:43:05:76 Sindicato/(9339:9548): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:43:05:80 Sindicato/(9339:9548): 	Operación exitosa
+[INFO] 17:43:20:349 Sindicato/(9339:9555): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:43:20:350 Sindicato/(9339:9555): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoSeco	Cantidad: 1
+[INFO] 17:43:20:350 Sindicato/(9339:9555): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:43:20:352 Sindicato/(9339:9555): 	Operación exitosa
+[INFO] 17:43:32:128 Sindicato/(9339:9570): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 17:43:32:128 Sindicato/(9339:9570): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan	Cantidad: 4
+[INFO] 17:43:32:129 Sindicato/(9339:9570): Asignacipn del bloque 21 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 17:43:32:130 Sindicato/(9339:9570): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 17:43:32:130 Sindicato/(9339:9570): 	Operación exitosa
+[INFO] 17:43:48:807 Sindicato/(9339:9581): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 17:43:48:808 Sindicato/(9339:9581): 	Restaurante: LaParri	Pedido 0
+[INFO] 17:58:55:45 Sindicato/(9987:9987): Cantidad de bloques disponibles: 2026
+[INFO] 17:58:55:53 Sindicato/(9987:9987): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 17:59:19:514 Sindicato/(9987:9987): Se establecio una conexion con el restaurante LaParri
+[INFO] 17:59:19:517 Sindicato/(9987:9987): 	Restaurante: LaParri
+[INFO] 17:59:19:527 Sindicato/(9987:9987): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:59:19:527 Sindicato/(9987:9987): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 17:59:19:527 Sindicato/(9987:9987): 	Coordenadas -> (1, 1)
+[INFO] 17:59:19:527 Sindicato/(9987:9987): 	Afinidades:
+[INFO] 17:59:19:527 Sindicato/(9987:9987): 		AsadoJugoso
+[INFO] 17:59:19:527 Sindicato/(9987:9987): 	Recetas:
+[INFO] 17:59:19:528 Sindicato/(9987:9987): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 17:59:19:528 Sindicato/(9987:9987): 		Plato: AsadoSeco	Precio: 200
+[INFO] 17:59:19:528 Sindicato/(9987:9987): 		Plato: Choripan	Precio: 125
+[INFO] 17:59:25:48 Sindicato/(9987:9987): Se establecio una conexion con el restaurante GreenLife
+[INFO] 17:59:25:52 Sindicato/(9987:9987): 	Restaurante: GreenLife
+[INFO] 17:59:25:68 Sindicato/(9987:9987): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 	Coordenadas -> (9, 9)
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 	Afinidades:
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 	Recetas:
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 17:59:25:69 Sindicato/(9987:9987): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 17:59:30:892 Sindicato/(9987:9987): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 17:59:30:899 Sindicato/(9987:10072): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 17:59:30:899 Sindicato/(9987:10072): 	Restaurante: MilangaPalace
+[INFO] 17:59:30:903 Sindicato/(9987:10072): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 17:59:30:903 Sindicato/(9987:10072): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 17:59:30:904 Sindicato/(9987:10072): 	Coordenadas -> (5, 5)
+[INFO] 17:59:30:904 Sindicato/(9987:10072): 	Afinidades:
+[INFO] 17:59:30:904 Sindicato/(9987:10072): 	Recetas:
+[INFO] 17:59:30:905 Sindicato/(9987:10072): 		Plato: MilaCompleta	Precio: 200
+[INFO] 18:00:14:595 Sindicato/(9987:10095): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:00:14:595 Sindicato/(9987:10095): 	Restaurante: MilangaPalace	Pedido 1
+[INFO] 18:00:14:597 Sindicato/(9987:10095): Asignacipn del bloque 22 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP
+[INFO] 18:00:14:597 Sindicato/(9987:10095): Se creo el archivo "Pedido1.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP).
+[INFO] 18:00:14:603 Sindicato/(9987:10095): Asignacipn del bloque 23 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP
+[INFO] 18:00:14:604 Sindicato/(9987:10095): Se creo el archivo "Pedido1.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido1.AFIP).
+[INFO] 18:00:14:604 Sindicato/(9987:10095): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:00:14:607 Sindicato/(9987:10095): 	Operación exitosa
+[INFO] 18:00:30:258 Sindicato/(9987:10102): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:00:30:259 Sindicato/(9987:10102): 	Restaurante: MilangaPalace	Pedido: 1	Plato: MilaCompleta	Cantidad: 1
+[INFO] 18:00:30:260 Sindicato/(9987:10102): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:00:30:262 Sindicato/(9987:10102): 	Operación exitosa
+[INFO] 18:03:20:865 Sindicato/(9987:10135): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:03:20:873 Sindicato/(9987:10135): 	Restaurante: GreenLife	Pedido 1
+[INFO] 18:03:20:876 Sindicato/(9987:10135): Asignacipn del bloque 24 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido1.AFIP
+[INFO] 18:03:20:876 Sindicato/(9987:10135): Se creo el archivo "Pedido1.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido1.AFIP).
+[INFO] 18:03:20:890 Sindicato/(9987:10135): Asignacipn del bloque 25 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido1.AFIP
+[INFO] 18:03:20:892 Sindicato/(9987:10135): Se creo el archivo "Pedido1.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido1.AFIP).
+[INFO] 18:03:20:892 Sindicato/(9987:10135): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:03:20:892 Sindicato/(9987:10135): 	Operación exitosa
+[INFO] 18:03:37:838 Sindicato/(9987:10140): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:03:37:838 Sindicato/(9987:10140): 	Restaurante: GreenLife	Pedido: 1	Plato: WokDeVegetales	Cantidad: 1
+[INFO] 18:03:37:845 Sindicato/(9987:10140): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:03:37:845 Sindicato/(9987:10140): 	Operación exitosa
+[INFO] 18:04:00:651 Sindicato/(9987:10145): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:04:00:653 Sindicato/(9987:10145): 	Restaurante: GreenLife	Pedido: 1	Plato: TortillaDePapa	Cantidad: 2
+[INFO] 18:04:00:656 Sindicato/(9987:10145): Asignacipn del bloque 26 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido1.AFIP
+[INFO] 18:04:00:657 Sindicato/(9987:10145): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:04:00:657 Sindicato/(9987:10145): 	Operación exitosa
+[INFO] 18:04:47:271 Sindicato/(9987:10173): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:04:47:271 Sindicato/(9987:10173): 	Restaurante: LaParri	Pedido 1
+[INFO] 18:04:47:274 Sindicato/(9987:10173): Asignacipn del bloque 27 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 18:04:47:275 Sindicato/(9987:10173): Se creo el archivo "Pedido1.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP).
+[INFO] 18:04:47:277 Sindicato/(9987:10173): Asignacipn del bloque 28 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 18:04:47:278 Sindicato/(9987:10173): Se creo el archivo "Pedido1.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP).
+[INFO] 18:04:47:278 Sindicato/(9987:10173): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:04:47:279 Sindicato/(9987:10173): 	Operación exitosa
+[INFO] 18:05:13:400 Sindicato/(9987:10179): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:05:13:400 Sindicato/(9987:10179): 	Restaurante: LaParri	Pedido: 1	Plato: LaParri	Cantidad: 3
+[INFO] 18:05:13:402 Sindicato/(9987:10179): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:05:13:402 Sindicato/(9987:10179): 	No se pudo concretar la operación
+[INFO] 18:07:13:735 Sindicato/(9987:10190): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:07:13:735 Sindicato/(9987:10190): 	Restaurante: LaParri	Pedido: 1	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 18:07:13:736 Sindicato/(9987:10190): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:07:13:736 Sindicato/(9987:10190): 	Operación exitosa
+[INFO] 18:07:26:717 Sindicato/(9987:10197): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:07:26:723 Sindicato/(9987:10197): 	Restaurante: LaParri	Pedido: 1	Plato: AsadoSeco	Cantidad: 1
+[INFO] 18:07:26:725 Sindicato/(9987:10197): Asignacipn del bloque 29 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 18:07:26:726 Sindicato/(9987:10197): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:07:26:726 Sindicato/(9987:10197): 	Operación exitosa
+[INFO] 18:07:45:875 Sindicato/(9987:10203): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:07:45:876 Sindicato/(9987:10203): 	Restaurante: LaParri	Pedido: 1	Plato: Choripan	Cantidad: 4
+[INFO] 18:07:45:877 Sindicato/(9987:10203): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:07:45:879 Sindicato/(9987:10203): 	Operación exitosa
+[INFO] 18:08:03:150 Sindicato/(9987:10209): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 18:08:03:150 Sindicato/(9987:10209): 	Restaurante: LaParri	Pedido 1
+[INFO] 18:13:28:79 Sindicato/(10300:10300): Cantidad de bloques disponibles: 2018
+[INFO] 18:13:28:100 Sindicato/(10300:10300): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:13:44:533 Sindicato/(10300:10300): Se establecio una conexion con el restaurante LaParri
+[INFO] 18:13:44:539 Sindicato/(10300:10300): 	Restaurante: LaParri
+[INFO] 18:13:54:368 Sindicato/(10300:10300): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:13:54:368 Sindicato/(10300:10300): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 2
+[INFO] 18:13:54:368 Sindicato/(10300:10300): 	Coordenadas -> (1, 1)
+[INFO] 18:13:54:368 Sindicato/(10300:10300): 	Afinidades:
+[INFO] 18:13:54:369 Sindicato/(10300:10300): 		AsadoJugoso
+[INFO] 18:13:54:369 Sindicato/(10300:10300): 	Recetas:
+[INFO] 18:13:54:369 Sindicato/(10300:10300): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 18:13:54:369 Sindicato/(10300:10300): 		Plato: AsadoSeco	Precio: 200
+[INFO] 18:13:54:369 Sindicato/(10300:10300): 		Plato: Choripan	Precio: 125
+[INFO] 18:14:26:747 Sindicato/(10300:10300): Se establecio una conexion con el restaurante GreenLife
+[INFO] 18:14:26:752 Sindicato/(10300:10300): 	Restaurante: GreenLife
+[INFO] 18:14:26:755 Sindicato/(10300:10300): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:14:26:756 Sindicato/(10300:10300): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 2
+[INFO] 18:14:26:757 Sindicato/(10300:10300): 	Coordenadas -> (9, 9)
+[INFO] 18:14:26:757 Sindicato/(10300:10300): 	Afinidades:
+[INFO] 18:14:26:757 Sindicato/(10300:10300): 	Recetas:
+[INFO] 18:14:26:757 Sindicato/(10300:10300): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 18:14:26:757 Sindicato/(10300:10300): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 18:14:33:661 Sindicato/(10300:10300): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 18:14:33:670 Sindicato/(10300:10394): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 18:14:33:670 Sindicato/(10300:10394): 	Restaurante: MilangaPalace
+[INFO] 18:14:33:673 Sindicato/(10300:10394): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:14:33:674 Sindicato/(10300:10394): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 2
+[INFO] 18:14:33:674 Sindicato/(10300:10394): 	Coordenadas -> (5, 5)
+[INFO] 18:14:33:674 Sindicato/(10300:10394): 	Afinidades:
+[INFO] 18:14:33:674 Sindicato/(10300:10394): 	Recetas:
+[INFO] 18:14:33:674 Sindicato/(10300:10394): 		Plato: MilaCompleta	Precio: 200
+[INFO] 18:15:15:571 Sindicato/(10300:10419): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:15:15:572 Sindicato/(10300:10419): 	Restaurante: MilangaPalace	Pedido 2
+[INFO] 18:15:15:582 Sindicato/(10300:10419): Asignacipn del bloque 30 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP
+[INFO] 18:15:15:583 Sindicato/(10300:10419): Se creo el archivo "Pedido2.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP).
+[INFO] 18:15:15:596 Sindicato/(10300:10419): Asignacipn del bloque 31 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP
+[INFO] 18:15:15:597 Sindicato/(10300:10419): Se creo el archivo "Pedido2.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido2.AFIP).
+[INFO] 18:15:15:597 Sindicato/(10300:10419): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:15:15:597 Sindicato/(10300:10419): 	Operación exitosa
+[INFO] 18:15:27:13 Sindicato/(10300:10426): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:15:27:15 Sindicato/(10300:10426): 	Restaurante: MilangaPalace	Pedido: 2	Plato: MilaCompleta	Cantidad: 1
+[INFO] 18:15:27:17 Sindicato/(10300:10426): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:15:27:17 Sindicato/(10300:10426): 	Operación exitosa
+[INFO] 18:17:01:661 Sindicato/(10300:10455): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:17:01:665 Sindicato/(10300:10455): 	Restaurante: GreenLife	Pedido 2
+[INFO] 18:17:01:679 Sindicato/(10300:10455): Asignacipn del bloque 32 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido2.AFIP
+[INFO] 18:17:01:680 Sindicato/(10300:10455): Se creo el archivo "Pedido2.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido2.AFIP).
+[INFO] 18:17:01:684 Sindicato/(10300:10455): Asignacipn del bloque 33 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido2.AFIP
+[INFO] 18:17:01:685 Sindicato/(10300:10455): Se creo el archivo "Pedido2.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido2.AFIP).
+[INFO] 18:17:01:685 Sindicato/(10300:10455): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:17:01:686 Sindicato/(10300:10455): 	Operación exitosa
+[INFO] 18:17:59:46 Sindicato/(10300:10466): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:17:59:46 Sindicato/(10300:10466): 	Restaurante: GreenLife	Pedido: 2	Plato: WokDeVegetales	Cantidad: 1
+[INFO] 18:17:59:48 Sindicato/(10300:10466): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:17:59:49 Sindicato/(10300:10466): 	Operación exitosa
+[INFO] 18:18:11:911 Sindicato/(10300:10471): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:18:11:913 Sindicato/(10300:10471): 	Restaurante: GreenLife	Pedido: 2	Plato: TortillaDePapa	Cantidad: 2
+[INFO] 18:18:11:916 Sindicato/(10300:10471): Asignacipn del bloque 34 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido2.AFIP
+[INFO] 18:18:11:917 Sindicato/(10300:10471): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:18:11:917 Sindicato/(10300:10471): 	Operación exitosa
+[INFO] 18:19:00:395 Sindicato/(10300:10494): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:19:00:396 Sindicato/(10300:10494): 	Restaurante: LaParri	Pedido 2
+[INFO] 18:19:00:407 Sindicato/(10300:10494): Asignacipn del bloque 35 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 18:19:00:410 Sindicato/(10300:10494): Se creo el archivo "Pedido2.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP).
+[INFO] 18:19:00:413 Sindicato/(10300:10494): Asignacipn del bloque 36 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 18:19:00:414 Sindicato/(10300:10494): Se creo el archivo "Pedido2.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP).
+[INFO] 18:19:00:415 Sindicato/(10300:10494): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:19:00:415 Sindicato/(10300:10494): 	Operación exitosa
+[INFO] 18:19:15:965 Sindicato/(10300:10503): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:19:15:965 Sindicato/(10300:10503): 	Restaurante: LaParri	Pedido: 2	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 18:19:15:973 Sindicato/(10300:10503): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:19:15:975 Sindicato/(10300:10503): 	Operación exitosa
+[INFO] 18:19:25:777 Sindicato/(10300:10512): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:19:25:777 Sindicato/(10300:10512): 	Restaurante: LaParri	Pedido: 2	Plato: AsadoSeco	Cantidad: 1
+[INFO] 18:19:25:777 Sindicato/(10300:10512): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:19:25:778 Sindicato/(10300:10512): 	Operación exitosa
+[INFO] 18:19:41:567 Sindicato/(10300:10517): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:19:41:567 Sindicato/(10300:10517): 	Restaurante: LaParri	Pedido: 2	Plato: Choripan	Cantidad: 4
+[INFO] 18:19:41:569 Sindicato/(10300:10517): Asignacipn del bloque 37 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 18:19:41:570 Sindicato/(10300:10517): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:19:41:570 Sindicato/(10300:10517): 	Operación exitosa
+[INFO] 18:19:53:386 Sindicato/(10300:10523): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 18:19:53:386 Sindicato/(10300:10523): 	Restaurante: LaParri	Pedido 2
+[INFO] 18:25:10:799 Sindicato/(10593:10593): Cantidad de bloques disponibles: 2010
+[INFO] 18:25:10:808 Sindicato/(10593:10593): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:25:19:541 Sindicato/(10593:10593): Se establecio una conexion con el cliente Cliente1
+[INFO] 18:25:59:506 Sindicato/(10593:10593): 	Restaurante: LaParri	Pedido 2
+[INFO] 18:30:40:555 Sindicato/(10755:10755): Cantidad de bloques disponibles: 2010
+[INFO] 18:30:40:559 Sindicato/(10755:10755): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:31:56:210 Sindicato/(10790:10790): Cantidad de bloques disponibles: 2010
+[INFO] 18:31:56:216 Sindicato/(10790:10790): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:32:02:912 Sindicato/(10790:10790): Se establecio una conexion con el cliente Cliente1
+[INFO] 18:34:16:165 Sindicato/(10790:10790): 	Restaurante: LaParri	Pedido 2
+[INFO] 18:36:16:706 Sindicato/(10790:10790): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 18:36:16:706 Sindicato/(10790:10790): 	Estado: Confirmado
+[INFO] 18:36:16:707 Sindicato/(10790:10790): 	Lista platos:
+[INFO] 18:36:16:707 Sindicato/(10790:10790): 		Plato: AsadoJugoso	Total: 1	Listo: 0
+
+[INFO] 18:36:16:707 Sindicato/(10790:10790): 		Plato: AsadoSeco	Total: 1	Listo: 0
+
+[INFO] 18:36:16:707 Sindicato/(10790:10790): 		Plato: Choripan	Total: 4	Listo: 0
+
+[INFO] 18:46:00:971 Sindicato/(10992:10992): Cantidad de bloques disponibles: 2010
+[INFO] 18:46:00:972 Sindicato/(10992:10992): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:47:07:354 Sindicato/(10992:10992): Se establecio una conexion con el restaurante LaParri
+[INFO] 18:47:07:355 Sindicato/(10992:10992): 	Restaurante: LaParri
+[INFO] 18:47:07:378 Sindicato/(10992:10992): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:47:07:378 Sindicato/(10992:10992): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:47:07:378 Sindicato/(10992:10992): 	Coordenadas -> (1, 1)
+[INFO] 18:47:07:379 Sindicato/(10992:10992): 	Afinidades:
+[INFO] 18:47:07:379 Sindicato/(10992:10992): 		AsadoJugoso
+[INFO] 18:47:07:379 Sindicato/(10992:10992): 	Recetas:
+[INFO] 18:47:07:379 Sindicato/(10992:10992): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 18:47:07:379 Sindicato/(10992:10992): 		Plato: AsadoSeco	Precio: 200
+[INFO] 18:47:07:380 Sindicato/(10992:10992): 		Plato: Choripan	Precio: 125
+[INFO] 18:47:18:620 Sindicato/(10992:10992): Se establecio una conexion con el restaurante GreenLife
+[INFO] 18:47:18:621 Sindicato/(10992:10992): 	Restaurante: GreenLife
+[INFO] 18:47:18:626 Sindicato/(10992:10992): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:47:18:626 Sindicato/(10992:10992): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:47:18:626 Sindicato/(10992:10992): 	Coordenadas -> (9, 9)
+[INFO] 18:47:18:626 Sindicato/(10992:10992): 	Afinidades:
+[INFO] 18:47:18:626 Sindicato/(10992:10992): 	Recetas:
+[INFO] 18:47:18:626 Sindicato/(10992:10992): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 18:47:18:627 Sindicato/(10992:10992): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 18:47:24:419 Sindicato/(10992:10992): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 18:47:24:426 Sindicato/(10992:11077): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 18:47:24:426 Sindicato/(10992:11077): 	Restaurante: MilangaPalace
+[INFO] 18:47:24:433 Sindicato/(10992:11077): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:47:24:433 Sindicato/(10992:11077): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:47:24:433 Sindicato/(10992:11077): 	Coordenadas -> (5, 5)
+[INFO] 18:47:24:433 Sindicato/(10992:11077): 	Afinidades:
+[INFO] 18:47:24:434 Sindicato/(10992:11077): 	Recetas:
+[INFO] 18:47:24:434 Sindicato/(10992:11077): 		Plato: MilaCompleta	Precio: 200
+[INFO] 18:47:38:569 Sindicato/(10992:11090): Se recibio el mensaje (null)
+[INFO] 18:47:38:570 Sindicato/(10992:11090): Se establecio una conexion con el cliente Cliente1
+[INFO] 18:50:36:943 Sindicato/(11191:11191): Cantidad de bloques disponibles: 2010
+[INFO] 18:50:36:944 Sindicato/(11191:11191): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 18:51:09:573 Sindicato/(11191:11191): Se establecio una conexion con el restaurante LaParri
+[INFO] 18:51:09:575 Sindicato/(11191:11191): 	Restaurante: LaParri
+[INFO] 18:51:09:584 Sindicato/(11191:11191): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:51:09:584 Sindicato/(11191:11191): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:51:09:584 Sindicato/(11191:11191): 	Coordenadas -> (1, 1)
+[INFO] 18:51:09:584 Sindicato/(11191:11191): 	Afinidades:
+[INFO] 18:51:09:584 Sindicato/(11191:11191): 		AsadoJugoso
+[INFO] 18:51:09:584 Sindicato/(11191:11191): 	Recetas:
+[INFO] 18:51:09:585 Sindicato/(11191:11191): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 18:51:09:585 Sindicato/(11191:11191): 		Plato: AsadoSeco	Precio: 200
+[INFO] 18:51:09:585 Sindicato/(11191:11191): 		Plato: Choripan	Precio: 125
+[INFO] 18:51:17:28 Sindicato/(11191:11191): Se establecio una conexion con el restaurante GreenLife
+[INFO] 18:51:17:33 Sindicato/(11191:11191): 	Restaurante: GreenLife
+[INFO] 18:51:17:40 Sindicato/(11191:11191): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:51:17:40 Sindicato/(11191:11191): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:51:17:41 Sindicato/(11191:11191): 	Coordenadas -> (9, 9)
+[INFO] 18:51:17:41 Sindicato/(11191:11191): 	Afinidades:
+[INFO] 18:51:17:41 Sindicato/(11191:11191): 	Recetas:
+[INFO] 18:51:17:41 Sindicato/(11191:11191): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 18:51:17:42 Sindicato/(11191:11191): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 18:51:26:561 Sindicato/(11191:11191): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 18:51:26:565 Sindicato/(11191:11270): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 18:51:26:565 Sindicato/(11191:11270): 	Restaurante: MilangaPalace
+[INFO] 18:51:26:569 Sindicato/(11191:11270): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 18:51:26:569 Sindicato/(11191:11270): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 18:51:26:569 Sindicato/(11191:11270): 	Coordenadas -> (5, 5)
+[INFO] 18:51:26:569 Sindicato/(11191:11270): 	Afinidades:
+[INFO] 18:51:26:569 Sindicato/(11191:11270): 	Recetas:
+[INFO] 18:51:26:569 Sindicato/(11191:11270): 		Plato: MilaCompleta	Precio: 200
+[INFO] 18:52:24:511 Sindicato/(11191:11297): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:52:24:519 Sindicato/(11191:11297): 	Restaurante: MilangaPalace	Pedido 3
+[INFO] 18:52:24:530 Sindicato/(11191:11297): Asignacipn del bloque 38 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido3.AFIP
+[INFO] 18:52:24:535 Sindicato/(11191:11297): Se creo el archivo "Pedido3.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido3.AFIP).
+[INFO] 18:52:24:547 Sindicato/(11191:11297): Asignacipn del bloque 39 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido3.AFIP
+[INFO] 18:52:24:548 Sindicato/(11191:11297): Se creo el archivo "Pedido3.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido3.AFIP).
+[INFO] 18:52:24:549 Sindicato/(11191:11297): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:52:24:549 Sindicato/(11191:11297): 	Operación exitosa
+[INFO] 18:52:44:552 Sindicato/(11191:11302): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:52:44:552 Sindicato/(11191:11302): 	Restaurante: MilangaPalace	Pedido: 3	Plato: MilaCompleta	Cantidad: 1
+[INFO] 18:52:44:555 Sindicato/(11191:11302): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:52:44:555 Sindicato/(11191:11302): 	Operación exitosa
+[INFO] 18:54:01:317 Sindicato/(11191:11332): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:54:01:328 Sindicato/(11191:11332): 	Restaurante: GreenLife	Pedido 3
+[INFO] 18:54:01:339 Sindicato/(11191:11332): Asignacipn del bloque 40 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido3.AFIP
+[INFO] 18:54:01:344 Sindicato/(11191:11332): Se creo el archivo "Pedido3.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido3.AFIP).
+[INFO] 18:54:01:356 Sindicato/(11191:11332): Asignacipn del bloque 41 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido3.AFIP
+[INFO] 18:54:01:357 Sindicato/(11191:11332): Se creo el archivo "Pedido3.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido3.AFIP).
+[INFO] 18:54:01:357 Sindicato/(11191:11332): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:54:01:357 Sindicato/(11191:11332): 	Operación exitosa
+[INFO] 18:54:18:961 Sindicato/(11191:11342): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:54:18:961 Sindicato/(11191:11342): 	Restaurante: GreenLife	Pedido: 3	Plato: WokDeVegetales	Cantidad: 1
+[INFO] 18:54:18:965 Sindicato/(11191:11342): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:54:18:965 Sindicato/(11191:11342): 	Operación exitosa
+[INFO] 18:54:33:506 Sindicato/(11191:11349): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:54:33:506 Sindicato/(11191:11349): 	Restaurante: GreenLife	Pedido: 3	Plato: TortillaDePapa	Cantidad: 2
+[INFO] 18:54:33:511 Sindicato/(11191:11349): Asignacipn del bloque 42 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido3.AFIP
+[INFO] 18:54:33:512 Sindicato/(11191:11349): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:54:33:512 Sindicato/(11191:11349): 	Operación exitosa
+[INFO] 18:55:00:936 Sindicato/(11191:11370): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 18:55:00:936 Sindicato/(11191:11370): 	Restaurante: LaParri	Pedido 3
+[INFO] 18:55:00:939 Sindicato/(11191:11370): Asignacipn del bloque 43 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 18:55:00:939 Sindicato/(11191:11370): Se creo el archivo "Pedido3.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP).
+[INFO] 18:55:00:943 Sindicato/(11191:11370): Asignacipn del bloque 44 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 18:55:00:944 Sindicato/(11191:11370): Se creo el archivo "Pedido3.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP).
+[INFO] 18:55:00:944 Sindicato/(11191:11370): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 18:55:00:944 Sindicato/(11191:11370): 	Operación exitosa
+[INFO] 18:55:23:638 Sindicato/(11191:11377): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:55:23:638 Sindicato/(11191:11377): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 18:55:23:642 Sindicato/(11191:11377): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:55:23:642 Sindicato/(11191:11377): 	Operación exitosa
+[INFO] 18:55:34:880 Sindicato/(11191:11387): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:55:34:881 Sindicato/(11191:11387): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco	Cantidad: 1
+[INFO] 18:55:34:881 Sindicato/(11191:11387): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:55:34:882 Sindicato/(11191:11387): 	Operación exitosa
+[INFO] 18:55:44:892 Sindicato/(11191:11392): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 18:55:44:892 Sindicato/(11191:11392): 	Restaurante: LaParri	Pedido: 3	Plato: Choripan	Cantidad: 4
+[INFO] 18:55:44:894 Sindicato/(11191:11392): Asignacipn del bloque 45 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 18:55:44:894 Sindicato/(11191:11392): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 18:55:44:894 Sindicato/(11191:11392): 	Operación exitosa
+[INFO] 18:56:48:590 Sindicato/(11191:11408): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 18:56:48:591 Sindicato/(11191:11408): 	Restaurante: LaParri	Pedido 3
+[INFO] 18:56:48:601 Sindicato/(11191:11408): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 18:56:48:602 Sindicato/(11191:11408): 	Estado: Confirmado
+[INFO] 18:56:48:602 Sindicato/(11191:11408): 	Lista platos:
+[INFO] 18:56:48:602 Sindicato/(11191:11408): 		Plato: AsadoJugoso	Total: 1	Listo: 0
+
+[INFO] 18:56:48:602 Sindicato/(11191:11408): 		Plato: AsadoSeco	Total: 1	Listo: 0
+
+[INFO] 18:56:48:602 Sindicato/(11191:11408): 		Plato: Choripan	Total: 4	Listo: 0
+
+[INFO] 18:56:50:184 Sindicato/(11191:11419): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 18:56:50:185 Sindicato/(11191:11419): 	Restaurante: MilangaPalace	Pedido 3
+[INFO] 18:56:50:189 Sindicato/(11191:11419): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 18:56:50:190 Sindicato/(11191:11419): 	Estado: Confirmado
+[INFO] 18:56:50:190 Sindicato/(11191:11419): 	Lista platos:
+[INFO] 18:56:50:190 Sindicato/(11191:11419): 		Plato: MilaCompleta	Total: 1	Listo: 0
+
+[INFO] 18:56:53:992 Sindicato/(11191:11425): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 18:56:53:993 Sindicato/(11191:11425): 	Restaurante: GreenLife	Pedido 3
+[INFO] 18:56:53:998 Sindicato/(11191:11425): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 18:56:53:999 Sindicato/(11191:11425): 	Estado: Confirmado
+[INFO] 18:56:53:999 Sindicato/(11191:11425): 	Lista platos:
+[INFO] 18:56:53:999 Sindicato/(11191:11425): 		Plato: WokDeVegetales	Total: 1	Listo: 0
+
+[INFO] 18:56:53:999 Sindicato/(11191:11425): 		Plato: TortillaDePapa	Total: 2	Listo: 0
+
+[INFO] 18:56:58:265 Sindicato/(11191:11430): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:56:58:265 Sindicato/(11191:11430): 	Restaurante: MilangaPalace	Pedido: 3	Plato: MilaCompleta
+[INFO] 18:56:58:265 Sindicato/(11191:11430): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:56:58:266 Sindicato/(11191:11430): 	Operación exitosa
+[INFO] 18:57:04:633 Sindicato/(11191:11433): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:57:04:633 Sindicato/(11191:11433): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoJugoso
+[INFO] 18:57:04:634 Sindicato/(11191:11433): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:57:04:634 Sindicato/(11191:11433): 	Operación exitosa
+[INFO] 18:57:13:62 Sindicato/(11191:11436): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:57:13:62 Sindicato/(11191:11436): 	Restaurante: GreenLife	Pedido: 3	Plato: WokDeVegetales
+[INFO] 18:57:13:62 Sindicato/(11191:11436): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:57:13:62 Sindicato/(11191:11436): 	Operación exitosa
+[INFO] 18:57:14:69 Sindicato/(11191:11439): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:57:14:69 Sindicato/(11191:11439): 	Restaurante: GreenLife	Pedido: 3	Plato: TortillaDePapa
+[INFO] 18:57:14:70 Sindicato/(11191:11439): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:57:14:70 Sindicato/(11191:11439): 	Operación exitosa
+[INFO] 18:57:15:77 Sindicato/(11191:11442): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:57:15:77 Sindicato/(11191:11442): 	Restaurante: GreenLife	Pedido: 3	Plato: TortillaDePapa
+[INFO] 18:57:15:77 Sindicato/(11191:11442): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:57:15:77 Sindicato/(11191:11442): 	Operación exitosa
+[INFO] 18:57:43:741 Sindicato/(11191:11448): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:57:43:741 Sindicato/(11191:11448): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco
+[INFO] 18:57:43:742 Sindicato/(11191:11448): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:57:43:742 Sindicato/(11191:11448): 	Operación exitosa
+[INFO] 18:59:21:180 Sindicato/(11191:11463): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:59:21:181 Sindicato/(11191:11463): 	Restaurante: LaParri	Pedido: 3	Plato: Choripan
+[INFO] 18:59:21:181 Sindicato/(11191:11463): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:59:21:181 Sindicato/(11191:11463): 	Operación exitosa
+[INFO] 18:59:23:183 Sindicato/(11191:11466): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:59:23:185 Sindicato/(11191:11466): 	Restaurante: LaParri	Pedido: 3	Plato: Choripan
+[INFO] 18:59:23:186 Sindicato/(11191:11466): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:59:23:186 Sindicato/(11191:11466): 	Operación exitosa
+[INFO] 18:59:25:186 Sindicato/(11191:11469): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:59:25:187 Sindicato/(11191:11469): 	Restaurante: LaParri	Pedido: 3	Plato: Choripan
+[INFO] 18:59:25:188 Sindicato/(11191:11469): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:59:25:188 Sindicato/(11191:11469): 	Operación exitosa
+[INFO] 18:59:28:221 Sindicato/(11191:11472): Se recibio el mensaje PLATO_LISTO
+[INFO] 18:59:28:221 Sindicato/(11191:11472): 	Restaurante: LaParri	Pedido: 3	Plato: Choripan
+[INFO] 18:59:28:222 Sindicato/(11191:11472): Se envio el mensaje R_PLATO_LISTO
+[INFO] 18:59:28:225 Sindicato/(11191:11472): 	Operación exitosa
+[INFO] 19:13:38:19 Sindicato/(11673:11673): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 19:13:48:391 Sindicato/(11673:11680): Se creo el archivo "AsadoJugoso.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP).
+[INFO] 19:13:48:393 Sindicato/(11673:11680): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP
+[INFO] 19:13:55:204 Sindicato/(11673:11680): Se creo el archivo "AsadoSeco.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP).
+[INFO] 19:13:55:205 Sindicato/(11673:11680): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP
+[INFO] 19:14:00:775 Sindicato/(11673:11680): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip/Files/Recetas/Choripan.AFIP).
+[INFO] 19:14:00:777 Sindicato/(11673:11680): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Recetas/Choripan.AFIP
+[INFO] 19:14:07:430 Sindicato/(11673:11680): Se creo el archivo "WokDeVegetales.AFIP" (path: /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP).
+[INFO] 19:14:07:431 Sindicato/(11673:11680): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Recetas/WokDeVegetales.AFIP
+[INFO] 19:14:13:529 Sindicato/(11673:11680): Se creo el archivo "TortillaDePapa.AFIP" (path: /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP).
+[INFO] 19:14:13:553 Sindicato/(11673:11680): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Recetas/TortillaDePapa.AFIP
+[INFO] 19:14:20:864 Sindicato/(11673:11680): Se creo el archivo "MilaCompleta.AFIP" (path: /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP).
+[INFO] 19:14:20:866 Sindicato/(11673:11680): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Recetas/MilaCompleta.AFIP
+[INFO] 19:14:27:180 Sindicato/(11673:11680): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 19:14:27:180 Sindicato/(11673:11680): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 19:14:27:182 Sindicato/(11673:11680): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 19:14:27:184 Sindicato/(11673:11680): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 19:14:27:190 Sindicato/(11673:11680): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 19:14:32:387 Sindicato/(11673:11680): Se creo el directio GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife)
+[INFO] 19:14:32:388 Sindicato/(11673:11680): Se creo el archivo "Info.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP).
+[INFO] 19:14:32:396 Sindicato/(11673:11680): Asignacipn del bloque 9 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 19:14:32:398 Sindicato/(11673:11680): Asignacipn del bloque 10 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 19:14:32:400 Sindicato/(11673:11680): Asignacipn del bloque 11 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Info.AFIP
+[INFO] 19:14:37:637 Sindicato/(11673:11680): Se creo el directio MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace)
+[INFO] 19:14:37:638 Sindicato/(11673:11680): Se creo el archivo "Info.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP).
+[INFO] 19:14:37:643 Sindicato/(11673:11680): Asignacipn del bloque 12 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 19:14:37:645 Sindicato/(11673:11680): Asignacipn del bloque 13 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Info.AFIP
+[INFO] 19:15:33:908 Sindicato/(11673:11673): Se establecio una conexion con el restaurante LaParri
+[INFO] 19:15:33:916 Sindicato/(11673:11673): 	Restaurante: LaParri
+[INFO] 19:15:33:941 Sindicato/(11673:11673): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 	Coordenadas -> (1, 1)
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 	Afinidades:
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 		AsadoJugoso
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 	Recetas:
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 		Plato: AsadoSeco	Precio: 200
+[INFO] 19:15:33:942 Sindicato/(11673:11673): 		Plato: Choripan	Precio: 125
+[INFO] 19:15:40:177 Sindicato/(11673:11673): Se establecio una conexion con el restaurante GreenLife
+[INFO] 19:15:40:178 Sindicato/(11673:11673): 	Restaurante: GreenLife
+[INFO] 19:15:40:183 Sindicato/(11673:11673): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 	Coordenadas -> (9, 9)
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 	Afinidades:
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 	Recetas:
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 		Plato: WokDeVegetales	Precio: 200
+[INFO] 19:15:40:184 Sindicato/(11673:11673): 		Plato: TortillaDePapa	Precio: 150
+[INFO] 19:15:46:196 Sindicato/(11673:11673): Se establecio una conexion con el restaurante MilangaPalace
+[INFO] 19:15:46:201 Sindicato/(11673:11784): Se recibio el mensaje OBTENER_RESTAURANTE
+[INFO] 19:15:46:201 Sindicato/(11673:11784): 	Restaurante: MilangaPalace
+[INFO] 19:15:46:208 Sindicato/(11673:11784): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 19:15:46:208 Sindicato/(11673:11784): 	Cantidad de cocineros: 1	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 19:15:46:209 Sindicato/(11673:11784): 	Coordenadas -> (5, 5)
+[INFO] 19:15:46:209 Sindicato/(11673:11784): 	Afinidades:
+[INFO] 19:15:46:209 Sindicato/(11673:11784): 	Recetas:
+[INFO] 19:15:46:209 Sindicato/(11673:11784): 		Plato: MilaCompleta	Precio: 200
+[INFO] 19:16:21:251 Sindicato/(11673:11807): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 19:16:21:252 Sindicato/(11673:11807): 	Restaurante: MilangaPalace	Pedido 0
+[INFO] 19:16:21:255 Sindicato/(11673:11807): Asignacipn del bloque 14 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 19:16:21:260 Sindicato/(11673:11807): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 19:16:21:263 Sindicato/(11673:11807): Asignacipn del bloque 15 al archivo /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP
+[INFO] 19:16:21:263 Sindicato/(11673:11807): Se creo el archivo "Pedido0.AFIP" del restaurante MilangaPalace (path: /home/utnso/afip/Files/Restaurantes/MilangaPalace/Pedido0.AFIP).
+[INFO] 19:16:21:264 Sindicato/(11673:11807): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 19:16:21:264 Sindicato/(11673:11807): 	Operación exitosa
+[INFO] 19:16:40:35 Sindicato/(11673:11814): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:16:40:35 Sindicato/(11673:11814): 	Restaurante: MilangaPalace	Pedido: 0	Plato: MilaCompleta	Cantidad: 1
+[INFO] 19:16:40:38 Sindicato/(11673:11814): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:16:40:38 Sindicato/(11673:11814): 	Operación exitosa
+[INFO] 19:19:10:396 Sindicato/(11673:11867): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 19:19:10:397 Sindicato/(11673:11867): 	Restaurante: GreenLife	Pedido 0
+[INFO] 19:19:10:408 Sindicato/(11673:11867): Asignacipn del bloque 16 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 19:19:10:409 Sindicato/(11673:11867): Se creo el archivo "Pedido0.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP).
+[INFO] 19:19:10:414 Sindicato/(11673:11867): Asignacipn del bloque 17 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 19:19:10:416 Sindicato/(11673:11867): Se creo el archivo "Pedido0.AFIP" del restaurante GreenLife (path: /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP).
+[INFO] 19:19:10:416 Sindicato/(11673:11867): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 19:19:10:416 Sindicato/(11673:11867): 	Operación exitosa
+[INFO] 19:19:28:360 Sindicato/(11673:11879): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:19:28:361 Sindicato/(11673:11879): 	Restaurante: GreenLife	Pedido: 0	Plato: WokDeVegetales	Cantidad: 1
+[INFO] 19:19:28:365 Sindicato/(11673:11879): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:19:28:365 Sindicato/(11673:11879): 	Operación exitosa
+[INFO] 19:19:41:969 Sindicato/(11673:11885): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:19:41:969 Sindicato/(11673:11885): 	Restaurante: GreenLife	Pedido: 0	Plato: TortillaDePapa	Cantidad: 2
+[INFO] 19:19:41:970 Sindicato/(11673:11885): Asignacipn del bloque 18 al archivo /home/utnso/afip/Files/Restaurantes/GreenLife/Pedido0.AFIP
+[INFO] 19:19:41:971 Sindicato/(11673:11885): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:19:41:971 Sindicato/(11673:11885): 	Operación exitosa
+[INFO] 19:20:37:980 Sindicato/(11673:11909): Se recibio el mensaje GUARDAR_PEDIDO
+[INFO] 19:20:37:981 Sindicato/(11673:11909): 	Restaurante: LaParri	Pedido 0
+[INFO] 19:20:37:992 Sindicato/(11673:11909): Asignacipn del bloque 19 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 19:20:37:993 Sindicato/(11673:11909): Se creo el archivo "Pedido0.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP).
+[INFO] 19:20:37:997 Sindicato/(11673:11909): Asignacipn del bloque 20 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 19:20:37:998 Sindicato/(11673:11909): Se creo el archivo "Pedido0.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP).
+[INFO] 19:20:37:998 Sindicato/(11673:11909): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 19:20:37:998 Sindicato/(11673:11909): 	Operación exitosa
+[INFO] 19:20:59:648 Sindicato/(11673:11914): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:20:59:649 Sindicato/(11673:11914): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 19:20:59:654 Sindicato/(11673:11914): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:20:59:654 Sindicato/(11673:11914): 	Operación exitosa
+[INFO] 19:21:10:870 Sindicato/(11673:11919): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:21:10:870 Sindicato/(11673:11919): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoSeco	Cantidad: 1
+[INFO] 19:21:10:871 Sindicato/(11673:11919): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:21:10:871 Sindicato/(11673:11919): 	Operación exitosa
+[INFO] 19:21:24:706 Sindicato/(11673:11927): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 19:21:24:706 Sindicato/(11673:11927): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan	Cantidad: 4
+[INFO] 19:21:24:708 Sindicato/(11673:11927): Asignacipn del bloque 21 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 19:21:24:709 Sindicato/(11673:11927): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 19:21:24:710 Sindicato/(11673:11927): 	Operación exitosa
+[INFO] 19:21:44:85 Sindicato/(11673:11933): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 19:21:44:85 Sindicato/(11673:11933): 	Restaurante: LaParri	Pedido 0
+[INFO] 19:21:44:91 Sindicato/(11673:11933): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 19:21:44:91 Sindicato/(11673:11933): 	Estado: Confirmado
+[INFO] 19:21:44:91 Sindicato/(11673:11933): 	Lista platos:
+[INFO] 19:21:44:91 Sindicato/(11673:11933): 		Plato: AsadoJugoso	Total: 1	Listo: 0
+
+[INFO] 19:21:44:92 Sindicato/(11673:11933): 		Plato: AsadoSeco	Total: 1	Listo: 0
+
+[INFO] 19:21:44:92 Sindicato/(11673:11933): 		Plato: Choripan	Total: 4	Listo: 0
+
+[INFO] 19:21:45:802 Sindicato/(11673:11945): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 19:21:45:802 Sindicato/(11673:11945): 	Restaurante: MilangaPalace	Pedido 0
+[INFO] 19:21:45:810 Sindicato/(11673:11945): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 19:21:45:810 Sindicato/(11673:11945): 	Estado: Confirmado
+[INFO] 19:21:45:810 Sindicato/(11673:11945): 	Lista platos:
+[INFO] 19:21:45:811 Sindicato/(11673:11945): 		Plato: MilaCompleta	Total: 1	Listo: 0
+
+[INFO] 19:21:49:103 Sindicato/(11673:11952): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 19:21:49:103 Sindicato/(11673:11952): 	Restaurante: GreenLife	Pedido 0
+[INFO] 19:21:49:115 Sindicato/(11673:11952): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 19:21:49:115 Sindicato/(11673:11952): 	Estado: Confirmado
+[INFO] 19:21:49:115 Sindicato/(11673:11952): 	Lista platos:
+[INFO] 19:21:49:115 Sindicato/(11673:11952): 		Plato: WokDeVegetales	Total: 1	Listo: 0
+
+[INFO] 19:21:49:115 Sindicato/(11673:11952): 		Plato: TortillaDePapa	Total: 2	Listo: 0
+
+[INFO] 19:21:53:865 Sindicato/(11673:11958): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:21:53:866 Sindicato/(11673:11958): 	Restaurante: MilangaPalace	Pedido: 0	Plato: MilaCompleta
+[INFO] 19:21:53:866 Sindicato/(11673:11958): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:21:53:866 Sindicato/(11673:11958): 	Operación exitosa
+[INFO] 19:21:58:109 Sindicato/(11673:11961): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:21:58:112 Sindicato/(11673:11961): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan
+[INFO] 19:21:58:113 Sindicato/(11673:11961): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:21:58:114 Sindicato/(11673:11961): 	Operación exitosa
+[INFO] 19:22:00:111 Sindicato/(11673:11964): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:00:111 Sindicato/(11673:11964): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan
+[INFO] 19:22:00:111 Sindicato/(11673:11964): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:00:111 Sindicato/(11673:11964): 	Operación exitosa
+[INFO] 19:22:04:113 Sindicato/(11673:11967): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:04:113 Sindicato/(11673:11967): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan
+[INFO] 19:22:04:113 Sindicato/(11673:11967): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:04:113 Sindicato/(11673:11967): 	Operación exitosa
+[INFO] 19:22:08:116 Sindicato/(11673:11971): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:08:117 Sindicato/(11673:11971): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoJugoso
+[INFO] 19:22:08:121 Sindicato/(11673:11971): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:08:121 Sindicato/(11673:11971): 	Operación exitosa
+[INFO] 19:22:08:185 Sindicato/(11673:11974): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:08:186 Sindicato/(11673:11974): 	Restaurante: GreenLife	Pedido: 0	Plato: WokDeVegetales
+[INFO] 19:22:08:187 Sindicato/(11673:11974): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:08:187 Sindicato/(11673:11974): 	Operación exitosa
+[INFO] 19:22:09:185 Sindicato/(11673:11977): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:09:185 Sindicato/(11673:11977): 	Restaurante: GreenLife	Pedido: 0	Plato: TortillaDePapa
+[INFO] 19:22:09:186 Sindicato/(11673:11977): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:09:186 Sindicato/(11673:11977): 	Operación exitosa
+[INFO] 19:22:10:119 Sindicato/(11673:11980): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:10:119 Sindicato/(11673:11980): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan
+[INFO] 19:22:10:120 Sindicato/(11673:11980): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:10:120 Sindicato/(11673:11980): 	Operación exitosa
+[INFO] 19:22:10:196 Sindicato/(11673:11983): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:10:196 Sindicato/(11673:11983): 	Restaurante: GreenLife	Pedido: 0	Plato: TortillaDePapa
+[INFO] 19:22:10:197 Sindicato/(11673:11983): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:10:197 Sindicato/(11673:11983): 	Operación exitosa
+[INFO] 19:22:21:176 Sindicato/(11673:11986): Se recibio el mensaje PLATO_LISTO
+[INFO] 19:22:21:177 Sindicato/(11673:11986): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoSeco
+[INFO] 19:22:21:177 Sindicato/(11673:11986): Se envio el mensaje R_PLATO_LISTO
+[INFO] 19:22:21:177 Sindicato/(11673:11986): 	Operación exitosa
+[INFO] 11:30:38:972 Sindicato/(7961:7961): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 11:31:08:956 Sindicato/(7995:7995): Cantidad de bloques disponibles: 2048
+[INFO] 11:31:08:956 Sindicato/(7995:7995): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 20:07:13:76 Sindicato/(3742:3742): Cantidad de bloques disponibles: 2048
+[INFO] 20:07:13:77 Sindicato/(3742:3742): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 20:07:59:417 Sindicato/(3742:3749): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 20:07:59:417 Sindicato/(3742:3749): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 20:07:59:418 Sindicato/(3742:3749): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:07:59:423 Sindicato/(3742:3749): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:07:59:426 Sindicato/(3742:3749): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 20:08:09:314 Sindicato/(3742:3749): Se creo el archivo "AsadoJugoso.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP).
+[INFO] 20:08:09:315 Sindicato/(3742:3749): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Recetas/AsadoJugoso.AFIP
+[INFO] 20:08:16:217 Sindicato/(3742:3749): Se creo el archivo "AsadoSeco.AFIP" (path: /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP).
+[INFO] 20:08:16:218 Sindicato/(3742:3749): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Recetas/AsadoSeco.AFIP
+[INFO] 20:08:21:912 Sindicato/(3742:3749): Se creo el archivo "Choripan.AFIP" (path: /home/utnso/afip/Files/Recetas/Choripan.AFIP).
+[INFO] 20:08:21:914 Sindicato/(3742:3749): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Recetas/Choripan.AFIP
+[INFO] 20:09:09:586 Sindicato/(3742:3742): Se establecio una conexion con el restaurante LaParri
+[INFO] 20:09:09:587 Sindicato/(3742:3742): 	Restaurante: LaParri
+[INFO] 20:09:09:592 Sindicato/(3742:3742): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 20:09:09:592 Sindicato/(3742:3742): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 	Coordenadas -> (1, 1)
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 	Afinidades:
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 		AsadoJugoso
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 	Recetas:
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 20:09:09:593 Sindicato/(3742:3742): 		Plato: AsadoSeco	Precio: 200
+[INFO] 20:09:09:594 Sindicato/(3742:3742): 		Plato: Choripan	Precio: 125
+[INFO] 20:10:00:430 Sindicato/(3742:3742): 	Restaurante: LaParri
+[INFO] 20:10:00:432 Sindicato/(3742:3742): Se envio el mensaje R_CONSULTAR_PLATOS
+[INFO] 20:10:00:432 Sindicato/(3742:3742): 	AsadoJugoso
+[INFO] 20:10:00:432 Sindicato/(3742:3742): 	AsadoSeco
+[INFO] 20:10:00:432 Sindicato/(3742:3742): 	Choripan
+[INFO] 20:10:19:793 Sindicato/(3742:3742): 	Restaurante: LaParri	Pedido 0
+[INFO] 20:10:19:802 Sindicato/(3742:3742): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 20:10:19:803 Sindicato/(3742:3742): Se creo el archivo "Pedido0.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP).
+[INFO] 20:10:19:807 Sindicato/(3742:3742): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 20:10:19:808 Sindicato/(3742:3742): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 20:10:19:809 Sindicato/(3742:3742): 	Operación exitosa
+[INFO] 20:11:22:455 Sindicato/(3742:3742): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 20:11:22:459 Sindicato/(3742:3742): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 20:11:22:459 Sindicato/(3742:3742): 	Operación exitosa
+[INFO] 20:13:20:601 Sindicato/(3742:4124): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 20:13:20:601 Sindicato/(3742:4124): 	Restaurante: LaParri	Pedido: 0	Plato: AsadoSeco	Cantidad: 1
+[INFO] 20:13:20:602 Sindicato/(3742:4124): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 20:13:20:602 Sindicato/(3742:4124): 	Operación exitosa
+[INFO] 20:14:47:508 Sindicato/(3742:4171): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 20:14:47:508 Sindicato/(3742:4171): 	Restaurante: LaParri	Pedido: 0	Plato: Choripan	Cantidad: 4
+[INFO] 20:14:47:511 Sindicato/(3742:4171): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido0.AFIP
+[INFO] 20:14:47:511 Sindicato/(3742:4171): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 20:14:47:512 Sindicato/(3742:4171): 	Operación exitosa
+[INFO] 20:17:56:615 Sindicato/(4256:4256): Cantidad de bloques disponibles: 2039
+[INFO] 20:17:56:616 Sindicato/(4256:4256): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 20:18:38:2 Sindicato/(4256:4256): Se establecio una conexion con el restaurante LaParri
+[INFO] 20:18:38:4 Sindicato/(4256:4256): 	Restaurante: LaParri
+[INFO] 20:18:38:12 Sindicato/(4256:4256): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 20:18:38:12 Sindicato/(4256:4256): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 20:18:38:13 Sindicato/(4256:4256): 	Coordenadas -> (1, 1)
+[INFO] 20:18:38:13 Sindicato/(4256:4256): 	Afinidades:
+[INFO] 20:18:38:14 Sindicato/(4256:4256): 		AsadoJugoso
+[INFO] 20:18:38:14 Sindicato/(4256:4256): 	Recetas:
+[INFO] 20:18:38:15 Sindicato/(4256:4256): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 20:18:38:15 Sindicato/(4256:4256): 		Plato: AsadoSeco	Precio: 200
+[INFO] 20:18:38:15 Sindicato/(4256:4256): 		Plato: Choripan	Precio: 125
+[INFO] 20:22:58:565 Sindicato/(4577:4577): Cantidad de bloques disponibles: 2039
+[INFO] 20:22:58:571 Sindicato/(4577:4577): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 20:23:30:936 Sindicato/(4577:4577): Se establecio una conexion con el restaurante LaParri
+[INFO] 20:23:30:937 Sindicato/(4577:4577): 	Restaurante: LaParri
+[INFO] 20:23:30:940 Sindicato/(4577:4577): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 20:23:30:940 Sindicato/(4577:4577): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 20:23:30:940 Sindicato/(4577:4577): 	Coordenadas -> (1, 1)
+[INFO] 20:23:30:940 Sindicato/(4577:4577): 	Afinidades:
+[INFO] 20:23:30:940 Sindicato/(4577:4577): 		AsadoJugoso
+[INFO] 20:23:30:940 Sindicato/(4577:4577): 	Recetas:
+[INFO] 20:23:30:941 Sindicato/(4577:4577): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 20:23:30:941 Sindicato/(4577:4577): 		Plato: AsadoSeco	Precio: 200
+[INFO] 20:23:30:941 Sindicato/(4577:4577): 		Plato: Choripan	Precio: 125
+[INFO] 20:24:15:161 Sindicato/(4577:4577): 	Restaurante: LaParri	Pedido 1
+[INFO] 20:24:15:174 Sindicato/(4577:4577): Asignacipn del bloque 9 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 20:24:15:181 Sindicato/(4577:4577): Se creo el archivo "Pedido1.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP).
+[INFO] 20:24:15:186 Sindicato/(4577:4577): Asignacipn del bloque 10 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 20:24:15:187 Sindicato/(4577:4577): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 20:24:15:187 Sindicato/(4577:4577): 	Operación exitosa
+[INFO] 20:30:16:737 Sindicato/(5031:5031): Cantidad de bloques disponibles: 2037
+[INFO] 20:30:16:746 Sindicato/(5031:5031): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 20:30:39:864 Sindicato/(5031:5031): Se establecio una conexion con el restaurante LaParri
+[INFO] 20:30:39:865 Sindicato/(5031:5031): 	Restaurante: LaParri
+[INFO] 20:30:39:877 Sindicato/(5031:5031): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 20:30:39:877 Sindicato/(5031:5031): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 2
+[INFO] 20:30:39:877 Sindicato/(5031:5031): 	Coordenadas -> (1, 1)
+[INFO] 20:30:39:877 Sindicato/(5031:5031): 	Afinidades:
+[INFO] 20:30:39:878 Sindicato/(5031:5031): 		AsadoJugoso
+[INFO] 20:30:39:878 Sindicato/(5031:5031): 	Recetas:
+[INFO] 20:30:39:878 Sindicato/(5031:5031): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 20:30:39:878 Sindicato/(5031:5031): 		Plato: AsadoSeco	Precio: 200
+[INFO] 20:30:39:878 Sindicato/(5031:5031): 		Plato: Choripan	Precio: 125
+[INFO] 20:31:18:844 Sindicato/(5031:5031): 	Restaurante: LaParri	Pedido 2
+[INFO] 20:31:18:846 Sindicato/(5031:5031): Asignacipn del bloque 11 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 20:31:18:847 Sindicato/(5031:5031): Se creo el archivo "Pedido2.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP).
+[INFO] 20:31:18:857 Sindicato/(5031:5031): Asignacipn del bloque 12 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 20:31:18:859 Sindicato/(5031:5031): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 20:31:18:860 Sindicato/(5031:5031): 	Operación exitosa
+[INFO] 20:38:24:877 Sindicato/(5523:5523): Cantidad de bloques disponibles: 2035
+[INFO] 20:38:24:878 Sindicato/(5523:5523): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 11:30:11:48 Sindicato/(4714:4714): Cantidad de bloques disponibles: 2035
+[INFO] 11:30:11:51 Sindicato/(4714:4714): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 11:30:41:146 Sindicato/(4714:4714): Se establecio una conexion con el restaurante LaParri
+[INFO] 11:30:41:148 Sindicato/(4714:4714): 	Restaurante: LaParri
+[INFO] 11:30:41:153 Sindicato/(4714:4714): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 11:30:41:153 Sindicato/(4714:4714): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 3
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 	Coordenadas -> (1, 1)
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 	Afinidades:
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 		AsadoJugoso
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 	Recetas:
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 		Plato: AsadoSeco	Precio: 200
+[INFO] 11:30:41:154 Sindicato/(4714:4714): 		Plato: Choripan	Precio: 125
+[INFO] 11:31:54:590 Sindicato/(4714:4714): 	Restaurante: LaParri
+[INFO] 11:31:54:590 Sindicato/(4714:4714): Se envio el mensaje R_CONSULTAR_PLATOS
+[INFO] 11:31:54:590 Sindicato/(4714:4714): 	AsadoJugoso
+[INFO] 11:31:54:590 Sindicato/(4714:4714): 	AsadoSeco
+[INFO] 11:31:54:590 Sindicato/(4714:4714): 	Choripan
+[INFO] 11:32:04:365 Sindicato/(4714:4714): 	Restaurante: LaParri	Pedido 3
+[INFO] 11:32:04:367 Sindicato/(4714:4714): Asignacipn del bloque 13 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 11:32:04:368 Sindicato/(4714:4714): Se creo el archivo "Pedido3.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP).
+[INFO] 11:32:04:374 Sindicato/(4714:4714): Asignacipn del bloque 14 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 11:32:04:376 Sindicato/(4714:4714): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 11:32:04:376 Sindicato/(4714:4714): 	Operación exitosa
+[INFO] 11:32:22:954 Sindicato/(4714:4714): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 11:32:22:955 Sindicato/(4714:4714): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 11:32:22:956 Sindicato/(4714:4714): 	Operación exitosa
+[INFO] 11:32:34:980 Sindicato/(4714:4808): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 11:32:34:981 Sindicato/(4714:4808): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco	Cantidad: 3
+[INFO] 11:32:34:983 Sindicato/(4714:4808): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 11:32:34:984 Sindicato/(4714:4808): 	Operación exitosa
+[INFO] 11:32:43:19 Sindicato/(4714:4811): Se recibio el mensaje CONFIRMAR_PEDIDO
+[INFO] 11:32:43:20 Sindicato/(4714:4811): 	Restaurante: LaParri	Pedido 3
+[INFO] 11:32:43:27 Sindicato/(4714:4811): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 11:32:43:27 Sindicato/(4714:4811): 	Estado: Confirmado
+[INFO] 11:32:43:28 Sindicato/(4714:4811): 	Lista platos:
+[INFO] 11:32:43:28 Sindicato/(4714:4811): 		Plato: AsadoJugoso	Total: 1	Listo: 0
+
+[INFO] 11:32:43:28 Sindicato/(4714:4811): 		Plato: AsadoSeco	Total: 3	Listo: 0
+
+[INFO] 11:33:58:69 Sindicato/(4714:4838): Se recibio el mensaje PLATO_LISTO
+[INFO] 11:33:58:69 Sindicato/(4714:4838): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoJugoso
+[INFO] 11:33:58:69 Sindicato/(4714:4838): Se envio el mensaje R_PLATO_LISTO
+[INFO] 11:33:58:69 Sindicato/(4714:4838): 	Operación exitosa
+[INFO] 11:35:08:111 Sindicato/(4714:4860): Se recibio el mensaje PLATO_LISTO
+[INFO] 11:35:08:112 Sindicato/(4714:4860): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco
+[INFO] 11:35:08:114 Sindicato/(4714:4860): Se envio el mensaje R_PLATO_LISTO
+[INFO] 11:35:08:114 Sindicato/(4714:4860): 	Operación exitosa
+[INFO] 11:36:03:141 Sindicato/(4714:4878): Se recibio el mensaje PLATO_LISTO
+[INFO] 11:36:03:141 Sindicato/(4714:4878): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco
+[INFO] 11:36:03:141 Sindicato/(4714:4878): Se envio el mensaje R_PLATO_LISTO
+[INFO] 11:36:03:141 Sindicato/(4714:4878): 	Operación exitosa
+[INFO] 11:36:58:199 Sindicato/(4714:4907): Se recibio el mensaje PLATO_LISTO
+[INFO] 11:36:58:203 Sindicato/(4714:4907): 	Restaurante: LaParri	Pedido: 3	Plato: AsadoSeco
+[INFO] 11:36:58:207 Sindicato/(4714:4907): Se envio el mensaje R_PLATO_LISTO
+[INFO] 11:36:58:209 Sindicato/(4714:4907): 	Operación exitosa
+[INFO] 11:39:11:751 Sindicato/(4999:4999): Cantidad de bloques disponibles: 2033
+[INFO] 11:39:11:760 Sindicato/(4999:4999): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 11:39:47:785 Sindicato/(4999:4999): Se establecio una conexion con el restaurante LaParri
+[INFO] 11:39:47:787 Sindicato/(4999:4999): 	Restaurante: LaParri
+[INFO] 11:39:47:793 Sindicato/(4999:4999): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 4
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 	Coordenadas -> (1, 1)
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 	Afinidades:
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 		AsadoJugoso
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 	Recetas:
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 		Plato: AsadoSeco	Precio: 200
+[INFO] 11:39:47:794 Sindicato/(4999:4999): 		Plato: Choripan	Precio: 125
+[INFO] 11:40:33:49 Sindicato/(4999:4999): 	Restaurante: LaParri	Pedido 4
+[INFO] 11:40:33:51 Sindicato/(4999:4999): Asignacipn del bloque 15 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido4.AFIP
+[INFO] 11:40:33:51 Sindicato/(4999:4999): Se creo el archivo "Pedido4.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido4.AFIP).
+[INFO] 11:40:33:54 Sindicato/(4999:4999): Asignacipn del bloque 16 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido4.AFIP
+[INFO] 11:40:33:56 Sindicato/(4999:4999): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 11:40:33:56 Sindicato/(4999:4999): 	Operación exitosa
+[INFO] 11:41:09:474 Sindicato/(4999:4999): 	Restaurante: LaParri	Pedido: 4	Plato: Choripan	Cantidad: 1
+[INFO] 11:41:09:475 Sindicato/(4999:4999): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 11:41:09:475 Sindicato/(4999:4999): 	Operación exitosa
+[INFO] 11:41:19:210 Sindicato/(4999:4999): 	Restaurante: LaParri	Pedido 4
+[INFO] 11:41:19:214 Sindicato/(4999:4999): Se envio el mensaje R_OBTENER_PEDIDO
+[INFO] 11:41:19:214 Sindicato/(4999:4999): 	Estado: Confirmado
+[INFO] 11:41:19:214 Sindicato/(4999:4999): 	Lista platos:
+[INFO] 11:41:19:214 Sindicato/(4999:4999): 		Plato: Choripan	Total: 1	Listo: 0
+
+[INFO] 11:41:39:255 Sindicato/(4999:5130): Se recibio el mensaje PLATO_LISTO
+[INFO] 11:41:39:256 Sindicato/(4999:5130): 	Restaurante: LaParri	Pedido: 4	Plato: Choripan
+[INFO] 11:41:39:256 Sindicato/(4999:5130): Se envio el mensaje R_PLATO_LISTO
+[INFO] 11:41:39:256 Sindicato/(4999:5130): 	Operación exitosa
+[INFO] 23:17:28:948 Sindicato/(7017:7017): Cantidad de bloques disponibles: 2031
+[INFO] 23:17:28:955 Sindicato/(7017:7017): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:18:40:80 Sindicato/(7017:7017): Se establecio una conexion con el cliente Cliente1
+[INFO] 23:19:02:709 Sindicato/(7017:7017): 	Restaurante: LaParri
+[INFO] 23:19:02:720 Sindicato/(7017:7017): Se envio el mensaje R_CONSULTAR_PLATOS
+[INFO] 23:19:02:721 Sindicato/(7017:7017): 	AsadoJugoso
+[INFO] 23:19:02:721 Sindicato/(7017:7017): 	AsadoSeco
+[INFO] 23:19:02:721 Sindicato/(7017:7017): 	Choripan
+[INFO] 23:19:46:410 Sindicato/(7017:7017): 	Restaurante: LaParri	Pedido 8
+[INFO] 23:19:46:413 Sindicato/(7017:7017): Asignacipn del bloque 17 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido8.AFIP
+[INFO] 23:19:46:414 Sindicato/(7017:7017): Se creo el archivo "Pedido8.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido8.AFIP).
+[INFO] 23:19:46:421 Sindicato/(7017:7017): Asignacipn del bloque 18 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido8.AFIP
+[INFO] 23:19:46:422 Sindicato/(7017:7017): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 23:19:46:422 Sindicato/(7017:7017): 	Operación exitosa
+[INFO] 23:20:18:426 Sindicato/(7017:7017): 	Restaurante: LaParri	Pedido: 8	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 23:21:44:575 Sindicato/(7017:7017): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 23:21:44:576 Sindicato/(7017:7017): 	Operación exitosa
+[INFO] 23:22:13:881 Sindicato/(7017:7017): 	Restaurante: AsadoSeco	Pedido: 8	Plato: AsadoSeco	Cantidad: 1
+[ERROR] 23:22:17:197 Sindicato/(7017:7017): El restaurante AsadoSeco no se encuentra registrado en el FS
+[INFO] 23:22:17:197 Sindicato/(7017:7017): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 23:22:17:197 Sindicato/(7017:7017): 	No se pudo concretar la operación
+[INFO] 23:22:35:83 Sindicato/(7017:7220): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 23:22:35:84 Sindicato/(7017:7220): 	Restaurante: LaParri	Pedido: 8	Plato: AsadoSeco	Cantidad: 1
+[INFO] 23:24:16:929 Sindicato/(7017:7220): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 23:24:16:930 Sindicato/(7017:7220): 	Operación exitosa
+[INFO] 23:24:42:399 Sindicato/(7017:7493): Se recibio el mensaje GUARDAR_PLATO
+[INFO] 23:24:42:399 Sindicato/(7017:7493): 	Restaurante: LaParri	Pedido: 8	Plato: Choripan	Cantidad: 2
+[INFO] 23:30:53:262 Sindicato/(7694:7694): Cantidad de bloques disponibles: 2029
+[INFO] 23:30:53:271 Sindicato/(7694:7694): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 23:30:59:747 Sindicato/(7694:7694): Se establecio una conexion con el cliente Cliente1
+[INFO] 23:31:36:10 Sindicato/(7694:7694): 	Restaurante: LaParri	Pedido 5
+[INFO] 23:31:36:20 Sindicato/(7694:7694): Asignacipn del bloque 19 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido5.AFIP
+[INFO] 23:31:36:23 Sindicato/(7694:7694): Se creo el archivo "Pedido5.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido5.AFIP).
+[INFO] 23:31:36:29 Sindicato/(7694:7694): Asignacipn del bloque 20 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido5.AFIP
+[INFO] 23:31:36:31 Sindicato/(7694:7694): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 23:31:36:31 Sindicato/(7694:7694): 	Operación exitosa
+[INFO] 23:31:58:280 Sindicato/(7694:7694): 	Restaurante: LaParri	Pedido: 5	Plato: AsadoJugoso	Cantidad: 1
+[INFO] 23:32:05:626 Sindicato/(7694:7694): Se envio el mensaje R_GUARDAR_PLATO
+[INFO] 23:32:05:626 Sindicato/(7694:7694): 	Operación exitosa
+[INFO] 23:32:31:5 Sindicato/(7694:7694): 	Restaurante: LaParri	Pedido: 5	Plato: AsadoSeco	Cantidad: 1
+[INFO] 01:06:57:962 Sindicato/(4263:4263): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 01:07:40:921 Sindicato/(4263:4268): Se creo el directio LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri)
+[INFO] 01:07:40:921 Sindicato/(4263:4268): Se creo el archivo "Info.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP).
+[INFO] 01:07:40:931 Sindicato/(4263:4268): Asignacipn del bloque 0 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 01:07:40:935 Sindicato/(4263:4268): Asignacipn del bloque 1 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 01:07:40:939 Sindicato/(4263:4268): Asignacipn del bloque 2 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Info.AFIP
+[INFO] 01:08:34:258 Sindicato/(4263:4263): Se establecio una conexion con el restaurante LaParri
+[INFO] 01:08:34:259 Sindicato/(4263:4263): 	Restaurante: LaParri
+[INFO] 01:08:34:262 Sindicato/(4263:4263): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 0
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 	Coordenadas -> (1, 1)
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 	Afinidades:
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 		AsadoJugoso
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 	Recetas:
+[INFO] 01:08:34:262 Sindicato/(4263:4263): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 01:08:34:263 Sindicato/(4263:4263): 		Plato: AsadoSeco	Precio: 200
+[INFO] 01:08:34:263 Sindicato/(4263:4263): 		Plato: Choripan	Precio: 125
+[INFO] 01:09:09:302 Sindicato/(4263:4263): 	Restaurante: LaParri	Pedido 1
+[INFO] 01:09:09:303 Sindicato/(4263:4263): Asignacipn del bloque 3 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 01:09:09:303 Sindicato/(4263:4263): Se creo el archivo "Pedido1.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP).
+[INFO] 01:09:09:306 Sindicato/(4263:4263): Asignacipn del bloque 4 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido1.AFIP
+[INFO] 01:11:15:697 Sindicato/(4529:4529): Cantidad de bloques disponibles: 2043
+[INFO] 01:11:15:704 Sindicato/(4529:4529): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 01:11:57:465 Sindicato/(4529:4529): Se establecio una conexion con el restaurante LaParri
+[INFO] 01:11:57:466 Sindicato/(4529:4529): 	Restaurante: LaParri
+[INFO] 01:12:07:197 Sindicato/(4529:4529): Se envio el mensaje R_OBTENER_RESTAURANTE
+[INFO] 01:12:07:197 Sindicato/(4529:4529): 	Cantidad de cocineros: 2	Cantidad de hornos: 1	Cantidad de pedidos: 1
+[INFO] 01:12:07:197 Sindicato/(4529:4529): 	Coordenadas -> (1, 1)
+[INFO] 01:12:07:197 Sindicato/(4529:4529): 	Afinidades:
+[INFO] 01:12:07:197 Sindicato/(4529:4529): 		AsadoJugoso
+[INFO] 01:12:07:197 Sindicato/(4529:4529): 	Recetas:
+[INFO] 01:12:07:198 Sindicato/(4529:4529): 		Plato: AsadoJugoso	Precio: 200
+[INFO] 01:12:07:198 Sindicato/(4529:4529): 		Plato: AsadoSeco	Precio: 200
+[INFO] 01:12:07:198 Sindicato/(4529:4529): 		Plato: Choripan	Precio: 125
+[INFO] 01:12:16:967 Sindicato/(4529:4529): Se establecio una conexion con el cliente Cliente1
+[INFO] 01:12:46:103 Sindicato/(4529:4529): 	Restaurante: LaParri	Pedido 2
+[INFO] 01:12:46:104 Sindicato/(4529:4529): Asignacipn del bloque 5 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 01:12:46:105 Sindicato/(4529:4529): Se creo el archivo "Pedido2.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP).
+[INFO] 01:12:46:110 Sindicato/(4529:4529): Asignacipn del bloque 6 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido2.AFIP
+[INFO] 01:14:46:955 Sindicato/(4880:4880): Cantidad de bloques disponibles: 2041
+[INFO] 01:14:46:963 Sindicato/(4880:4880): El modulo sindicato ya esta listo para recibir mensajes
+[INFO] 01:15:21:6 Sindicato/(4880:4880): Se establecio una conexion con el cliente Cliente1
+[INFO] 01:15:37:352 Sindicato/(4880:4880): 	Restaurante: LaParri	Pedido 3
+[INFO] 01:15:37:364 Sindicato/(4880:4880): Asignacipn del bloque 7 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 01:15:37:365 Sindicato/(4880:4880): Se creo el archivo "Pedido3.AFIP" del restaurante LaParri (path: /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP).
+[INFO] 01:15:37:370 Sindicato/(4880:4880): Asignacipn del bloque 8 al archivo /home/utnso/afip/Files/Restaurantes/LaParri/Pedido3.AFIP
+[INFO] 01:15:37:374 Sindicato/(4880:4880): Se envio el mensaje R_GUARDAR_PEDIDO
+[INFO] 01:15:37:375 Sindicato/(4880:4880): 	Operación exitosa
