@@ -1,0 +1,127 @@
+[INFO] 13:03:54:911 app_logger/(10981:11025): Al repartidor con ID 1 se le asigno el pedido 0 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 13:03:54:914 app_logger/(10981:11025): El repartidor con ID 1 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 13:03:54:915 app_logger/(10981:11025): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:03:58:919 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:04:02:921 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [5,5]
+[INFO] 13:04:02:922 app_logger/(10981:11025): El repartidor con ID 1 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 13:04:02:922 app_logger/(10981:11025): El repartidor con ID 1 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 13:04:02:922 app_logger/(10981:11025): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:04:06:923 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:04:10:927 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [3,5]
+[INFO] 13:04:14:930 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,5]
+[INFO] 13:04:18:937 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,4]
+[INFO] 13:04:22:943 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,3]
+[INFO] 13:04:26:948 app_logger/(10981:10989): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,2]
+[INFO] 13:04:26:957 app_logger/(10981:11025): El repartidor con ID 1 quedo LIBRE tras FINALIZAR de repartir el pedido
+[INFO] 13:08:18:687 app_logger/(11085:11144): Al repartidor con ID 1 se le asigno el pedido 0 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 13:08:18:688 app_logger/(11085:11144): El repartidor con ID 1 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 13:08:18:692 app_logger/(11085:11144): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:08:22:694 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:08:26:697 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [5,5]
+[INFO] 13:08:26:702 app_logger/(11085:11144): El repartidor con ID 1 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 13:08:26:703 app_logger/(11085:11144): El repartidor con ID 1 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 13:08:26:703 app_logger/(11085:11144): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:08:30:703 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:08:34:707 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [3,5]
+[INFO] 13:08:38:711 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,5]
+[INFO] 13:08:42:714 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,4]
+[INFO] 13:08:46:718 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,3]
+[INFO] 13:08:50:719 app_logger/(11085:11097): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,2]
+[INFO] 13:15:08:725 app_logger/(11289:11289): Hubo un error de comunicación con Comanda
+[INFO] 13:18:30:502 app_logger/(11384:11426): Al repartidor con ID 1 se le asigno el pedido 0 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 13:18:30:503 app_logger/(11384:11426): El repartidor con ID 1 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 13:18:30:504 app_logger/(11384:11426): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:18:34:505 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:18:38:507 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [5,5]
+[INFO] 13:18:38:510 app_logger/(11384:11426): El repartidor con ID 1 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 13:18:38:510 app_logger/(11384:11426): El repartidor con ID 1 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 13:18:38:510 app_logger/(11384:11426): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 13:18:42:511 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [4,5]
+[INFO] 13:18:46:512 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [3,5]
+[INFO] 13:18:50:515 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,5]
+[INFO] 13:18:54:519 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,4]
+[INFO] 13:18:58:523 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,3]
+[INFO] 13:19:02:525 app_logger/(11384:11391): El repartidor ID 1 con pedido ID 0 se movio a posición -> [2,2]
+[INFO] 13:19:02:544 app_logger/(11384:11426): El repartidor con ID 1 quedo LIBRE tras FINALIZAR de repartir el pedido
+[INFO] 20:23:05:717 app_logger/(4674:4674): Hubo un error de comunicación con Comanda
+[INFO] 11:41:19:221 app_logger/(5038:5122): Al repartidor con ID 1 se le asigno el pedido 4 del restaurante LaParri en la posicion [1,1]
+[INFO] 11:41:19:229 app_logger/(5038:5122): El repartidor con ID 1 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 11:41:19:231 app_logger/(5038:5122): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 11:41:23:231 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [2,5]
+[INFO] 11:41:27:234 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [1,5]
+[INFO] 11:41:31:237 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [1,4]
+[INFO] 11:41:35:242 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [1,3]
+[INFO] 11:41:39:244 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [1,2]
+[INFO] 11:41:43:255 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [1,1]
+[INFO] 11:41:43:261 app_logger/(5038:5122): El repartidor con ID 1 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 11:41:43:261 app_logger/(5038:5122): El repartidor con ID 1 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 11:41:43:261 app_logger/(5038:5122): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 11:41:47:262 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [2,1]
+[INFO] 11:41:51:265 app_logger/(5038:5045): El repartidor ID 1 con pedido ID 4 se movio a posición -> [2,2]
+[INFO] 11:41:51:277 app_logger/(5038:5122): El repartidor con ID 1 quedo LIBRE tras FINALIZAR de repartir el pedido
+[INFO] 12:04:43:166 app_logger/(5806:6007): Al repartidor con ID 1 se le asigno el pedido 3 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 12:04:43:173 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 12:04:43:173 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:04:45:460 app_logger/(5806:6010): Al repartidor con ID 2 se le asigno el pedido 1 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 12:04:45:460 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 12:04:45:460 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:04:47:174 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [6,8]
+[INFO] 12:04:48:130 app_logger/(5806:6013): Al repartidor con ID 0 se le asigno el pedido 2 del restaurante DEFAULT en la posicion [5,5]
+[INFO] 12:04:48:130 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola READY porque es el mas cercano al restaurante del pedido
+[INFO] 12:04:51:174 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [2,4]
+[INFO] 12:04:55:175 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [5,8]
+[INFO] 12:04:59:176 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [3,4]
+[INFO] 12:05:03:177 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [5,7]
+[INFO] 12:05:07:178 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [4,4]
+[INFO] 12:05:11:178 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [5,6]
+[INFO] 12:05:15:180 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [5,4]
+[INFO] 12:05:19:180 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [5,5]
+[INFO] 12:05:19:182 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 12:05:19:182 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 12:05:19:183 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:05:23:182 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [5,5]
+[INFO] 12:05:23:183 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 12:05:23:183 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 12:05:23:183 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:05:27:184 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [2,1]
+[INFO] 12:05:31:186 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [4,5]
+[INFO] 12:05:35:186 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [3,1]
+[INFO] 12:05:39:188 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [3,5]
+[INFO] 12:05:43:189 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [4,1]
+[INFO] 12:05:47:190 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [2,5]
+[INFO] 12:05:47:190 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola BLOQUEDO DESCANSO porque el repartidor esta descansando
+[INFO] 12:05:47:191 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:05:51:191 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [5,1]
+[INFO] 12:05:56:191 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [4,5]
+[INFO] 12:05:56:192 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [5,2]
+[INFO] 12:05:57:192 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola READY porque termino de descansar
+[INFO] 12:06:01:193 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [5,3]
+[INFO] 12:06:01:193 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [3,5]
+[INFO] 12:06:05:194 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [5,4]
+[INFO] 12:06:05:194 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola BLOQUEDO DESCANSO porque el repartidor esta descansando
+[INFO] 12:06:05:194 app_logger/(5806:6007): El repartidor con ID 1 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:06:09:194 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [2,5]
+[INFO] 12:06:10:195 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola READY porque termino de descansar
+[INFO] 12:06:14:196 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [2,4]
+[INFO] 12:06:14:197 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,5]
+[INFO] 12:06:18:202 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [2,3]
+[INFO] 12:06:18:203 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,6]
+[INFO] 12:06:22:206 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,7]
+[INFO] 12:06:22:206 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [2,2]
+[INFO] 12:06:26:210 app_logger/(5806:5820): El repartidor ID 1 con pedido ID 3 se movio a posición -> [2,1]
+[INFO] 12:06:26:210 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:06:26:210 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,8]
+[INFO] 12:06:26:210 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola BLOQUEDO DESCANSO porque el repartidor esta descansando
+[INFO] 12:06:26:211 app_logger/(5806:6007): El repartidor con ID 1 quedo LIBRE tras FINALIZAR de repartir el pedido
+[INFO] 12:06:30:210 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [5,5]
+[INFO] 12:06:30:211 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola BLOQUEDO ESPERANDO PEDIDO porque el repartidor esta esperando el pedido
+[INFO] 12:06:30:211 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola READY porque el pedido esta listo para llevar
+[INFO] 12:06:30:211 app_logger/(5806:6013): El repartidor con ID 0 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:06:35:211 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [4,5]
+[INFO] 12:06:40:213 app_logger/(5806:5819): El repartidor ID 0 con pedido ID 2 se movio a posición -> [4,4]
+[INFO] 12:06:40:216 app_logger/(5806:6013): El repartidor con ID 0 quedo LIBRE tras FINALIZAR de repartir el pedido
+[INFO] 12:06:41:214 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola READY porque termino de descansar
+[INFO] 12:06:41:217 app_logger/(5806:6010): El repartidor con ID 2 cambió a la cola EXEC porque fue seleccionado para ejecutar
+[INFO] 12:06:45:217 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,9]
+[INFO] 12:06:49:221 app_logger/(5806:5821): El repartidor ID 2 con pedido ID 1 se movio a posición -> [1,9]
+[INFO] 12:06:49:231 app_logger/(5806:6010): El repartidor con ID 2 quedo LIBRE tras FINALIZAR de repartir el pedido
