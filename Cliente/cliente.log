@@ -1,0 +1,830 @@
+
+
+[INFO] 13:15:37:694 cliente.log/(11320:11320): SELECCIONAR_RESTAURANTE
+[INFO] 13:15:42:606 cliente.log/(11320:11320): Mensaje enviado
+[INFO] 13:15:42:606 cliente.log/(11320:11320): SELECCIONAR_RESTAURANTE
+[INFO] 13:15:42:606 cliente.log/(11320:11320): 	Restaurante: DEFAULT	 ID Cliente: Cliente1
+[INFO] 13:15:42:622 cliente.log/(11320:11335): Mensaje recibido
+[INFO] 13:15:42:623 cliente.log/(11320:11335): R_SELECCIONAR_RESTAURANTE
+[INFO] 13:15:42:623 cliente.log/(11320:11335): 	Operacion exitosa
+[INFO] 13:15:47:361 cliente.log/(11320:11320): CREAR_PEDIDO
+[INFO] 13:15:47:361 cliente.log/(11320:11320): Mensaje enviado
+[INFO] 13:15:47:361 cliente.log/(11320:11320): CREAR_PEDIDO
+[INFO] 13:15:47:361 cliente.log/(11320:11320): 	Restaurante: DEFAULT
+[INFO] 13:15:47:369 cliente.log/(11320:11338): Mensaje recibido
+[INFO] 13:15:47:369 cliente.log/(11320:11338): R_CREAR_PEDIDO
+[INFO] 13:15:47:369 cliente.log/(11320:11338): 	ID: 0
+[INFO] 13:15:54:925 cliente.log/(11320:11320): AÑADIR_PLATO
+[INFO] 13:15:57:397 cliente.log/(11320:11320): Mensaje enviado
+[INFO] 13:15:57:397 cliente.log/(11320:11320): AÑADIR_PLATO
+[INFO] 13:15:57:397 cliente.log/(11320:11320): 	Plato: Milanesa	 ID Pedido: 0
+[INFO] 13:15:57:408 cliente.log/(11320:11342): Mensaje recibido
+[INFO] 13:15:57:408 cliente.log/(11320:11342): R_GUARDAR_PEDIDO
+[INFO] 13:15:57:408 cliente.log/(11320:11342): 	Operacion exitosa
+[INFO] 13:17:57:179 cliente.log/(11399:11399): SELECCIONAR_RESTAURANTE
+[INFO] 13:18:01:994 cliente.log/(11399:11399): Mensaje enviado
+[INFO] 13:18:01:994 cliente.log/(11399:11399): SELECCIONAR_RESTAURANTE
+[INFO] 13:18:01:994 cliente.log/(11399:11399): 	Restaurante: DEFAULT	 ID Cliente: Cliente1
+[INFO] 13:18:01:0 cliente.log/(11399:11410): Mensaje recibido
+[INFO] 13:18:02:3 cliente.log/(11399:11410): R_SELECCIONAR_RESTAURANTE
+[INFO] 13:18:02:3 cliente.log/(11399:11410): 	Operacion exitosa
+[INFO] 13:18:06:129 cliente.log/(11399:11399): CREAR_PEDIDO
+[INFO] 13:18:06:130 cliente.log/(11399:11399): Mensaje enviado
+[INFO] 13:18:06:130 cliente.log/(11399:11399): CREAR_PEDIDO
+[INFO] 13:18:06:130 cliente.log/(11399:11399): 	Restaurante: DEFAULT
+[INFO] 13:18:06:135 cliente.log/(11399:11413): Mensaje recibido
+[INFO] 13:18:06:135 cliente.log/(11399:11413): R_CREAR_PEDIDO
+[INFO] 13:18:06:135 cliente.log/(11399:11413): 	ID: 0
+[INFO] 13:18:11:608 cliente.log/(11399:11399): AÑADIR_PLATO
+[INFO] 13:18:17:864 cliente.log/(11399:11399): Mensaje enviado
+[INFO] 13:18:17:864 cliente.log/(11399:11399): AÑADIR_PLATO
+[INFO] 13:18:17:864 cliente.log/(11399:11399): 	Plato: Milanesa	 ID Pedido: 0
+[INFO] 13:18:17:885 cliente.log/(11399:11418): Mensaje recibido
+[INFO] 13:18:17:885 cliente.log/(11399:11418): R_GUARDAR_PEDIDO
+[INFO] 13:18:17:885 cliente.log/(11399:11418): 	Operacion exitosa
+[INFO] 13:18:25:228 cliente.log/(11399:11399): CONFIRMAR_PEDIDO
+[INFO] 13:18:30:454 cliente.log/(11399:11399): Mensaje enviado
+[INFO] 13:18:30:454 cliente.log/(11399:11399): CONFIRMAR_PEDIDO
+[INFO] 13:18:30:454 cliente.log/(11399:11399): 	Restaurante: DEFAULT	 ID Pedido: 0
+[INFO] 13:18:30:460 cliente.log/(11399:11424): Mensaje recibido
+[INFO] 13:18:30:461 cliente.log/(11399:11424): R_CONFIRMAR_PEDIDO
+[INFO] 13:18:30:461 cliente.log/(11399:11424): 	Operacion exitosa
+[INFO] 13:19:02:531 cliente.log/(11399:11404): Mensaje recibido
+[INFO] 13:19:02:531 cliente.log/(11399:11404): FINALIZAR_PEDIDO
+[INFO] 13:19:02:531 cliente.log/(11399:11404): 	Restaurante: DEFAULT	 ID Pedido: 0
+[INFO] 20:09:37:241 cliente.log/(3839:3839): CONSULTAR_RESTAURANTES
+[INFO] 20:09:37:242 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:09:37:242 cliente.log/(3839:3839): CONSULTAR_RESTAURANTES
+[INFO] 20:09:37:245 cliente.log/(3839:3849): Mensaje recibido
+[INFO] 20:09:37:245 cliente.log/(3839:3849): R_CONSULTAR_RESTAURANTES
+[INFO] 20:09:37:245 cliente.log/(3839:3849): 	Restaurante: DEFAULT
+[INFO] 20:09:37:245 cliente.log/(3839:3849): 	Restaurante: LaParri
+[INFO] 20:09:51:233 cliente.log/(3839:3839): SELECCIONAR_RESTAURANTE
+[INFO] 20:09:54:393 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:09:54:393 cliente.log/(3839:3839): SELECCIONAR_RESTAURANTE
+[INFO] 20:09:54:393 cliente.log/(3839:3839): 	Restaurante: LaParri	 ID Cliente: Cliente1
+[INFO] 20:09:54:395 cliente.log/(3839:3866): Mensaje recibido
+[INFO] 20:09:54:395 cliente.log/(3839:3866): R_SELECCIONAR_RESTAURANTE
+[INFO] 20:09:54:395 cliente.log/(3839:3866): 	Operacion exitosa
+[INFO] 20:10:00:416 cliente.log/(3839:3839): CONSULTAR_PLATOS
+[INFO] 20:10:00:417 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:10:00:417 cliente.log/(3839:3839): CONSULTAR_PLATOS
+[INFO] 20:10:00:417 cliente.log/(3839:3839): 	Restaurante: LaParri
+[INFO] 20:10:00:433 cliente.log/(3839:3868): Mensaje recibido
+[INFO] 20:10:00:433 cliente.log/(3839:3868): R_CONSULTAR_RESTAURANTES
+[INFO] 20:10:00:433 cliente.log/(3839:3868): 	Restaurante: AsadoJugoso
+[INFO] 20:10:00:433 cliente.log/(3839:3868): 	Restaurante: AsadoSeco
+[INFO] 20:10:00:433 cliente.log/(3839:3868): 	Restaurante: Choripan
+[INFO] 20:10:08:115 cliente.log/(3839:3839): CREAR_PEDIDO
+[INFO] 20:10:08:115 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:10:08:115 cliente.log/(3839:3839): CREAR_PEDIDO
+[INFO] 20:10:08:115 cliente.log/(3839:3839): 	Restaurante: LaParri
+[INFO] 20:10:45:279 cliente.log/(3839:3871): Mensaje recibido
+[INFO] 20:10:45:279 cliente.log/(3839:3871): R_CREAR_PEDIDO
+[INFO] 20:10:45:279 cliente.log/(3839:3871): 	ID: 0
+[INFO] 20:11:06:487 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:11:14:183 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:11:14:183 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:11:14:183 cliente.log/(3839:3839): 	Plato: AsadoJugoso	 ID Pedido: 0
+[INFO] 20:12:13:83 cliente.log/(3839:3902): Mensaje recibido
+[INFO] 20:12:13:83 cliente.log/(3839:3902): R_GUARDAR_PEDIDO
+[INFO] 20:12:13:83 cliente.log/(3839:3902): 	Operacion exitosa
+[INFO] 20:12:59:777 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:13:06:66 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:13:06:66 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:13:06:66 cliente.log/(3839:3839): 	Plato: AsadoSeco	 ID Pedido: 0
+[INFO] 20:14:11:851 cliente.log/(3839:4117): Mensaje recibido
+[INFO] 20:14:11:851 cliente.log/(3839:4117): R_GUARDAR_PEDIDO
+[INFO] 20:14:11:851 cliente.log/(3839:4117): 	Operacion exitosa
+[INFO] 20:14:20:443 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:14:24:677 cliente.log/(3839:3839): Mensaje enviado
+[INFO] 20:14:24:677 cliente.log/(3839:3839): AÑADIR_PLATO
+[INFO] 20:14:24:677 cliente.log/(3839:3839): 	Plato: Choripan	 ID Pedido: 0
+[INFO] 20:16:40:247 cliente.log/(3839:4166): Mensaje recibido
+[INFO] 20:16:40:247 cliente.log/(3839:4166): R_GUARDAR_PEDIDO
+[INFO] 20:16:40:247 cliente.log/(3839:4166): 	Operacion exitosa
+[INFO] 20:19:18:173 cliente.log/(4361:4361): SELECCIONAR_RESTAURANTE
+[INFO] 20:19:21:392 cliente.log/(4361:4361): Mensaje enviado
+[INFO] 20:19:21:392 cliente.log/(4361:4361): SELECCIONAR_RESTAURANTE
+[INFO] 20:19:21:392 cliente.log/(4361:4361): 	Restaurante: LaParri	 ID Cliente: Cliente1
+[INFO] 20:23:57:899 cliente.log/(4776:4776): SELECCIONAR_RESTAURANTE
+[INFO] 20:24:03:685 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 20:24:03:685 cliente.log/(4776:4776): SELECCIONAR_RESTAURANTE
+[INFO] 20:24:03:685 cliente.log/(4776:4776): 	Restaurante: LaParri	 ID Cliente: Cliente1
+[INFO] 20:24:03:686 cliente.log/(4776:4785): Mensaje recibido
+[INFO] 20:24:03:686 cliente.log/(4776:4785): R_SELECCIONAR_RESTAURANTE
+[INFO] 20:24:03:686 cliente.log/(4776:4785): 	Operacion exitosa
+[INFO] 20:24:07:456 cliente.log/(4776:4776): CREAR_PEDIDO
+[INFO] 20:24:07:456 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 20:24:07:456 cliente.log/(4776:4776): CREAR_PEDIDO
+[INFO] 20:24:07:456 cliente.log/(4776:4776): 	Restaurante: LaParri
+[INFO] 20:31:03:206 cliente.log/(5102:5102): SELECCIONAR_RESTAURANTE
+[INFO] 20:31:07:743 cliente.log/(5102:5102): Mensaje enviado
+[INFO] 20:31:07:743 cliente.log/(5102:5102): SELECCIONAR_RESTAURANTE
+[INFO] 20:31:07:743 cliente.log/(5102:5102): 	Restaurante: LaParri	 ID Cliente: Cliente1
+[INFO] 20:31:07:745 cliente.log/(5102:5123): Mensaje recibido
+[INFO] 20:31:07:745 cliente.log/(5102:5123): R_SELECCIONAR_RESTAURANTE
+[INFO] 20:31:07:745 cliente.log/(5102:5123): 	Operacion exitosa
+[INFO] 20:31:13:7 cliente.log/(5102:5102): CREAR_PEDIDO
+[INFO] 20:31:13:8 cliente.log/(5102:5102): Mensaje enviado
+[INFO] 20:31:13:8 cliente.log/(5102:5102): CREAR_PEDIDO
+[INFO] 20:31:13:8 cliente.log/(5102:5102): 	Restaurante: LaParri
+[INFO] 20:31:32:158 cliente.log/(5102:5125): Mensaje recibido
+[INFO] 20:31:32:158 cliente.log/(5102:5125): R_CREAR_PEDIDO
+[INFO] 20:31:32:158 cliente.log/(5102:5125): 	ID: 2
+[INFO] 11:31:51:279 cliente.log/(4776:4776): CONSULTAR_PLATOS
+[INFO] 11:31:54:589 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 11:31:54:589 cliente.log/(4776:4776): CONSULTAR_PLATOS
+[INFO] 11:31:54:589 cliente.log/(4776:4776): 	Restaurante: LaParri
+[INFO] 11:31:54:593 cliente.log/(4776:4789): Mensaje recibido
+[INFO] 11:31:54:593 cliente.log/(4776:4789): R_CONSULTAR_RESTAURANTES
+[INFO] 11:31:54:593 cliente.log/(4776:4789): 	Restaurante: AsadoJugoso
+[INFO] 11:31:54:596 cliente.log/(4776:4789): 	Restaurante: AsadoSeco
+[INFO] 11:31:54:596 cliente.log/(4776:4789): 	Restaurante: Choripan
+[INFO] 11:32:04:362 cliente.log/(4776:4776): CREAR_PEDIDO
+[INFO] 11:32:04:363 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 11:32:04:363 cliente.log/(4776:4776): CREAR_PEDIDO
+[INFO] 11:32:04:363 cliente.log/(4776:4776): 	Restaurante: LaParri
+[INFO] 11:32:04:377 cliente.log/(4776:4796): Mensaje recibido
+[INFO] 11:32:04:377 cliente.log/(4776:4796): R_CREAR_PEDIDO
+[INFO] 11:32:04:377 cliente.log/(4776:4796): 	ID: 3
+[INFO] 11:32:10:921 cliente.log/(4776:4776): AÑADIR_PLATO
+[INFO] 11:32:22:953 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 11:32:22:953 cliente.log/(4776:4776): AÑADIR_PLATO
+[INFO] 11:32:22:953 cliente.log/(4776:4776): 	Plato: AsadoJugoso	 ID Pedido: 3
+[INFO] 11:32:22:958 cliente.log/(4776:4805): Mensaje recibido
+[INFO] 11:32:22:958 cliente.log/(4776:4805): R_GUARDAR_PLATO
+[INFO] 11:32:22:958 cliente.log/(4776:4805): 	Operacion exitosa
+[INFO] 11:32:30:855 cliente.log/(4776:4776): AÑADIR_PLATO
+[INFO] 11:32:34:979 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 11:32:34:979 cliente.log/(4776:4776): AÑADIR_PLATO
+[INFO] 11:32:34:979 cliente.log/(4776:4776): 	Plato: AsadoSeco	 ID Pedido: 3
+[INFO] 11:32:34:984 cliente.log/(4776:4807): Mensaje recibido
+[INFO] 11:32:34:985 cliente.log/(4776:4807): R_GUARDAR_PLATO
+[INFO] 11:32:34:985 cliente.log/(4776:4807): 	Operacion exitosa
+[INFO] 11:32:41:389 cliente.log/(4776:4776): CONFIRMAR_PEDIDO
+[INFO] 11:32:43:18 cliente.log/(4776:4776): Mensaje enviado
+[INFO] 11:32:43:18 cliente.log/(4776:4776): CONFIRMAR_PEDIDO
+[INFO] 11:32:43:18 cliente.log/(4776:4776): 	Restaurante: LaParri	 ID Pedido: 3
+[INFO] 11:32:43:32 cliente.log/(4776:4810): Mensaje recibido
+[INFO] 11:32:43:32 cliente.log/(4776:4810): R_CONFIRMAR_PEDIDO
+[INFO] 11:32:43:32 cliente.log/(4776:4810): 	Operacion exitosa
+[INFO] 11:40:14:657 cliente.log/(5064:5064): CONSULTAR_RESTAURANTES
+[INFO] 11:40:14:658 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:40:14:658 cliente.log/(5064:5064): CONSULTAR_RESTAURANTES
+[INFO] 11:40:14:660 cliente.log/(5064:5077): Mensaje recibido
+[INFO] 11:40:14:660 cliente.log/(5064:5077): R_CONSULTAR_RESTAURANTES
+[INFO] 11:40:14:662 cliente.log/(5064:5077): 	Restaurante: DEFAULT
+[INFO] 11:40:14:662 cliente.log/(5064:5077): 	Restaurante: LaParri
+[INFO] 11:40:20:904 cliente.log/(5064:5064): SELECCIONAR_RESTAURANTE
+[INFO] 11:40:25:207 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:40:25:207 cliente.log/(5064:5064): SELECCIONAR_RESTAURANTE
+[INFO] 11:40:25:207 cliente.log/(5064:5064): 	Restaurante: LaParri	 ID Cliente: Cliente1
+[INFO] 11:40:25:210 cliente.log/(5064:5081): Mensaje recibido
+[INFO] 11:40:25:210 cliente.log/(5064:5081): R_SELECCIONAR_RESTAURANTE
+[INFO] 11:40:25:210 cliente.log/(5064:5081): 	Operacion exitosa
+[INFO] 11:40:33:40 cliente.log/(5064:5064): CREAR_PEDIDO
+[INFO] 11:40:33:41 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:40:33:41 cliente.log/(5064:5064): CREAR_PEDIDO
+[INFO] 11:40:33:41 cliente.log/(5064:5064): 	Restaurante: LaParri
+[INFO] 11:40:33:67 cliente.log/(5064:5093): Mensaje recibido
+[INFO] 11:40:33:68 cliente.log/(5064:5093): R_CREAR_PEDIDO
+[INFO] 11:40:33:68 cliente.log/(5064:5093): 	ID: 4
+[INFO] 11:40:55:746 cliente.log/(5064:5064): AÑADIR_PLATO
+[INFO] 11:41:09:472 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:41:09:472 cliente.log/(5064:5064): AÑADIR_PLATO
+[INFO] 11:41:09:472 cliente.log/(5064:5064): 	Plato: Choripan	 ID Pedido: 4
+[INFO] 11:41:09:486 cliente.log/(5064:5107): Mensaje recibido
+[INFO] 11:41:09:486 cliente.log/(5064:5107): R_GUARDAR_PEDIDO
+[INFO] 11:41:09:486 cliente.log/(5064:5107): 	Operacion exitosa
+[INFO] 11:41:14:476 cliente.log/(5064:5064): CONFIRMAR_PEDIDO
+[INFO] 11:41:19:206 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:41:19:206 cliente.log/(5064:5064): CONFIRMAR_PEDIDO
+[INFO] 11:41:19:206 cliente.log/(5064:5064): 	Restaurante: LaParri	 ID Pedido: 4
+[INFO] 11:41:19:216 cliente.log/(5064:5118): Mensaje recibido
+[INFO] 11:41:19:216 cliente.log/(5064:5118): R_CONFIRMAR_PEDIDO
+[INFO] 11:41:19:216 cliente.log/(5064:5118): 	Operacion exitosa
+[INFO] 11:41:51:270 cliente.log/(5064:5069): Mensaje recibido
+[INFO] 11:41:51:270 cliente.log/(5064:5069): FINALIZAR_PEDIDO
+[INFO] 11:41:51:270 cliente.log/(5064:5069): 	Restaurante: LaParri	 ID Pedido: 4
+[INFO] 11:42:53:740 cliente.log/(5064:5064): CONSULTAR_RESTAURANTES
+[INFO] 11:42:53:740 cliente.log/(5064:5064): Mensaje enviado
+[INFO] 11:42:53:740 cliente.log/(5064:5064): CONSULTAR_RESTAURANTES
+[INFO] 11:42:53:742 cliente.log/(5064:5157): Mensaje recibido
+[INFO] 11:42:53:743 cliente.log/(5064:5157): R_CONSULTAR_RESTAURANTES
+[INFO] 11:42:53:745 cliente.log/(5064:5157): 	Restaurante: DEFAULT
+[INFO] 11:42:53:745 cliente.log/(5064:5157): 	Restaurante: LaParri
+[INFO] 12:01:10:695 cliente.log/(5845:5845): SELECCIONAR_RESTAURANTE
+[INFO] 12:01:12:944 cliente.log/(5845:5845): Mensaje enviado
+[INFO] 12:01:12:945 cliente.log/(5845:5845): SELECCIONAR_RESTAURANTE
+[INFO] 12:01:12:945 cliente.log/(5845:5845): 	Restaurante: DEFAULT	 ID Cliente: Cliente1
+[INFO] 12:01:12:953 cliente.log/(5845:5915): Mensaje recibido
+[INFO] 12:01:12:953 cliente.log/(5845:5915): R_SELECCIONAR_RESTAURANTE
+[INFO] 12:01:12:953 cliente.log/(5845:5915): 	Operacion exitosa
+[INFO] 12:01:17:957 cliente.log/(5845:5845): CREAR_PEDIDO
+[INFO] 12:01:17:957 cliente.log/(5845:5845): Mensaje enviado
+[INFO] 12:01:17:957 cliente.log/(5845:5845): CREAR_PEDIDO
+[INFO] 12:01:17:957 cliente.log/(5845:5845): 	Restaurante: DEFAULT
+[ERROR] 12:01:25:629 cliente.log/(5845:5919): No se pudo crear correctamente el pedido
+[INFO] 12:01:34:941 cliente.log/(5845:5845): AÑADIR_PLATO
+[INFO] 12:02:45:736 cliente.log/(5845:5845): CREAR_PEDIDO
+[INFO] 12:02:45:737 cliente.log/(5845:5845): Mensaje enviado
+[INFO] 12:02:45:737 cliente.log/(5845:5845): CREAR_PEDIDO
+[INFO] 12:02:45:737 cliente.log/(5845:5845): 	Restaurante: DEFAULT
+[INFO] 12:02:45:753 cliente.log/(5845:5966): Mensaje recibido
+[INFO] 12:02:45:753 cliente.log/(5845:5966): R_CREAR_PEDIDO
+[INFO] 12:02:45:753 cliente.log/(5845:5966): 	ID: 1
+[INFO] 12:02:52:935 cliente.log/(5845:5845): AÑADIR_PLATO
+[INFO] 12:02:57:157 cliente.log/(5845:5845): Mensaje enviado
+[INFO] 12:02:57:157 cliente.log/(5845:5845): AÑADIR_PLATO
+[INFO] 12:02:57:157 cliente.log/(5845:5845): 	Plato: Milanesa	 ID Pedido: 1
+[INFO] 12:02:57:164 cliente.log/(5845:5969): Mensaje recibido
+[INFO] 12:02:57:164 cliente.log/(5845:5969): R_GUARDAR_PEDIDO
+[INFO] 12:02:57:164 cliente.log/(5845:5969): 	Operacion exitosa
+[INFO] 12:03:01:927 cliente.log/(5845:5845): CONFIRMAR_PEDIDO
+[INFO] 12:04:45:449 cliente.log/(5845:5845): Mensaje enviado
+[INFO] 12:04:45:449 cliente.log/(5845:5845): CONFIRMAR_PEDIDO
+[INFO] 12:04:45:449 cliente.log/(5845:5845): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 12:04:45:459 cliente.log/(5845:6008): Mensaje recibido
+[INFO] 12:04:45:459 cliente.log/(5845:6008): R_CONFIRMAR_PEDIDO
+[INFO] 12:04:45:459 cliente.log/(5845:6008): 	Operacion exitosa
+[INFO] 12:06:49:223 cliente.log/(5845:5850): Mensaje recibido
+[INFO] 12:06:49:223 cliente.log/(5845:5850): FINALIZAR_PEDIDO
+[INFO] 12:06:49:223 cliente.log/(5845:5850): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 12:45:38:937 cliente.log/(7631:7631): SELECCIONAR_RESTAURANTE
+[INFO] 12:45:40:891 cliente.log/(7631:7631): Mensaje enviado
+[INFO] 12:45:40:892 cliente.log/(7631:7631): SELECCIONAR_RESTAURANTE
+[INFO] 12:45:40:892 cliente.log/(7631:7631): 	Restaurante: DEFAULT	 ID Cliente: Cliente1
+[INFO] 12:45:40:892 cliente.log/(7631:7760): Mensaje recibido
+[INFO] 12:45:40:893 cliente.log/(7631:7760): R_SELECCIONAR_RESTAURANTE
+[INFO] 12:45:40:893 cliente.log/(7631:7760): 	Operacion exitosa
+[INFO] 12:45:44:315 cliente.log/(7631:7631): CREAR_PEDIDO
+[INFO] 12:45:44:315 cliente.log/(7631:7631): Mensaje enviado
+[INFO] 12:45:44:315 cliente.log/(7631:7631): CREAR_PEDIDO
+[INFO] 12:45:44:315 cliente.log/(7631:7631): 	Restaurante: DEFAULT
+[ERROR] 12:45:44:317 cliente.log/(7631:7762): No se pudo crear correctamente el pedido
+[INFO] 12:46:00:249 cliente.log/(7631:7631): CREAR_PEDIDO
+[INFO] 12:46:00:250 cliente.log/(7631:7631): Mensaje enviado
+[INFO] 12:46:00:250 cliente.log/(7631:7631): CREAR_PEDIDO
+[INFO] 12:46:00:250 cliente.log/(7631:7631): 	Restaurante: DEFAULT
+[INFO] 12:46:00:251 cliente.log/(7631:7775): Mensaje recibido
+[INFO] 12:46:00:251 cliente.log/(7631:7775): R_CREAR_PEDIDO
+[INFO] 12:46:00:251 cliente.log/(7631:7775): 	ID: 1
+[INFO] 12:46:03:654 cliente.log/(7631:7631): AÑADIR_PLATO
+[INFO] 12:46:07:567 cliente.log/(7631:7631): Mensaje enviado
+[INFO] 12:46:07:567 cliente.log/(7631:7631): AÑADIR_PLATO
+[INFO] 12:46:07:567 cliente.log/(7631:7631): 	Plato: Milanesa	 ID Pedido: 1
+[INFO] 12:46:07:571 cliente.log/(7631:7783): Mensaje recibido
+[INFO] 12:46:07:571 cliente.log/(7631:7783): R_GUARDAR_PEDIDO
+[INFO] 12:46:07:571 cliente.log/(7631:7783): 	Operacion exitosa
+[INFO] 12:46:11:46 cliente.log/(7631:7631): CONFIRMAR_PEDIDO
+[INFO] 12:49:51:811 cliente.log/(7631:7631): Mensaje enviado
+[INFO] 12:49:51:811 cliente.log/(7631:7631): CONFIRMAR_PEDIDO
+[INFO] 12:49:51:811 cliente.log/(7631:7631): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 12:49:51:813 cliente.log/(7631:7961): Mensaje recibido
+[INFO] 12:49:51:813 cliente.log/(7631:7961): R_CONFIRMAR_PEDIDO
+[INFO] 12:49:51:813 cliente.log/(7631:7961): 	Operacion exitosa
+[INFO] 12:52:02:558 cliente.log/(7631:7632): Mensaje recibido
+[INFO] 12:52:02:558 cliente.log/(7631:7632): FINALIZAR_PEDIDO
+[INFO] 12:52:02:558 cliente.log/(7631:7632): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 12:55:46:813 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:55:50:25 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:55:50:25 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:55:50:25 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 12:55:50:27 cliente.log/(8071:8075): Mensaje recibido
+[INFO] 12:55:50:27 cliente.log/(8071:8075): R_GUARDAR_PEDIDO
+[INFO] 12:55:50:27 cliente.log/(8071:8075): 	Operacion exitosa
+[INFO] 12:55:53:562 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:55:56:379 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:55:56:379 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:55:56:380 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2
+[INFO] 12:55:56:381 cliente.log/(8071:8077): Mensaje recibido
+[INFO] 12:55:56:381 cliente.log/(8071:8077): R_GUARDAR_PEDIDO
+[INFO] 12:55:56:381 cliente.log/(8071:8077): 	Operacion exitosa
+[INFO] 12:56:01:40 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:04:23 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:04:23 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:04:23 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 3
+[INFO] 12:56:04:24 cliente.log/(8071:8079): Mensaje recibido
+[INFO] 12:56:04:24 cliente.log/(8071:8079): R_GUARDAR_PEDIDO
+[INFO] 12:56:04:24 cliente.log/(8071:8079): 	Operacion exitosa
+[INFO] 12:56:08:315 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:11:48 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:11:48 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:11:48 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4
+[INFO] 12:56:11:49 cliente.log/(8071:8081): Mensaje recibido
+[INFO] 12:56:11:49 cliente.log/(8071:8081): R_GUARDAR_PEDIDO
+[INFO] 12:56:11:49 cliente.log/(8071:8081): 	Operacion exitosa
+[INFO] 12:56:15:529 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:17:897 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:17:897 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:17:897 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 5
+[INFO] 12:56:17:898 cliente.log/(8071:8083): Mensaje recibido
+[INFO] 12:56:17:898 cliente.log/(8071:8083): R_GUARDAR_PEDIDO
+[INFO] 12:56:17:898 cliente.log/(8071:8083): 	Operacion exitosa
+[INFO] 12:56:22:844 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:25:337 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:25:337 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:25:337 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6
+[INFO] 12:56:25:338 cliente.log/(8071:8087): Mensaje recibido
+[INFO] 12:56:25:338 cliente.log/(8071:8087): R_GUARDAR_PEDIDO
+[INFO] 12:56:25:338 cliente.log/(8071:8087): 	Operacion exitosa
+[INFO] 12:56:29:324 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:35:600 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:35:600 cliente.log/(8071:8071): GUARDAR_PEDIDO
+[INFO] 12:56:35:600 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 7
+[INFO] 12:56:35:601 cliente.log/(8071:8090): Mensaje recibido
+[INFO] 12:56:35:601 cliente.log/(8071:8090): R_GUARDAR_PEDIDO
+[INFO] 12:56:35:601 cliente.log/(8071:8090): 	Operacion exitosa
+[INFO] 12:56:42:933 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:56:52:65 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:56:52:65 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:56:52:65 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 1	 Plato: AsadoConFritas	 Cantidad: 1
+[INFO] 12:56:52:69 cliente.log/(8071:8092): Mensaje recibido
+[INFO] 12:56:52:69 cliente.log/(8071:8092): R_GUARDAR_PLATO
+[INFO] 12:56:52:69 cliente.log/(8071:8092): 	Operacion exitosa
+[INFO] 12:57:44:616 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:57:56:287 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:57:56:287 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:57:56:287 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 2	 Plato: AsadoConFritas	 Cantidad: 2
+[INFO] 12:57:56:289 cliente.log/(8071:8121): Mensaje recibido
+[INFO] 12:57:56:289 cliente.log/(8071:8121): R_GUARDAR_PLATO
+[INFO] 12:57:56:289 cliente.log/(8071:8121): 	Operacion exitosa
+[INFO] 12:58:08:473 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:58:18:346 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:58:18:346 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:58:18:346 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 5	 Plato: Bondiolita	 Cantidad: 1
+[INFO] 12:58:18:348 cliente.log/(8071:8134): Mensaje recibido
+[INFO] 12:58:18:348 cliente.log/(8071:8134): R_GUARDAR_PLATO
+[INFO] 12:58:18:348 cliente.log/(8071:8134): 	Operacion exitosa
+[INFO] 12:58:39:36 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:58:46:391 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:58:46:391 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:58:46:391 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 3	 Plato: AsadoConFritas	 Cantidad: 1
+[INFO] 12:58:46:393 cliente.log/(8071:8143): Mensaje recibido
+[INFO] 12:58:46:393 cliente.log/(8071:8143): R_GUARDAR_PLATO
+[INFO] 12:58:46:393 cliente.log/(8071:8143): 	Operacion exitosa
+[INFO] 12:59:03:778 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:59:18:21 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 12:59:18:21 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 12:59:18:21 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 6	 Plato: Bondiolita	 Cantidad: 4
+[INFO] 12:59:18:23 cliente.log/(8071:8155): Mensaje recibido
+[INFO] 12:59:18:23 cliente.log/(8071:8155): R_GUARDAR_PLATO
+[INFO] 12:59:18:23 cliente.log/(8071:8155): 	Operacion exitosa
+[INFO] 13:00:46:784 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:00:51:100 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:00:51:100 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:00:51:100 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 13:00:51:102 cliente.log/(8071:8188): Mensaje recibido
+[INFO] 13:00:51:102 cliente.log/(8071:8188): R_OBTENER_PEDIDO
+[INFO] 13:00:51:102 cliente.log/(8071:8188): 	Estado: Pendiente
+[INFO] 13:00:51:102 cliente.log/(8071:8188): 	Plato: AsadoConFritas	Total: 1	Listo: 0
+
+[INFO] 13:01:35:470 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:01:49:179 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:01:49:179 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:01:49:179 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 4	 Plato: Choripan	 Cantidad: 20
+[INFO] 13:01:49:180 cliente.log/(8071:8198): Mensaje recibido
+[INFO] 13:01:49:180 cliente.log/(8071:8198): R_GUARDAR_PLATO
+[INFO] 13:01:49:180 cliente.log/(8071:8198): 	Operacion exitosa
+[INFO] 13:02:11:849 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:02:20:162 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:02:20:162 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:02:20:162 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2
+[INFO] 13:02:20:163 cliente.log/(8071:8200): Mensaje recibido
+[INFO] 13:02:20:164 cliente.log/(8071:8200): R_OBTENER_PEDIDO
+[INFO] 13:02:20:164 cliente.log/(8071:8200): 	Estado: Pendiente
+[INFO] 13:02:20:164 cliente.log/(8071:8200): 	Plato: AsadoConFritas	Total: 2	Listo: 0
+
+[INFO] 13:02:55:596 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:03:05:0 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:03:05:0 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:03:05:0 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 7	 Plato: Morcipan	 Cantidad: 1
+[INFO] 13:03:05:2 cliente.log/(8071:8209): Mensaje recibido
+[INFO] 13:03:05:2 cliente.log/(8071:8209): R_GUARDAR_PLATO
+[INFO] 13:03:05:2 cliente.log/(8071:8209): 	Operacion exitosa
+[INFO] 13:03:36:605 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:03:51:155 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:03:51:155 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:03:51:155 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 1	 Plato: AsadoConFritas	 Cantidad: 1
+[INFO] 13:03:51:156 cliente.log/(8071:8219): Mensaje recibido
+[INFO] 13:03:51:156 cliente.log/(8071:8219): R_GUARDAR_PLATO
+[INFO] 13:03:51:156 cliente.log/(8071:8219): 	Operacion exitosa
+[INFO] 13:04:15:619 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:04:31:739 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:04:31:739 cliente.log/(8071:8071): GUARDAR_PLATO
+[INFO] 13:04:31:739 cliente.log/(8071:8071): 	Restaurante: DEFAULTţ ID Pedido: 3	 Plato: AsadoConFritas	 Cantidad: 1
+[INFO] 13:04:31:741 cliente.log/(8071:8233): Mensaje recibido
+[INFO] 13:04:31:741 cliente.log/(8071:8233): R_GUARDAR_PLATO
+[INFO] 13:04:31:741 cliente.log/(8071:8233): 	Operacion exitosa
+[INFO] 13:05:21:410 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:05:42:717 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:05:42:717 cliente.log/(8071:8071): OBTENER_PEDIDO
+[INFO] 13:05:42:717 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 3
+[INFO] 13:05:42:718 cliente.log/(8071:8263): Mensaje recibido
+[INFO] 13:05:42:718 cliente.log/(8071:8263): R_OBTENER_PEDIDO
+[INFO] 13:05:42:718 cliente.log/(8071:8263): 	Estado: Pendiente
+[INFO] 13:05:42:719 cliente.log/(8071:8263): 	Plato: AsadoConFritas	Total: 2	Listo: 0
+
+[INFO] 13:05:54:42 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:05:58:215 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:05:58:215 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:05:58:216 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 13:05:58:216 cliente.log/(8071:8265): Mensaje recibido
+[INFO] 13:05:58:216 cliente.log/(8071:8265): R_CONFIRMAR_PEDIDO
+[INFO] 13:05:58:216 cliente.log/(8071:8265): 	Operacion exitosa
+[INFO] 13:06:06:582 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:10:279 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:10:279 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:10:279 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2
+[INFO] 13:06:10:280 cliente.log/(8071:8267): Mensaje recibido
+[INFO] 13:06:10:280 cliente.log/(8071:8267): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:10:280 cliente.log/(8071:8267): 	Operacion exitosa
+[INFO] 13:06:14:45 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:26:8 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:26:8 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:26:8 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 3
+[INFO] 13:06:26:9 cliente.log/(8071:8271): Mensaje recibido
+[INFO] 13:06:26:9 cliente.log/(8071:8271): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:26:9 cliente.log/(8071:8271): 	Operacion exitosa
+[INFO] 13:06:29:584 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:33:500 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:33:500 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:33:500 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4
+[INFO] 13:06:33:501 cliente.log/(8071:8273): Mensaje recibido
+[INFO] 13:06:33:501 cliente.log/(8071:8273): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:33:501 cliente.log/(8071:8273): 	Operacion exitosa
+[INFO] 13:06:36:991 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:40:93 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:40:93 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:40:93 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 5
+[INFO] 13:06:40:94 cliente.log/(8071:8276): Mensaje recibido
+[INFO] 13:06:40:94 cliente.log/(8071:8276): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:40:94 cliente.log/(8071:8276): 	Operacion exitosa
+[INFO] 13:06:43:330 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:48:424 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:48:424 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:48:425 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6
+[INFO] 13:06:48:425 cliente.log/(8071:8278): Mensaje recibido
+[INFO] 13:06:48:425 cliente.log/(8071:8278): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:48:425 cliente.log/(8071:8278): 	Operacion exitosa
+[INFO] 13:06:53:509 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:58:459 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:06:58:459 cliente.log/(8071:8071): CONFIRMAR_PEDIDO
+[INFO] 13:06:58:459 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 7
+[INFO] 13:06:58:459 cliente.log/(8071:8285): Mensaje recibido
+[INFO] 13:06:58:459 cliente.log/(8071:8285): R_CONFIRMAR_PEDIDO
+[INFO] 13:06:58:459 cliente.log/(8071:8285): 	Operacion exitosa
+[INFO] 13:07:08:627 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:07:20:154 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:07:20:154 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:07:20:154 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1	 Plato: AsadoConFritas
+[INFO] 13:07:20:155 cliente.log/(8071:8292): Mensaje recibido
+[INFO] 13:07:20:155 cliente.log/(8071:8292): R_PLATO_LISTO
+[INFO] 13:07:20:155 cliente.log/(8071:8292): 	Operacion exitosa
+[INFO] 13:08:12:60 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:08:21:625 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:08:21:625 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:08:21:625 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2	 Plato: AsadoConFritas
+[INFO] 13:08:21:626 cliente.log/(8071:8299): Mensaje recibido
+[INFO] 13:08:21:626 cliente.log/(8071:8299): R_PLATO_LISTO
+[INFO] 13:08:21:626 cliente.log/(8071:8299): 	Operacion exitosa
+[INFO] 13:08:43:324 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:08:55:516 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:08:55:516 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:08:55:516 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 3	 Plato: AsadoConFritas
+[INFO] 13:08:55:517 cliente.log/(8071:8301): Mensaje recibido
+[INFO] 13:08:55:517 cliente.log/(8071:8301): R_PLATO_LISTO
+[INFO] 13:08:55:517 cliente.log/(8071:8301): 	Operacion exitosa
+[INFO] 13:09:00:321 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:11:894 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:09:11:894 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:11:894 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1	 Plato: AsadoConFritas
+[INFO] 13:09:11:896 cliente.log/(8071:8303): Mensaje recibido
+[INFO] 13:09:11:896 cliente.log/(8071:8303): R_PLATO_LISTO
+[INFO] 13:09:11:896 cliente.log/(8071:8303): 	Operacion exitosa
+[INFO] 13:09:18:13 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:24:536 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:09:24:536 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:24:536 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2	 Plato: AsadoConFritas
+[INFO] 13:09:24:538 cliente.log/(8071:8308): Mensaje recibido
+[INFO] 13:09:24:538 cliente.log/(8071:8308): R_PLATO_LISTO
+[INFO] 13:09:24:538 cliente.log/(8071:8308): 	Operacion exitosa
+[INFO] 13:09:30:449 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:40:987 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:09:40:987 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:09:40:988 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 5	 Plato: Bondiolita
+[INFO] 13:09:40:993 cliente.log/(8071:8321): Mensaje recibido
+[INFO] 13:09:40:993 cliente.log/(8071:8321): R_PLATO_LISTO
+[INFO] 13:09:40:993 cliente.log/(8071:8321): 	Operacion exitosa
+[INFO] 13:10:09:634 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:10:20:57 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:10:20:57 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:10:20:57 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6	 Plato: Bondiolita
+[INFO] 13:10:20:61 cliente.log/(8071:8333): Mensaje recibido
+[INFO] 13:10:20:61 cliente.log/(8071:8333): R_PLATO_LISTO
+[INFO] 13:10:20:61 cliente.log/(8071:8333): 	Operacion exitosa
+[INFO] 13:11:25:529 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:11:32:726 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:11:32:726 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:11:32:726 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6	 Plato: Bondiolita
+[INFO] 13:11:32:727 cliente.log/(8071:8349): Mensaje recibido
+[INFO] 13:11:32:727 cliente.log/(8071:8349): R_PLATO_LISTO
+[INFO] 13:11:32:727 cliente.log/(8071:8349): 	Operacion exitosa
+[INFO] 13:11:36:297 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:11:44:355 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:11:44:355 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:11:44:355 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6	 Plato: Bondiolita
+[INFO] 13:11:44:356 cliente.log/(8071:8357): Mensaje recibido
+[INFO] 13:11:44:356 cliente.log/(8071:8357): R_PLATO_LISTO
+[INFO] 13:11:44:356 cliente.log/(8071:8357): 	Operacion exitosa
+[INFO] 13:11:48:935 cliente.log/(8071:8071): BONDIOLITA
+[INFO] 13:11:56:457 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:12:08:463 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:12:08:463 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:12:08:463 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6	 Plato: Bondiolita
+[INFO] 13:12:08:464 cliente.log/(8071:8359): Mensaje recibido
+[INFO] 13:12:08:464 cliente.log/(8071:8359): R_PLATO_LISTO
+[INFO] 13:12:08:464 cliente.log/(8071:8359): 	Operacion exitosa
+[INFO] 13:12:14:471 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:12:23:317 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:12:23:317 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:12:23:317 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:12:23:319 cliente.log/(8071:8363): Mensaje recibido
+[INFO] 13:12:23:319 cliente.log/(8071:8363): R_PLATO_LISTO
+[INFO] 13:12:23:319 cliente.log/(8071:8363): 	Operacion exitosa
+[INFO] 13:12:52:52 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:02:102 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:13:02:102 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:02:102 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choriopan
+[INFO] 13:13:02:103 cliente.log/(8071:8375): Mensaje recibido
+[INFO] 13:13:02:103 cliente.log/(8071:8375): R_PLATO_LISTO
+[WARNING] 13:13:02:103 cliente.log/(8071:8375): 	No se pudo realizar la accion correctamente
+[INFO] 13:13:21:641 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:35:235 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:13:35:236 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:35:236 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:13:35:237 cliente.log/(8071:8395): Mensaje recibido
+[INFO] 13:13:35:237 cliente.log/(8071:8395): R_PLATO_LISTO
+[INFO] 13:13:35:237 cliente.log/(8071:8395): 	Operacion exitosa
+[INFO] 13:13:41:624 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:47:683 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:13:47:683 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:47:683 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:13:47:684 cliente.log/(8071:8397): Mensaje recibido
+[INFO] 13:13:47:684 cliente.log/(8071:8397): R_PLATO_LISTO
+[INFO] 13:13:47:684 cliente.log/(8071:8397): 	Operacion exitosa
+[INFO] 13:13:51:225 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:56:834 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:13:56:835 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:13:56:835 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:13:56:835 cliente.log/(8071:8404): Mensaje recibido
+[INFO] 13:13:56:835 cliente.log/(8071:8404): R_PLATO_LISTO
+[INFO] 13:13:56:835 cliente.log/(8071:8404): 	Operacion exitosa
+[INFO] 13:14:00:296 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:05:995 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:14:05:995 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:05:995 cliente.log/(8071:8071): 	Restaurante: DEFaULT	 ID Pedido: 4	 Plato: CHoripan
+[INFO] 13:14:05:996 cliente.log/(8071:8406): Mensaje recibido
+[INFO] 13:14:05:996 cliente.log/(8071:8406): R_PLATO_LISTO
+[WARNING] 13:14:05:996 cliente.log/(8071:8406): 	No se pudo realizar la accion correctamente
+[INFO] 13:14:16:409 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:25:819 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:14:25:819 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:25:819 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:14:25:820 cliente.log/(8071:8410): Mensaje recibido
+[INFO] 13:14:25:820 cliente.log/(8071:8410): R_PLATO_LISTO
+[INFO] 13:14:25:820 cliente.log/(8071:8410): 	Operacion exitosa
+[INFO] 13:14:29:185 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:34:700 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:14:34:700 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:34:700 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:14:34:701 cliente.log/(8071:8412): Mensaje recibido
+[INFO] 13:14:34:701 cliente.log/(8071:8412): R_PLATO_LISTO
+[INFO] 13:14:34:701 cliente.log/(8071:8412): 	Operacion exitosa
+[INFO] 13:14:38:821 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:45:100 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:14:45:100 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:45:100 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:14:45:101 cliente.log/(8071:8414): Mensaje recibido
+[INFO] 13:14:45:101 cliente.log/(8071:8414): R_PLATO_LISTO
+[INFO] 13:14:45:101 cliente.log/(8071:8414): 	Operacion exitosa
+[INFO] 13:14:48:859 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:55:238 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:14:55:238 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:14:55:238 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:14:55:239 cliente.log/(8071:8416): Mensaje recibido
+[INFO] 13:14:55:239 cliente.log/(8071:8416): R_PLATO_LISTO
+[INFO] 13:14:55:239 cliente.log/(8071:8416): 	Operacion exitosa
+[INFO] 13:14:59:641 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:10:555 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:15:10:555 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:10:555 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:15:10:556 cliente.log/(8071:8423): Mensaje recibido
+[INFO] 13:15:10:556 cliente.log/(8071:8423): R_PLATO_LISTO
+[INFO] 13:15:10:556 cliente.log/(8071:8423): 	Operacion exitosa
+[INFO] 13:15:14:126 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:19:725 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:15:19:725 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:19:726 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:15:19:727 cliente.log/(8071:8426): Mensaje recibido
+[INFO] 13:15:19:727 cliente.log/(8071:8426): R_PLATO_LISTO
+[INFO] 13:15:19:727 cliente.log/(8071:8426): 	Operacion exitosa
+[INFO] 13:15:23:217 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:30:341 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:15:30:341 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:30:341 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:15:30:342 cliente.log/(8071:8430): Mensaje recibido
+[INFO] 13:15:30:342 cliente.log/(8071:8430): R_PLATO_LISTO
+[INFO] 13:15:30:342 cliente.log/(8071:8430): 	Operacion exitosa
+[INFO] 13:15:33:992 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:39:382 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:15:39:382 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:39:382 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:15:39:383 cliente.log/(8071:8432): Mensaje recibido
+[INFO] 13:15:39:383 cliente.log/(8071:8432): R_PLATO_LISTO
+[INFO] 13:15:39:383 cliente.log/(8071:8432): 	Operacion exitosa
+[INFO] 13:15:42:993 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:49:438 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:15:49:438 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:15:49:438 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:15:49:439 cliente.log/(8071:8434): Mensaje recibido
+[INFO] 13:15:49:439 cliente.log/(8071:8434): R_PLATO_LISTO
+[INFO] 13:15:49:439 cliente.log/(8071:8434): 	Operacion exitosa
+[INFO] 13:15:55:355 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:00:480 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:00:480 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:00:481 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:00:482 cliente.log/(8071:8441): Mensaje recibido
+[INFO] 13:16:00:483 cliente.log/(8071:8441): R_PLATO_LISTO
+[INFO] 13:16:00:483 cliente.log/(8071:8441): 	Operacion exitosa
+[INFO] 13:16:04:42 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:10:480 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:10:480 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:10:480 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:10:481 cliente.log/(8071:8443): Mensaje recibido
+[INFO] 13:16:10:481 cliente.log/(8071:8443): R_PLATO_LISTO
+[INFO] 13:16:10:481 cliente.log/(8071:8443): 	Operacion exitosa
+[INFO] 13:16:15:255 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:21:245 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:21:245 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:21:245 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:21:246 cliente.log/(8071:8447): Mensaje recibido
+[INFO] 13:16:21:246 cliente.log/(8071:8447): R_PLATO_LISTO
+[INFO] 13:16:21:246 cliente.log/(8071:8447): 	Operacion exitosa
+[INFO] 13:16:24:457 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:30:226 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:30:226 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:30:226 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:30:227 cliente.log/(8071:8449): Mensaje recibido
+[INFO] 13:16:30:227 cliente.log/(8071:8449): R_PLATO_LISTO
+[INFO] 13:16:30:227 cliente.log/(8071:8449): 	Operacion exitosa
+[INFO] 13:16:34:176 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:40:494 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:40:494 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:40:494 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:40:495 cliente.log/(8071:8451): Mensaje recibido
+[INFO] 13:16:40:495 cliente.log/(8071:8451): R_PLATO_LISTO
+[INFO] 13:16:40:495 cliente.log/(8071:8451): 	Operacion exitosa
+[INFO] 13:16:46:644 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:58:764 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:16:58:764 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:16:58:764 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:16:58:765 cliente.log/(8071:8453): Mensaje recibido
+[INFO] 13:16:58:765 cliente.log/(8071:8453): R_PLATO_LISTO
+[INFO] 13:16:58:765 cliente.log/(8071:8453): 	Operacion exitosa
+[INFO] 13:17:07:913 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:17:14:166 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:17:14:166 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:17:14:166 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4	 Plato: Choripan
+[INFO] 13:17:14:168 cliente.log/(8071:8458): Mensaje recibido
+[INFO] 13:17:14:168 cliente.log/(8071:8458): R_PLATO_LISTO
+[INFO] 13:17:14:168 cliente.log/(8071:8458): 	Operacion exitosa
+[INFO] 13:17:38:869 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:17:46:561 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:17:46:561 cliente.log/(8071:8071): PLATO_LISTO
+[INFO] 13:17:46:561 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 7	 Plato: Morcipan
+[INFO] 13:17:46:563 cliente.log/(8071:8463): Mensaje recibido
+[INFO] 13:17:46:563 cliente.log/(8071:8463): R_PLATO_LISTO
+[INFO] 13:17:46:563 cliente.log/(8071:8463): 	Operacion exitosa
+[INFO] 13:18:19:474 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:23:160 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:18:23:160 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:23:160 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 1
+[INFO] 13:18:23:162 cliente.log/(8071:8472): Mensaje recibido
+[INFO] 13:18:23:162 cliente.log/(8071:8472): R_FINALIZAR_PEDIDO
+[INFO] 13:18:23:162 cliente.log/(8071:8472): 	Operacion exitosa
+[INFO] 13:18:32:989 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:36:910 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:18:36:910 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:36:910 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 2
+[INFO] 13:18:36:911 cliente.log/(8071:8474): Mensaje recibido
+[INFO] 13:18:36:911 cliente.log/(8071:8474): R_FINALIZAR_PEDIDO
+[INFO] 13:18:36:911 cliente.log/(8071:8474): 	Operacion exitosa
+[INFO] 13:18:40:726 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:43:828 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:18:43:828 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:43:828 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 3
+[INFO] 13:18:43:829 cliente.log/(8071:8476): Mensaje recibido
+[INFO] 13:18:43:829 cliente.log/(8071:8476): R_FINALIZAR_PEDIDO
+[INFO] 13:18:43:829 cliente.log/(8071:8476): 	Operacion exitosa
+[INFO] 13:18:48:846 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:53:222 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:18:53:222 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:18:53:222 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 4
+[INFO] 13:18:53:223 cliente.log/(8071:8483): Mensaje recibido
+[INFO] 13:18:53:223 cliente.log/(8071:8483): R_FINALIZAR_PEDIDO
+[INFO] 13:18:53:223 cliente.log/(8071:8483): 	Operacion exitosa
+[INFO] 13:18:57:882 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:01:817 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:19:01:817 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:01:817 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 5
+[INFO] 13:19:01:819 cliente.log/(8071:8485): Mensaje recibido
+[INFO] 13:19:01:819 cliente.log/(8071:8485): R_FINALIZAR_PEDIDO
+[INFO] 13:19:01:819 cliente.log/(8071:8485): 	Operacion exitosa
+[INFO] 13:19:06:462 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:14:612 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:19:14:612 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:14:612 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 6
+[INFO] 13:19:14:614 cliente.log/(8071:8487): Mensaje recibido
+[INFO] 13:19:14:614 cliente.log/(8071:8487): R_FINALIZAR_PEDIDO
+[INFO] 13:19:14:614 cliente.log/(8071:8487): 	Operacion exitosa
+[INFO] 13:19:21:150 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:24:751 cliente.log/(8071:8071): Mensaje enviado
+[INFO] 13:19:24:751 cliente.log/(8071:8071): FINALIZAR_PEDIDO
+[INFO] 13:19:24:751 cliente.log/(8071:8071): 	Restaurante: DEFAULT	 ID Pedido: 7
+[INFO] 13:19:24:752 cliente.log/(8071:8499): Mensaje recibido
+[INFO] 13:19:24:752 cliente.log/(8071:8499): R_FINALIZAR_PEDIDO
+[INFO] 13:19:24:752 cliente.log/(8071:8499): 	Operacion exitosa
+[INFO] 23:18:57:827 cliente.log/(7086:7086): CONSULTAR_PLATOS
+[INFO] 23:19:02:708 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:19:02:708 cliente.log/(7086:7086): CONSULTAR_PLATOS
+[INFO] 23:19:02:708 cliente.log/(7086:7086): 	Restaurante: LaParri
+[INFO] 23:19:02:721 cliente.log/(7086:7108): Mensaje recibido
+[INFO] 23:19:02:721 cliente.log/(7086:7108): R_CONSULTAR_PLATOS
+[INFO] 23:19:02:722 cliente.log/(7086:7108): 	Plato: AsadoJugoso
+[INFO] 23:19:02:722 cliente.log/(7086:7108): 	Plato: AsadoSeco
+[INFO] 23:19:02:724 cliente.log/(7086:7108): 	Plato: Choripan
+[INFO] 23:19:08:715 cliente.log/(7086:7086): CREAR_PEDIDO
+[INFO] 23:19:16:684 cliente.log/(7086:7086): GUARDAR_PEDIDO
+[INFO] 23:19:46:410 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:19:46:410 cliente.log/(7086:7086): GUARDAR_PEDIDO
+[INFO] 23:19:46:410 cliente.log/(7086:7086): 	Restaurante: LaParri	 ID Pedido: 8
+[INFO] 23:19:46:423 cliente.log/(7086:7127): Mensaje recibido
+[INFO] 23:19:46:423 cliente.log/(7086:7127): R_GUARDAR_PEDIDO
+[INFO] 23:19:46:423 cliente.log/(7086:7127): 	Operacion exitosa
+[INFO] 23:19:52:2 cliente.log/(7086:7086): AÑADIR_PLATO
+[INFO] 23:20:00:753 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:20:18:426 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:20:18:426 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:20:18:426 cliente.log/(7086:7086): 	Restaurante: LaParriţ ID Pedido: 8	 Plato: AsadoJugoso	 Cantidad: 1
+[INFO] 23:21:44:576 cliente.log/(7086:7133): Mensaje recibido
+[INFO] 23:21:44:576 cliente.log/(7086:7133): R_GUARDAR_PLATO
+[INFO] 23:21:44:576 cliente.log/(7086:7133): 	Operacion exitosa
+[INFO] 23:21:52:537 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:22:13:880 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:22:13:881 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:22:13:881 cliente.log/(7086:7086): 	Restaurante: AsadoSecoţ ID Pedido: 8	 Plato: AsadoSeco	 Cantidad: 1
+[INFO] 23:22:17:198 cliente.log/(7086:7212): Mensaje recibido
+[INFO] 23:22:17:198 cliente.log/(7086:7212): R_GUARDAR_PLATO
+[WARNING] 23:22:17:198 cliente.log/(7086:7212): 	No se pudo realizar la accion correctamente
+[INFO] 23:22:24:97 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:22:35:83 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:22:35:83 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:22:35:83 cliente.log/(7086:7086): 	Restaurante: LaParriţ ID Pedido: 8	 Plato: AsadoSeco	 Cantidad: 1
+[INFO] 23:24:16:930 cliente.log/(7086:7233): Mensaje recibido
+[INFO] 23:24:16:930 cliente.log/(7086:7233): R_GUARDAR_PLATO
+[INFO] 23:24:16:930 cliente.log/(7086:7233): 	Operacion exitosa
+[INFO] 23:24:30:667 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:24:42:398 cliente.log/(7086:7086): Mensaje enviado
+[INFO] 23:24:42:399 cliente.log/(7086:7086): GUARDAR_PLATO
+[INFO] 23:24:42:399 cliente.log/(7086:7086): 	Restaurante: LaParriţ ID Pedido: 8	 Plato: Choripan	 Cantidad: 2
+[INFO] 23:31:18:382 cliente.log/(7717:7717): GUARDAR_PEDIDO
+[INFO] 23:31:36:10 cliente.log/(7717:7717): Mensaje enviado
+[INFO] 23:31:36:10 cliente.log/(7717:7717): GUARDAR_PEDIDO
+[INFO] 23:31:36:10 cliente.log/(7717:7717): 	Restaurante: LaParri	 ID Pedido: 5
+[INFO] 23:31:36:31 cliente.log/(7717:7738): Mensaje recibido
+[INFO] 23:31:36:31 cliente.log/(7717:7738): R_GUARDAR_PEDIDO
+[INFO] 23:31:36:31 cliente.log/(7717:7738): 	Operacion exitosa
+[INFO] 23:31:42:492 cliente.log/(7717:7717): GUARDAR_PLATO
+[INFO] 23:31:58:280 cliente.log/(7717:7717): Mensaje enviado
+[INFO] 23:31:58:280 cliente.log/(7717:7717): GUARDAR_PLATO
+[INFO] 23:31:58:280 cliente.log/(7717:7717): 	Restaurante: LaParriţ ID Pedido: 5	 Plato: AsadoJugoso	 Cantidad: 1
+[INFO] 23:32:05:627 cliente.log/(7717:7741): Mensaje recibido
+[INFO] 23:32:05:627 cliente.log/(7717:7741): R_GUARDAR_PLATO
+[INFO] 23:32:05:627 cliente.log/(7717:7741): 	Operacion exitosa
+[INFO] 23:32:12:408 cliente.log/(7717:7717): GUARDAR_PLATO
+[INFO] 23:32:31:5 cliente.log/(7717:7717): Mensaje enviado
+[INFO] 23:32:31:5 cliente.log/(7717:7717): GUARDAR_PLATO
+[INFO] 23:32:31:5 cliente.log/(7717:7717): 	Restaurante: LaParriţ ID Pedido: 5	 Plato: AsadoSeco	 Cantidad: 1
+[INFO] 01:12:32:289 cliente.log/(4786:4786): GUARDAR_PEDIDO
+[INFO] 01:12:46:102 cliente.log/(4786:4786): Mensaje enviado
+[INFO] 01:12:46:102 cliente.log/(4786:4786): GUARDAR_PEDIDO
+[INFO] 01:12:46:102 cliente.log/(4786:4786): 	Restaurante: LaParri	 ID Pedido: 2
+[INFO] 01:15:29:154 cliente.log/(4907:4907): GUARDAR_PEDIDO
+[INFO] 01:15:37:352 cliente.log/(4907:4907): Mensaje enviado
+[INFO] 01:15:37:352 cliente.log/(4907:4907): GUARDAR_PEDIDO
+[INFO] 01:15:37:352 cliente.log/(4907:4907): 	Restaurante: LaParri	 ID Pedido: 3
+[INFO] 01:15:37:375 cliente.log/(4907:4919): Mensaje recibido
+[INFO] 01:15:37:375 cliente.log/(4907:4919): R_GUARDAR_PEDIDO
+[INFO] 01:15:37:375 cliente.log/(4907:4919): 	Operacion exitosa
